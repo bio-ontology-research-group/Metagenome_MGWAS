@@ -1,0 +1,150 @@
+attributes.environment-feature;0
+Acidic, High Temperature;1
+Agricultural;2
+Agricultural soil;46
+Alaska;1
+Clay;241
+Conifer woodland;2
+Dry valley;18
+ENVO:00001998;36
+ENVO:00005773;16
+ENVO:01000338;12
+ENVO:park;1016
+ENVO:tundra;31
+ENVO_00000552;6
+Eucalyptus/Acacia woodlands;96
+Farmland;18
+Fen;3
+Field;1
+Forest soil;1215
+Grassland;9
+Lja conservative management;2
+Lja intensive management;2
+Meadow;1
+Mediterranean forest;48
+Microbial;60
+Microbial features;59
+Oil palm plantation;9
+Other;2
+Polygonal ground;14
+RPM Soybean monoculture;2
+RPM Sustainable management;2
+RPM soybean monoculture;1
+SIN Soybean monoculture;1
+SIN Sustainable management;3
+Sand;12
+Sandy beach;1
+Sheep pasture;87
+Soil;10
+Sugarcane field experiment;121
+Swiss Alps;11
+Temperate coniferous forest;21
+Terrestrial;2
+Woodland;2
+a;1055
+agricultural;57
+agricultural facility;186
+agricultural feature;149
+agricultural field;24
+agricultural soil;28
+air;45
+area of mixed forest;8
+area of pastureland or hayfields;12
+basin;4
+beech forest soil;1
+bog;26
+cave sediment;3
+clay soil;1
+coal mine;14
+coastal plain (ENVO:00000090);4
+coastal sands;1
+coffee plantation;62
+compost soil;5
+contaminated soil;6
+crystalline bedrock;120
+cultivated habitat;295
+dam;95
+deciduous forest;6
+decommissioned gas station;3
+delta;1
+dry lake;92
+dry soil;2
+environmental zone;40
+farm;377
+farm soil;73
+field;100
+field soil;709
+fluvisol;12
+forest;503
+forest soil;320
+freshwater sediment;30
+garden;1
+garden soil;151
+geothermal field;2
+grassland;13
+grassland soil;28
+harbor;96
+ice free;1
+jungle rubber plantation;24
+lake;21
+lichen;8
+lichens;8
+luvisol;20
+microbial control;1
+mountain;91
+national park;26
+not available;4
+oasis;3
+oil contaminated soil;29
+oil palm plantation;24
+oil refinery;13
+oil reservoir;15
+other;2
+park;1
+park land soil;22
+pasture;24
+peat soil;17
+peatland;1
+permafrost;42
+permafrost-affected soil;1
+phosphogypsum waste heap soil;26
+planted forest;23
+podzol;4
+pond;1
+prairie ENVO:00000260;31
+previous gas station;134
+rainforest;24
+rhizosphere;10
+river;1
+river bank;14
+rock;6
+rocky;1
+rubber plantation;24
+rural;97
+saline soil;1
+sand;4
+sandy;36
+sea shore;38
+seaside;3
+seasonal snow patch;30
+soil;2480
+soil_environment;29
+steppe;18
+steppe soil;206
+subterrestrial habitat;2
+surface;12
+surface soil;18
+surface soil(ENVO:02000059);1
+swampy are;1
+swampy area;5
+taiga;4
+terrestrial;8
+tropical soil;28
+tundra;91
+turf-grass;642
+unknown;7
+upslope area;6
+urban soils;41
+water;12
+wetland;3
+winter snow cover;17
