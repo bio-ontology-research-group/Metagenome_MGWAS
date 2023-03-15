@@ -1,0 +1,3363 @@
+study_id	MGYS00005053
+study_id	MGYS00006118
+sample_id	ERS2955255
+investigation type	metagenome
+project name	Comparative metagenome analysis of normal and arsenic contaminated soils from ballia district, Uttar Pradesh, India
+geographic location (longitude)	84.2742
+geographic location (country and/or sea,region)	India
+collection date	2018-11-17
+environment (biome)	habitat
+environment (feature)	environmental zone
+environment (material)	soil
+environmental package	soil
+sequencing method	illumina
+elevation	0.08
+geographic location (latitude)	25.71535
+instrument model	unspecified
+ENA checklist	ERC000022
+last update date	2018-12-04
+
+study_id	MGYS00005053
+study_id	MGYS00006118
+sample_id	ERS2955257
+investigation type	metagenome
+project name	Comparative metagenome analysis of normal and arsenic contaminated soils from ballia district, Uttar Pradesh, India
+geographic location (longitude)	84.03577
+geographic location (country and/or sea,region)	India
+collection date	2018-11-19
+environment (biome)	habitat
+environment (feature)	environmental zone
+environment (material)	soil
+environmental package	soil
+sequencing method	illumina
+elevation	0.08
+geographic location (latitude)	25.77631
+instrument model	unspecified
+ENA checklist	ERC000022
+last update date	2018-12-04
+
+study_id	MGYS00005053
+study_id	MGYS00006118
+sample_id	ERS2955256
+investigation type	metagenome
+project name	Comparative metagenome analysis of normal and arsenic contaminated soils from ballia district, Uttar Pradesh, India
+geographic location (longitude)	84.2742
+geographic location (country and/or sea,region)	India
+collection date	2018-11-09
+environment (biome)	habitat
+environment (feature)	environmental zone
+environment (material)	soil
+environmental package	soil
+sequencing method	illumina
+elevation	0.08
+geographic location (latitude)	25.71535
+instrument model	unspecified
+ENA checklist	ERC000022
+last update date	2018-12-04
+
+study_id	MGYS00006044
+sample_id	ERS12024826
+investigation type	metagenome
+project name	FarmHub_Transect
+geographic location (longitude)	-74.08637
+geographic location (country and/or sea,region)	USA
+collection date	2019-07-03
+environment (biome)	farm soil
+environment (feature)	surface
+environment (material)	soil
+environmental package	soil
+sequencing method	Illumina NextEra
+elevation	200.0
+geographic location (latitude)	41.90988
+ENA checklist	ERC000022
+
+study_id	MGYS00006044
+sample_id	ERS12024828
+investigation type	metagenome
+project name	FarmHub_Transect
+geographic location (longitude)	-74.08637
+geographic location (country and/or sea,region)	USA
+collection date	2019-07-03
+environment (biome)	farm soil
+environment (feature)	surface
+environment (material)	soil
+environmental package	soil
+sequencing method	Illumina NextEra
+elevation	200.0
+geographic location (latitude)	41.90988
+ENA checklist	ERC000022
+
+study_id	MGYS00006044
+sample_id	ERS12024832
+investigation type	metagenome
+project name	FarmHub_Transect
+geographic location (longitude)	-74.08637
+geographic location (country and/or sea,region)	USA
+collection date	2019-07-03
+environment (biome)	farm soil
+environment (feature)	surface
+environment (material)	soil
+environmental package	soil
+sequencing method	Illumina NextEra
+elevation	200.0
+geographic location (latitude)	41.90988
+ENA checklist	ERC000022
+
+study_id	MGYS00006044
+sample_id	ERS12024824
+investigation type	metagenome
+project name	FarmHub_Transect
+geographic location (longitude)	-74.08637
+geographic location (country and/or sea,region)	USA
+collection date	2019-07-03
+environment (biome)	farm soil
+environment (feature)	surface
+environment (material)	soil
+environmental package	soil
+sequencing method	Illumina NextEra
+elevation	200.0
+geographic location (latitude)	41.90988
+ENA checklist	ERC000022
+
+study_id	MGYS00006044
+sample_id	ERS12024833
+investigation type	metagenome
+project name	FarmHub_Transect
+geographic location (longitude)	-74.08637
+geographic location (country and/or sea,region)	USA
+collection date	2019-07-03
+environment (biome)	farm soil
+environment (feature)	surface
+environment (material)	soil
+environmental package	soil
+sequencing method	Illumina NextEra
+elevation	200.0
+geographic location (latitude)	41.90988
+ENA checklist	ERC000022
+
+study_id	MGYS00006044
+sample_id	ERS12024827
+investigation type	metagenome
+project name	FarmHub_Transect
+geographic location (longitude)	-74.08637
+geographic location (country and/or sea,region)	USA
+collection date	2019-07-03
+environment (biome)	farm soil
+environment (feature)	surface
+environment (material)	soil
+environmental package	soil
+sequencing method	Illumina NextEra
+elevation	200.0
+geographic location (latitude)	41.90988
+ENA checklist	ERC000022
+
+study_id	MGYS00006044
+sample_id	ERS12024823
+investigation type	metagenome
+project name	FarmHub_Transect
+geographic location (longitude)	-74.08637
+geographic location (country and/or sea,region)	USA
+collection date	2019-07-03
+environment (biome)	farm soil
+environment (feature)	surface
+environment (material)	soil
+environmental package	soil
+sequencing method	Illumina NextEra
+elevation	200.0
+geographic location (latitude)	41.90988
+ENA checklist	ERC000022
+
+study_id	MGYS00006044
+sample_id	ERS12024829
+investigation type	metagenome
+project name	FarmHub_Transect
+geographic location (longitude)	-74.08637
+geographic location (country and/or sea,region)	USA
+collection date	2019-07-03
+environment (biome)	farm soil
+environment (feature)	surface
+environment (material)	soil
+environmental package	soil
+sequencing method	Illumina NextEra
+elevation	200.0
+geographic location (latitude)	41.90988
+ENA checklist	ERC000022
+
+study_id	MGYS00006044
+sample_id	ERS12024834
+investigation type	metagenome
+project name	FarmHub_Transect
+geographic location (longitude)	-74.08637
+geographic location (country and/or sea,region)	USA
+collection date	2019-07-03
+environment (biome)	farm soil
+environment (feature)	surface
+environment (material)	soil
+environmental package	soil
+sequencing method	Illumina NextEra
+elevation	200.0
+geographic location (latitude)	41.90988
+ENA checklist	ERC000022
+
+study_id	MGYS00006044
+sample_id	ERS12024831
+investigation type	metagenome
+project name	FarmHub_Transect
+geographic location (longitude)	-74.08637
+geographic location (country and/or sea,region)	USA
+collection date	2019-07-03
+environment (biome)	farm soil
+environment (feature)	surface
+environment (material)	soil
+environmental package	soil
+sequencing method	Illumina NextEra
+elevation	200.0
+geographic location (latitude)	41.90988
+ENA checklist	ERC000022
+
+study_id	MGYS00006044
+sample_id	ERS12024825
+investigation type	metagenome
+project name	FarmHub_Transect
+geographic location (longitude)	-74.08637
+geographic location (country and/or sea,region)	USA
+collection date	2019-07-03
+environment (biome)	farm soil
+environment (feature)	surface
+environment (material)	soil
+environmental package	soil
+sequencing method	Illumina NextEra
+elevation	200.0
+geographic location (latitude)	41.90988
+ENA checklist	ERC000022
+
+study_id	MGYS00006044
+sample_id	ERS12024830
+investigation type	metagenome
+project name	FarmHub_Transect
+geographic location (longitude)	-74.08637
+geographic location (country and/or sea,region)	USA
+collection date	2019-07-03
+environment (biome)	farm soil
+environment (feature)	surface
+environment (material)	soil
+environmental package	soil
+sequencing method	Illumina NextEra
+elevation	200.0
+geographic location (latitude)	41.90988
+ENA checklist	ERC000022
+
+study_id	MGYS00006043
+sample_id	ERS11617675
+geographic location (country and/or sea,region)	India
+ENA checklist	ERC000011
+
+study_id	MGYS00005547
+sample_id	ERS7551489
+investigation type	metagenome
+project name	Microbiota of Chernevaya Taiga of Siberia
+geographic location (longitude)	84.7986
+geographic location (country and/or sea,region)	Russia
+collection date	2020-05-01
+environment (biome)	taiga
+environment (feature)	not available
+environment (material)	bulk soil
+environmental package	soil
+sequencing method	Illumina / Oxford Nanopore
+elevation	0.0
+geographic location (latitude)	56.48106
+ENA checklist	ERC000022
+
+study_id	MGYS00005547
+sample_id	ERS7551488
+investigation type	metagenome
+project name	Microbiota of Chernevaya Taiga of Siberia
+geographic location (longitude)	85.47063
+geographic location (country and/or sea,region)	Russia
+collection date	2020-05-01
+environment (biome)	taiga
+environment (feature)	not available
+environment (material)	bulk soil
+environmental package	soil
+sequencing method	Illumina / Oxford Nanopore
+elevation	0.0
+geographic location (latitude)	56.30693
+ENA checklist	ERC000022
+
+study_id	MGYS00005547
+sample_id	ERS7551487
+investigation type	metagenome
+project name	Microbiota of Chernevaya Taiga of Siberia
+geographic location (longitude)	82.1842
+geographic location (country and/or sea,region)	Russia
+collection date	2019-07-01
+environment (biome)	taiga
+environment (feature)	not available
+environment (material)	bulk soil
+environmental package	soil
+sequencing method	Illumina / Oxford Nanopore
+elevation	0.0
+geographic location (latitude)	54.4081
+ENA checklist	ERC000022
+
+study_id	MGYS00005547
+sample_id	ERS7551486
+investigation type	metagenome
+project name	Microbiota of Chernevaya Taiga of Siberia
+geographic location (longitude)	84.9495
+geographic location (country and/or sea,region)	Russia
+collection date	2019-07-01
+environment (biome)	taiga
+environment (feature)	not available
+environment (material)	bulk soil
+environmental package	soil
+sequencing method	Illumina / Oxford Nanopore
+elevation	0.0
+geographic location (latitude)	54.1407
+ENA checklist	ERC000022
+
+study_id	MGYS00005725
+sample_id	ERS5835113
+investigation type	metagenome
+project name	Shotgun metagenome sequences of Anthelia biocrust samples.
+geographic location (longitude)	-21.780518
+geographic location (country and/or sea,region)	Iceland
+collection date	2018-05-02
+environment (biome)	lowland rocky
+environment (feature)	rocky
+environment (material)	soil
+environmental package	soil
+sequencing method	Illumina
+altitude	0.0
+elevation	97.0
+geographic location (latitude)	64.10421
+ENA checklist	ERC000022
+
+study_id	MGYS00005725
+sample_id	ERS5835115
+investigation type	metagenome
+project name	Shotgun metagenome sequences of Anthelia biocrust samples.
+geographic location (longitude)	-18.272633
+geographic location (country and/or sea,region)	Iceland
+collection date	2016-07-09
+environment (biome)	alpine tundra
+environment (feature)	seasonal snow patch
+environment (material)	soil
+environmental package	soil
+sequencing method	Illumina
+altitude	0.0
+elevation	560.0
+geographic location (latitude)	64.04633
+ENA checklist	ERC000022
+
+study_id	MGYS00005725
+sample_id	ERS5835116
+investigation type	metagenome
+project name	Shotgun metagenome sequences of Anthelia biocrust samples.
+geographic location (longitude)	-18.225067
+geographic location (country and/or sea,region)	Iceland
+collection date	2016-09-07
+environment (biome)	alpine tundra
+environment (feature)	seasonal snow patch
+environment (material)	soil
+environmental package	soil
+sequencing method	Illumina
+altitude	0.0
+elevation	573.0
+geographic location (latitude)	64.05665
+ENA checklist	ERC000022
+
+study_id	MGYS00005725
+sample_id	ERS5835133
+investigation type	metagenome
+project name	Shotgun metagenome sequences of Anthelia biocrust samples.
+geographic location (longitude)	-21.061716
+geographic location (country and/or sea,region)	Iceland
+collection date	2016-09-14
+environment (biome)	alpine tundra
+environment (feature)	seasonal snow patch
+environment (material)	soil
+environmental package	soil
+sequencing method	Illumina
+altitude	0.0
+elevation	511.0
+geographic location (latitude)	64.3674
+ENA checklist	ERC000022
+
+study_id	MGYS00005725
+sample_id	ERS5835140
+investigation type	metagenome
+project name	Shotgun metagenome sequences of Anthelia biocrust samples.
+geographic location (longitude)	-21.060383
+geographic location (country and/or sea,region)	Iceland
+collection date	2016-05-24
+environment (biome)	alpine tundra
+environment (feature)	seasonal snow patch
+environment (material)	soil
+environmental package	soil
+sequencing method	Illumina
+altitude	0.0
+elevation	493.0
+geographic location (latitude)	64.36802
+ENA checklist	ERC000022
+
+study_id	MGYS00005725
+sample_id	ERS5835119
+investigation type	metagenome
+project name	Shotgun metagenome sequences of Anthelia biocrust samples.
+geographic location (longitude)	-18.672333
+geographic location (country and/or sea,region)	Iceland
+collection date	2016-07-10
+environment (biome)	alpine tundra
+environment (feature)	seasonal snow patch
+environment (material)	soil
+environmental package	soil
+sequencing method	Illumina
+altitude	0.0
+elevation	380.0
+geographic location (latitude)	63.75178
+ENA checklist	ERC000022
+
+study_id	MGYS00005725
+sample_id	ERS5835128
+investigation type	metagenome
+project name	Shotgun metagenome sequences of Anthelia biocrust samples.
+geographic location (longitude)	18.272633
+geographic location (country and/or sea,region)	Iceland
+collection date	2016-08-24
+environment (biome)	alpine tundra
+environment (feature)	seasonal snow patch
+environment (material)	soil
+environmental package	soil
+sequencing method	Illumina
+altitude	0.0
+elevation	773.0
+geographic location (latitude)	64.04633
+ENA checklist	ERC000022
+
+study_id	MGYS00005725
+sample_id	ERS5835121
+investigation type	metagenome
+project name	Shotgun metagenome sequences of Anthelia biocrust samples.
+geographic location (longitude)	-18.735617
+geographic location (country and/or sea,region)	Iceland
+collection date	2016-07-10
+environment (biome)	alpine tundra
+environment (feature)	seasonal snow patch
+environment (material)	soil
+environmental package	soil
+sequencing method	Illumina
+altitude	0.0
+elevation	560.0
+geographic location (latitude)	63.85158
+ENA checklist	ERC000022
+
+study_id	MGYS00005725
+sample_id	ERS5835139
+investigation type	metagenome
+project name	Shotgun metagenome sequences of Anthelia biocrust samples.
+geographic location (longitude)	-21.061716
+geographic location (country and/or sea,region)	Iceland
+collection date	2016-05-24
+environment (biome)	alpine tundra
+environment (feature)	seasonal snow patch
+environment (material)	soil
+environmental package	soil
+sequencing method	Illumina
+altitude	0.0
+elevation	511.0
+geographic location (latitude)	64.3674
+ENA checklist	ERC000022
+
+study_id	MGYS00005725
+sample_id	ERS5835108
+investigation type	metagenome
+project name	Shotgun metagenome sequences of Anthelia biocrust samples.
+geographic location (longitude)	-21.44356
+geographic location (country and/or sea,region)	Iceland
+collection date	2017-09-10
+environment (biome)	alpine tundra
+environment (feature)	seasonal snow patch
+environment (material)	soil
+environmental package	soil
+sequencing method	Illumina
+altitude	0.0
+elevation	614.0
+geographic location (latitude)	64.24435
+ENA checklist	ERC000022
+
+study_id	MGYS00005725
+sample_id	ERS5835141
+investigation type	metagenome
+project name	Shotgun metagenome sequences of Anthelia biocrust samples.
+geographic location (longitude)	-17.992067
+geographic location (country and/or sea,region)	Iceland
+collection date	2020-07-30
+environment (biome)	lowland sandy
+environment (feature)	delta
+environment (material)	soil
+environmental package	soil
+sequencing method	Illumina
+altitude	0.0
+elevation	20.0
+geographic location (latitude)	63.813026
+ENA checklist	ERC000022
+
+study_id	MGYS00005725
+sample_id	ERS5835137
+investigation type	metagenome
+project name	Shotgun metagenome sequences of Anthelia biocrust samples.
+geographic location (longitude)	-20.76265
+geographic location (country and/or sea,region)	Iceland
+collection date	2016-09-14
+environment (biome)	alpine tundra
+environment (feature)	seasonal snow patch
+environment (material)	soil
+environmental package	soil
+sequencing method	Illumina
+altitude	0.0
+elevation	652.0
+geographic location (latitude)	64.43345
+ENA checklist	ERC000022
+
+study_id	MGYS00005725
+sample_id	ERS5835134
+investigation type	metagenome
+project name	Shotgun metagenome sequences of Anthelia biocrust samples.
+geographic location (longitude)	-21.061716
+geographic location (country and/or sea,region)	Iceland
+collection date	2016-09-14
+environment (biome)	alpine tundra
+environment (feature)	seasonal snow patch
+environment (material)	soil
+environmental package	soil
+sequencing method	Illumina
+altitude	0.0
+elevation	511.0
+geographic location (latitude)	64.3674
+ENA checklist	ERC000022
+
+study_id	MGYS00005725
+sample_id	ERS5835109
+investigation type	metagenome
+project name	Shotgun metagenome sequences of Anthelia biocrust samples.
+geographic location (longitude)	-21.44356
+geographic location (country and/or sea,region)	Iceland
+collection date	2017-09-10
+environment (biome)	alpine tundra
+environment (feature)	seasonal snow patch
+environment (material)	soil
+environmental package	soil
+sequencing method	Illumina
+altitude	0.0
+elevation	614.0
+geographic location (latitude)	64.24435
+ENA checklist	ERC000022
+
+study_id	MGYS00005725
+sample_id	ERS5835138
+investigation type	metagenome
+project name	Shotgun metagenome sequences of Anthelia biocrust samples.
+geographic location (longitude)	-21.0628
+geographic location (country and/or sea,region)	Iceland
+collection date	2016-05-24
+environment (biome)	alpine tundra
+environment (feature)	seasonal snow patch
+environment (material)	soil
+environmental package	soil
+sequencing method	Illumina
+altitude	0.0
+elevation	520.0
+geographic location (latitude)	64.36755
+ENA checklist	ERC000022
+
+study_id	MGYS00005725
+sample_id	ERS5835120
+investigation type	metagenome
+project name	Shotgun metagenome sequences of Anthelia biocrust samples.
+geographic location (longitude)	-18.76275
+geographic location (country and/or sea,region)	Iceland
+collection date	2016-07-10
+environment (biome)	alpine tundra
+environment (feature)	seasonal snow patch
+environment (material)	soil
+environmental package	soil
+sequencing method	Illumina
+altitude	0.0
+elevation	500.0
+geographic location (latitude)	63.817966
+ENA checklist	ERC000022
+
+study_id	MGYS00005725
+sample_id	ERS5835118
+investigation type	metagenome
+project name	Shotgun metagenome sequences of Anthelia biocrust samples.
+geographic location (longitude)	-18.225067
+geographic location (country and/or sea,region)	Iceland
+collection date	2016-09-07
+environment (biome)	alpine tundra
+environment (feature)	seasonal snow patch
+environment (material)	soil
+environmental package	soil
+sequencing method	Illumina
+altitude	0.0
+elevation	573.0
+geographic location (latitude)	64.05665
+ENA checklist	ERC000022
+
+study_id	MGYS00005725
+sample_id	ERS5835130
+investigation type	metagenome
+project name	Shotgun metagenome sequences of Anthelia biocrust samples.
+geographic location (longitude)	-19.33235
+geographic location (country and/or sea,region)	Iceland
+collection date	2016-08-24
+environment (biome)	alpine tundra
+environment (feature)	seasonal snow patch
+environment (material)	soil
+environmental package	soil
+sequencing method	Illumina
+altitude	0.0
+elevation	598.0
+geographic location (latitude)	64.05383
+ENA checklist	ERC000022
+
+study_id	MGYS00005725
+sample_id	ERS5835124
+investigation type	metagenome
+project name	Shotgun metagenome sequences of Anthelia biocrust samples.
+geographic location (longitude)	-19.350033
+geographic location (country and/or sea,region)	Iceland
+collection date	2016-08-24
+environment (biome)	alpine tundra
+environment (feature)	seasonal snow patch
+environment (material)	soil
+environmental package	soil
+sequencing method	Illumina
+altitude	0.0
+elevation	603.0
+geographic location (latitude)	64.03097
+ENA checklist	ERC000022
+
+study_id	MGYS00005725
+sample_id	ERS5835126
+investigation type	metagenome
+project name	Shotgun metagenome sequences of Anthelia biocrust samples.
+geographic location (longitude)	18.272633
+geographic location (country and/or sea,region)	Iceland
+collection date	2016-08-24
+environment (biome)	alpine tundra
+environment (feature)	seasonal snow patch
+environment (material)	soil
+environmental package	soil
+sequencing method	Illumina
+altitude	0.0
+elevation	773.0
+geographic location (latitude)	64.04633
+ENA checklist	ERC000022
+
+study_id	MGYS00005725
+sample_id	ERS5835122
+investigation type	metagenome
+project name	Shotgun metagenome sequences of Anthelia biocrust samples.
+geographic location (longitude)	-18.735617
+geographic location (country and/or sea,region)	Iceland
+collection date	2016-07-10
+environment (biome)	alpine tundra
+environment (feature)	seasonal snow patch
+environment (material)	soil
+environmental package	soil
+sequencing method	Illumina
+altitude	0.0
+elevation	560.0
+geographic location (latitude)	63.85158
+ENA checklist	ERC000022
+
+study_id	MGYS00005725
+sample_id	ERS5835136
+investigation type	metagenome
+project name	Shotgun metagenome sequences of Anthelia biocrust samples.
+geographic location (longitude)	-21.0628
+geographic location (country and/or sea,region)	Iceland
+collection date	2016-09-14
+environment (biome)	alpine tundra
+environment (feature)	seasonal snow patch
+environment (material)	soil
+environmental package	soil
+sequencing method	Illumina
+altitude	0.0
+elevation	520.0
+geographic location (latitude)	64.36755
+ENA checklist	ERC000022
+
+study_id	MGYS00005725
+sample_id	ERS5835123
+investigation type	metagenome
+project name	Shotgun metagenome sequences of Anthelia biocrust samples.
+geographic location (longitude)	-18.2422
+geographic location (country and/or sea,region)	Iceland
+collection date	2016-07-09
+environment (biome)	alpine tundra
+environment (feature)	seasonal snow patch
+environment (material)	soil
+environmental package	soil
+sequencing method	Illumina
+altitude	0.0
+elevation	587.0
+geographic location (latitude)	64.05852
+ENA checklist	ERC000022
+
+study_id	MGYS00005725
+sample_id	ERS5835125
+investigation type	metagenome
+project name	Shotgun metagenome sequences of Anthelia biocrust samples.
+geographic location (longitude)	-19.350033
+geographic location (country and/or sea,region)	Iceland
+collection date	2016-08-24
+environment (biome)	alpine tundra
+environment (feature)	seasonal snow patch
+environment (material)	soil
+environmental package	soil
+sequencing method	Illumina
+altitude	0.0
+elevation	603.0
+geographic location (latitude)	64.03097
+ENA checklist	ERC000022
+
+study_id	MGYS00005725
+sample_id	ERS5835132
+investigation type	metagenome
+project name	Shotgun metagenome sequences of Anthelia biocrust samples.
+geographic location (longitude)	-21.060383
+geographic location (country and/or sea,region)	Iceland
+collection date	2016-09-14
+environment (biome)	alpine tundra
+environment (feature)	seasonal snow patch
+environment (material)	soil
+environmental package	soil
+sequencing method	Illumina
+altitude	0.0
+elevation	493.0
+geographic location (latitude)	64.36802
+ENA checklist	ERC000022
+
+study_id	MGYS00005725
+sample_id	ERS5835117
+investigation type	metagenome
+project name	Shotgun metagenome sequences of Anthelia biocrust samples.
+geographic location (longitude)	-18.225067
+geographic location (country and/or sea,region)	Iceland
+collection date	2016-09-07
+environment (biome)	alpine tundra
+environment (feature)	seasonal snow patch
+environment (material)	soil
+environmental package	soil
+sequencing method	Illumina
+altitude	0.0
+elevation	573.0
+geographic location (latitude)	64.05665
+ENA checklist	ERC000022
+
+study_id	MGYS00005725
+sample_id	ERS5835135
+investigation type	metagenome
+project name	Shotgun metagenome sequences of Anthelia biocrust samples.
+geographic location (longitude)	-21.0628
+geographic location (country and/or sea,region)	Iceland
+collection date	2016-09-14
+environment (biome)	alpine tundra
+environment (feature)	seasonal snow patch
+environment (material)	soil
+environmental package	soil
+sequencing method	Illumina
+altitude	0.0
+elevation	520.0
+geographic location (latitude)	64.36755
+ENA checklist	ERC000022
+
+study_id	MGYS00005725
+sample_id	ERS5835110
+investigation type	metagenome
+project name	Shotgun metagenome sequences of Anthelia biocrust samples.
+geographic location (longitude)	-15.7091
+geographic location (country and/or sea,region)	Iceland
+collection date	2020-07-23
+environment (biome)	alpine tundra
+environment (feature)	seasonal snow patch
+environment (material)	soil
+environmental package	soil
+sequencing method	Illumina
+altitude	0.0
+elevation	632.0
+geographic location (latitude)	64.91264
+ENA checklist	ERC000022
+
+study_id	MGYS00005725
+sample_id	ERS5835129
+investigation type	metagenome
+project name	Shotgun metagenome sequences of Anthelia biocrust samples.
+geographic location (longitude)	-19.21985
+geographic location (country and/or sea,region)	Iceland
+collection date	2016-08-24
+environment (biome)	alpine tundra
+environment (feature)	seasonal snow patch
+environment (material)	soil
+environmental package	soil
+sequencing method	Illumina
+altitude	0.0
+elevation	597.0
+geographic location (latitude)	64.037
+ENA checklist	ERC000022
+
+study_id	MGYS00005547
+sample_id	ERS4578031
+ENA checklist	ERC000011
+
+study_id	MGYS00001198
+study_id	MGYS00005819
+sample_id	ERS1284777
+investigation type	metagenome
+project name	Enviro_2015_10_05
+geographic location (longitude)	17.90063
+geographic location (depth)	7.5
+geographic location (country and/or sea,region)	Hungary
+collection date	2015-10-05
+environment (biome)	terrestrial
+environment (feature)	environmental zone
+environment (material)	soil
+environmental package	soil
+sequencing method	Illumina MiSeq
+elevation	156.0
+geographic location (elevation)	156
+geographic location (latitude)	46.37386
+NCBI sample classification	1826778
+instrument model	Illumina MiSeq
+ENA checklist	ERC000022
+
+study_id	MGYS00001198
+study_id	MGYS00005819
+sample_id	ERS1284766
+investigation type	metagenome
+project name	Enviro_2015_10_05
+geographic location (longitude)	17.90063
+geographic location (depth)	5.5
+geographic location (country and/or sea,region)	Hungary
+collection date	2015-10-05
+environment (biome)	terrestrial
+environment (feature)	environmental zone
+environment (material)	soil
+environmental package	soil
+sequencing method	Illumina MiSeq
+elevation	156.0
+geographic location (elevation)	156
+geographic location (latitude)	46.37386
+NCBI sample classification	1826778
+instrument model	Illumina MiSeq
+ENA checklist	ERC000022
+
+study_id	MGYS00005721
+study_id	MGYS00005784
+sample_id	ERS5917444
+investigation type	metagenome
+project name	ena-STUDY-University of Iceland-08-03-2021-14:50:30:167-1606
+experimental factor	100% moist 10 °C
+geographic location (longitude)	-19.219
+geographic location (country and/or sea,region)	Iceland
+collection date	2018-09-18
+environment (biome)	alpine tundra
+environment (feature)	winter snow cover
+environment (material)	coarse andosol
+environmental package	soil
+sequencing method	Illumina 2x75b
+elevation	595.0
+geographic location (latitude)	64.036
+ENA checklist	ERC000022
+
+study_id	MGYS00005721
+study_id	MGYS00005784
+sample_id	ERS5917436
+investigation type	metagenome
+project name	ena-STUDY-University of Iceland-08-03-2021-14:50:30:167-1606
+experimental factor	70% moist 10 °C
+geographic location (longitude)	-19.219
+geographic location (country and/or sea,region)	Iceland
+collection date	2018-09-18
+environment (biome)	alpine tundra
+environment (feature)	winter snow cover
+environment (material)	coarse andosol
+environmental package	soil
+sequencing method	Illumina 2x75b
+elevation	595.0
+geographic location (latitude)	64.036
+ENA checklist	ERC000022
+
+study_id	MGYS00005721
+study_id	MGYS00005784
+sample_id	ERS5917453
+investigation type	metagenome
+project name	ena-STUDY-University of Iceland-08-03-2021-14:50:30:167-1606
+experimental factor	100% moist 20 °C
+geographic location (longitude)	-19.219
+geographic location (country and/or sea,region)	Iceland
+collection date	2018-09-18
+environment (biome)	alpine tundra
+environment (feature)	winter snow cover
+environment (material)	coarse andosol
+environmental package	soil
+sequencing method	Illumina 2x75b
+elevation	595.0
+geographic location (latitude)	64.036
+ENA checklist	ERC000022
+
+study_id	MGYS00005721
+study_id	MGYS00005784
+sample_id	ERS5917447
+investigation type	metagenome
+project name	ena-STUDY-University of Iceland-08-03-2021-14:50:30:167-1606
+experimental factor	100% moist 10 °C
+geographic location (longitude)	-19.219
+geographic location (country and/or sea,region)	Iceland
+collection date	2018-09-18
+environment (biome)	alpine tundra
+environment (feature)	winter snow cover
+environment (material)	coarse andosol
+environmental package	soil
+sequencing method	Illumina 2x75b
+elevation	595.0
+geographic location (latitude)	64.036
+ENA checklist	ERC000022
+
+study_id	MGYS00005721
+study_id	MGYS00005784
+sample_id	ERS5917446
+investigation type	metagenome
+project name	ena-STUDY-University of Iceland-08-03-2021-14:50:30:167-1606
+experimental factor	100% moist 10 °C
+geographic location (longitude)	-19.219
+geographic location (country and/or sea,region)	Iceland
+collection date	2018-09-18
+environment (biome)	alpine tundra
+environment (feature)	winter snow cover
+environment (material)	coarse andosol
+environmental package	soil
+sequencing method	Illumina 2x75b
+elevation	595.0
+geographic location (latitude)	64.036
+ENA checklist	ERC000022
+
+study_id	MGYS00005721
+study_id	MGYS00005784
+sample_id	ERS5917438
+investigation type	metagenome
+project name	ena-STUDY-University of Iceland-08-03-2021-14:50:30:167-1606
+experimental factor	70% moist 10 °C
+geographic location (longitude)	-19.219
+geographic location (country and/or sea,region)	Iceland
+collection date	2018-09-18
+environment (biome)	alpine tundra
+environment (feature)	winter snow cover
+environment (material)	coarse andosol
+environmental package	soil
+sequencing method	Illumina 2x75b
+elevation	595.0
+geographic location (latitude)	64.036
+ENA checklist	ERC000022
+
+study_id	MGYS00005721
+study_id	MGYS00005784
+sample_id	ERS5917439
+investigation type	metagenome
+project name	ena-STUDY-University of Iceland-08-03-2021-14:50:30:167-1606
+experimental factor	70% moist 10 °C
+geographic location (longitude)	-19.219
+geographic location (country and/or sea,region)	Iceland
+collection date	2018-09-18
+environment (biome)	alpine tundra
+environment (feature)	winter snow cover
+environment (material)	coarse andosol
+environmental package	soil
+sequencing method	Illumina 2x75b
+elevation	595.0
+geographic location (latitude)	64.036
+ENA checklist	ERC000022
+
+study_id	MGYS00005721
+study_id	MGYS00005784
+sample_id	ERS5917445
+investigation type	metagenome
+project name	ena-STUDY-University of Iceland-08-03-2021-14:50:30:167-1606
+experimental factor	100% moist 10 °C
+geographic location (longitude)	-19.219
+geographic location (country and/or sea,region)	Iceland
+collection date	2018-09-18
+environment (biome)	alpine tundra
+environment (feature)	winter snow cover
+environment (material)	coarse andosol
+environmental package	soil
+sequencing method	Illumina 2x75b
+elevation	595.0
+geographic location (latitude)	64.036
+ENA checklist	ERC000022
+
+study_id	MGYS00005721
+study_id	MGYS00005784
+sample_id	ERS5917435
+investigation type	metagenome
+project name	ena-STUDY-University of Iceland-08-03-2021-14:50:30:167-1606
+experimental factor	no lab treatment
+geographic location (longitude)	-19.219
+geographic location (country and/or sea,region)	Iceland
+collection date	2018-09-18
+environment (biome)	alpine tundra
+environment (feature)	winter snow cover
+environment (material)	coarse andosol
+environmental package	soil
+sequencing method	Illumina 2x75b
+elevation	595.0
+geographic location (latitude)	64.036
+ENA checklist	ERC000022
+
+study_id	MGYS00005721
+study_id	MGYS00005784
+sample_id	ERS5917452
+investigation type	metagenome
+project name	ena-STUDY-University of Iceland-08-03-2021-14:50:30:167-1606
+experimental factor	100% moist 20 °C
+geographic location (longitude)	-19.219
+geographic location (country and/or sea,region)	Iceland
+collection date	2018-09-18
+environment (biome)	alpine tundra
+environment (feature)	winter snow cover
+environment (material)	coarse andosol
+environmental package	soil
+sequencing method	Illumina 2x75b
+elevation	595.0
+geographic location (latitude)	64.036
+ENA checklist	ERC000022
+
+study_id	MGYS00005721
+study_id	MGYS00005784
+sample_id	ERS5917437
+investigation type	metagenome
+project name	ena-STUDY-University of Iceland-08-03-2021-14:50:30:167-1606
+experimental factor	70% moist 10 °C
+geographic location (longitude)	-19.219
+geographic location (country and/or sea,region)	Iceland
+collection date	2018-09-18
+environment (biome)	alpine tundra
+environment (feature)	winter snow cover
+environment (material)	coarse andosol
+environmental package	soil
+sequencing method	Illumina 2x75b
+elevation	595.0
+geographic location (latitude)	64.036
+ENA checklist	ERC000022
+
+study_id	MGYS00005571
+sample_id	ERS4282891
+investigation type	metagenome
+project name	Western Boreal Canada Sediment Metagenomes
+geographic location (longitude)	-117.182
+geographic location (country and/or sea,region)	Canada
+collection date	2019-08-30
+environment (biome)	boreal peatlands
+environment (feature)	lake
+environment (material)	sediment
+environmental package	sediment
+sequencing method	Illumina NextSeq High Input 300 cycles paired end (2x150)
+elevation	320.0
+geographic location (latitude)	59.48
+ENA checklist	ERC000021
+
+study_id	MGYS00005571
+sample_id	ERS4282889
+investigation type	metagenome
+project name	Western Boreal Canada Sediment Metagenomes
+geographic location (longitude)	-123.162
+geographic location (country and/or sea,region)	Canada
+collection date	2019-08-26
+environment (biome)	boreal peatlands
+environment (feature)	lake
+environment (material)	sediment
+environmental package	sediment
+sequencing method	Illumina NextSeq High Input 300 cycles paired end (2x150)
+elevation	149.0
+geographic location (latitude)	62.874
+ENA checklist	ERC000021
+
+study_id	MGYS00005571
+sample_id	ERS4282888
+investigation type	metagenome
+project name	Western Boreal Canada Sediment Metagenomes
+geographic location (longitude)	-123.271
+geographic location (country and/or sea,region)	Canada
+collection date	2019-08-26
+environment (biome)	boreal peatlands
+environment (feature)	lake
+environment (material)	sediment
+environmental package	sediment
+sequencing method	Illumina NextSeq High Input 300 cycles paired end (2x150)
+elevation	149.0
+geographic location (latitude)	63.16
+ENA checklist	ERC000021
+
+study_id	MGYS00005571
+sample_id	ERS4282880
+investigation type	metagenome
+project name	Western Boreal Canada Sediment Metagenomes
+geographic location (longitude)	-123.249
+geographic location (country and/or sea,region)	Canada
+collection date	2019-08-27
+environment (biome)	boreal peatlands
+environment (feature)	lake
+environment (material)	sediment
+environmental package	sediment
+sequencing method	Illumina NextSeq High Input 300 cycles paired end (2x150)
+elevation	149.0
+geographic location (latitude)	63.145
+ENA checklist	ERC000021
+
+study_id	MGYS00005571
+sample_id	ERS4282887
+investigation type	metagenome
+project name	Western Boreal Canada Sediment Metagenomes
+geographic location (longitude)	-134.69
+geographic location (country and/or sea,region)	Canada
+collection date	2019-07-29
+environment (biome)	boreal peatlands
+environment (feature)	lake
+environment (material)	sediment
+environmental package	sediment
+sequencing method	Illumina NextSeq High Input 300 cycles paired end (2x150)
+elevation	43.0
+geographic location (latitude)	67.473
+ENA checklist	ERC000021
+
+study_id	MGYS00005571
+sample_id	ERS4282883
+investigation type	metagenome
+project name	Western Boreal Canada Sediment Metagenomes
+geographic location (longitude)	-134.824
+geographic location (country and/or sea,region)	Canada
+collection date	2019-07-28
+environment (biome)	boreal peatlands
+environment (feature)	lake
+environment (material)	sediment
+environmental package	sediment
+sequencing method	Illumina NextSeq High Input 300 cycles paired end (2x150)
+elevation	43.0
+geographic location (latitude)	67.353
+ENA checklist	ERC000021
+
+study_id	MGYS00005571
+sample_id	ERS4282882
+investigation type	metagenome
+project name	Western Boreal Canada Sediment Metagenomes
+geographic location (longitude)	-123.249
+geographic location (country and/or sea,region)	Canada
+collection date	2019-08-27
+environment (biome)	boreal peatlands
+environment (feature)	lake
+environment (material)	sediment
+environmental package	sediment
+sequencing method	Illumina NextSeq High Input 300 cycles paired end (2x150)
+elevation	149.0
+geographic location (latitude)	63.151
+ENA checklist	ERC000021
+
+study_id	MGYS00005571
+sample_id	ERS4282896
+investigation type	metagenome
+project name	Western Boreal Canada Sediment Metagenomes
+geographic location (longitude)	-115.193
+geographic location (country and/or sea,region)	Canada
+collection date	2019-08-11
+environment (biome)	boreal peatlands
+environment (feature)	lake
+environment (material)	sediment
+environmental package	sediment
+sequencing method	Illumina NextSeq High Input 300 cycles paired end (2x150)
+elevation	330.0
+geographic location (latitude)	55.982
+ENA checklist	ERC000021
+
+study_id	MGYS00005571
+sample_id	ERS4282892
+investigation type	metagenome
+project name	Western Boreal Canada Sediment Metagenomes
+geographic location (longitude)	-117.268
+geographic location (country and/or sea,region)	Canada
+collection date	2019-08-30
+environment (biome)	boreal peatlands
+environment (feature)	lake
+environment (material)	sediment
+environmental package	sediment
+sequencing method	Illumina NextSeq High Input 300 cycles paired end (2x150)
+elevation	320.0
+geographic location (latitude)	59.445
+ENA checklist	ERC000021
+
+study_id	MGYS00005571
+sample_id	ERS4282900
+investigation type	metagenome
+project name	Western Boreal Canada Sediment Metagenomes
+geographic location (longitude)	-115.375
+geographic location (country and/or sea,region)	Canada
+collection date	2019-08-12
+environment (biome)	boreal peatlands
+environment (feature)	lake
+environment (material)	sediment
+environmental package	sediment
+sequencing method	Illumina NextSeq High Input 300 cycles paired end (2x150)
+elevation	330.0
+geographic location (latitude)	56.023
+ENA checklist	ERC000021
+
+study_id	MGYS00005571
+sample_id	ERS4282886
+investigation type	metagenome
+project name	Western Boreal Canada Sediment Metagenomes
+geographic location (longitude)	-134.761
+geographic location (country and/or sea,region)	Canada
+collection date	2019-07-29
+environment (biome)	boreal peatlands
+environment (feature)	lake
+environment (material)	sediment
+environmental package	sediment
+sequencing method	Illumina NextSeq High Input 300 cycles paired end (2x150)
+elevation	43.0
+geographic location (latitude)	67.451
+ENA checklist	ERC000021
+
+study_id	MGYS00005571
+sample_id	ERS4282897
+investigation type	metagenome
+project name	Western Boreal Canada Sediment Metagenomes
+geographic location (longitude)	-115.365
+geographic location (country and/or sea,region)	Canada
+collection date	2019-08-12
+environment (biome)	boreal peatlands
+environment (feature)	lake
+environment (material)	sediment
+environmental package	sediment
+sequencing method	Illumina NextSeq High Input 300 cycles paired end (2x150)
+elevation	330.0
+geographic location (latitude)	56.01
+ENA checklist	ERC000021
+
+study_id	MGYS00005571
+sample_id	ERS4282901
+investigation type	metagenome
+project name	Western Boreal Canada Sediment Metagenomes
+geographic location (longitude)	0.121817
+geographic location (country and/or sea,region)	United Kingdom
+collection date	2020-08-01
+environment (biome)	microbial control
+environment (feature)	microbial control
+environment (material)	microbial control
+environmental package	sediment
+sequencing method	Illumina NextSeq High Input 300 cycles paired end (2x150)
+elevation	16.0
+geographic location (latitude)	52.205338
+ENA checklist	ERC000021
+
+study_id	MGYS00005571
+sample_id	ERS4282890
+investigation type	metagenome
+project name	Western Boreal Canada Sediment Metagenomes
+geographic location (longitude)	-117.182
+geographic location (country and/or sea,region)	Canada
+collection date	2019-08-30
+environment (biome)	boreal peatlands
+environment (feature)	lake
+environment (material)	sediment
+environmental package	sediment
+sequencing method	Illumina NextSeq High Input 300 cycles paired end (2x150)
+elevation	320.0
+geographic location (latitude)	59.48
+ENA checklist	ERC000021
+
+study_id	MGYS00005571
+sample_id	ERS4282881
+investigation type	metagenome
+project name	Western Boreal Canada Sediment Metagenomes
+geographic location (longitude)	-123.254
+geographic location (country and/or sea,region)	Canada
+collection date	2019-08-27
+environment (biome)	boreal peatlands
+environment (feature)	lake
+environment (material)	sediment
+environmental package	sediment
+sequencing method	Illumina NextSeq High Input 300 cycles paired end (2x150)
+elevation	149.0
+geographic location (latitude)	63.151
+ENA checklist	ERC000021
+
+study_id	MGYS00005571
+sample_id	ERS4282885
+investigation type	metagenome
+project name	Western Boreal Canada Sediment Metagenomes
+geographic location (longitude)	-134.705
+geographic location (country and/or sea,region)	Canada
+collection date	2019-07-29
+environment (biome)	boreal peatlands
+environment (feature)	lake
+environment (material)	sediment
+environmental package	sediment
+sequencing method	Illumina NextSeq High Input 300 cycles paired end (2x150)
+elevation	43.0
+geographic location (latitude)	67.477
+ENA checklist	ERC000021
+
+study_id	MGYS00005571
+sample_id	ERS4282884
+investigation type	metagenome
+project name	Western Boreal Canada Sediment Metagenomes
+geographic location (longitude)	-134.855
+geographic location (country and/or sea,region)	Canada
+collection date	2019-07-28
+environment (biome)	boreal peatlands
+environment (feature)	lake
+environment (material)	sediment
+environmental package	sediment
+sequencing method	Illumina NextSeq High Input 300 cycles paired end (2x150)
+elevation	43.0
+geographic location (latitude)	67.37
+ENA checklist	ERC000021
+
+study_id	MGYS00005571
+sample_id	ERS4282893
+investigation type	metagenome
+project name	Western Boreal Canada Sediment Metagenomes
+geographic location (longitude)	-117.462
+geographic location (country and/or sea,region)	Canada
+collection date	2019-08-31
+environment (biome)	boreal peatlands
+environment (feature)	lake
+environment (material)	sediment
+environmental package	sediment
+sequencing method	Illumina NextSeq High Input 300 cycles paired end (2x150)
+elevation	320.0
+geographic location (latitude)	59.225
+ENA checklist	ERC000021
+
+study_id	MGYS00005571
+sample_id	ERS4282894
+investigation type	metagenome
+project name	Western Boreal Canada Sediment Metagenomes
+geographic location (longitude)	-117.291
+geographic location (country and/or sea,region)	Canada
+collection date	2019-08-30
+environment (biome)	boreal peatlands
+environment (feature)	lake
+environment (material)	sediment
+environmental package	sediment
+sequencing method	Illumina NextSeq High Input 300 cycles paired end (2x150)
+elevation	320.0
+geographic location (latitude)	59.44
+ENA checklist	ERC000021
+
+study_id	MGYS00005571
+sample_id	ERS4282895
+investigation type	metagenome
+project name	Western Boreal Canada Sediment Metagenomes
+geographic location (longitude)	-117.315
+geographic location (country and/or sea,region)	Canada
+collection date	2019-08-31
+environment (biome)	boreal peatlands
+environment (feature)	lake
+environment (material)	sediment
+environmental package	sediment
+sequencing method	Illumina NextSeq High Input 300 cycles paired end (2x150)
+elevation	320.0
+geographic location (latitude)	59.353
+ENA checklist	ERC000021
+
+study_id	MGYS00005571
+sample_id	ERS4282898
+investigation type	metagenome
+project name	Western Boreal Canada Sediment Metagenomes
+geographic location (longitude)	-115.352
+geographic location (country and/or sea,region)	Canada
+collection date	2019-08-12
+environment (biome)	boreal peatlands
+environment (feature)	lake
+environment (material)	sediment
+environmental package	sediment
+sequencing method	Illumina NextSeq High Input 300 cycles paired end (2x150)
+elevation	330.0
+geographic location (latitude)	56.009
+ENA checklist	ERC000021
+
+study_id	MGYS00005571
+sample_id	ERS4282899
+investigation type	metagenome
+project name	Western Boreal Canada Sediment Metagenomes
+geographic location (longitude)	-115.476
+geographic location (country and/or sea,region)	Canada
+collection date	2019-08-12
+environment (biome)	boreal peatlands
+environment (feature)	lake
+environment (material)	sediment
+environmental package	sediment
+sequencing method	Illumina NextSeq High Input 300 cycles paired end (2x150)
+elevation	330.0
+geographic location (latitude)	56.074
+ENA checklist	ERC000021
+
+study_id	MGYS00005521
+study_id	MGYS00005522
+sample_id	ERS916591
+investigation type	metagenome
+project name	PeatMetagenome
+geographic location (longitude)	3.91667
+geographic location (country and/or sea,region)	France
+collection date	2011-06-07
+environment (biome)	peatland
+environment (feature)	peat soil
+environment (material)	soil
+environmental package	soil
+sequencing method	pyrosequencing
+depth	0.15
+elevation	1350.0
+geographic location (latitude)	45.53333
+ENA checklist	ERC000022
+
+study_id	MGYS00005521
+study_id	MGYS00005522
+sample_id	ERS916592
+investigation type	metagenome
+project name	PeatMetagenome
+geographic location (longitude)	3.91667
+geographic location (country and/or sea,region)	France
+collection date	2011-06-07
+environment (biome)	peatland
+environment (feature)	peat soil
+environment (material)	soil
+environmental package	soil
+sequencing method	pyrosequencing
+depth	0.15
+elevation	1350.0
+geographic location (latitude)	45.53333
+ENA checklist	ERC000022
+
+study_id	MGYS00005521
+study_id	MGYS00005522
+sample_id	ERS916588
+investigation type	metagenome
+project name	PeatMetagenome
+geographic location (longitude)	3.91667
+geographic location (country and/or sea,region)	France
+collection date	2011-06-07
+environment (biome)	peatland
+environment (feature)	peat soil
+environment (material)	soil
+environmental package	soil
+sequencing method	pyrosequencing
+depth	0.05
+elevation	1350.0
+geographic location (latitude)	45.53333
+ENA checklist	ERC000022
+
+study_id	MGYS00005521
+study_id	MGYS00005522
+sample_id	ERS916590
+investigation type	metagenome
+project name	PeatMetagenome
+geographic location (longitude)	3.91667
+geographic location (country and/or sea,region)	France
+collection date	2011-06-07
+environment (biome)	peatland
+environment (feature)	peat soil
+environment (material)	soil
+environmental package	soil
+sequencing method	pyrosequencing
+depth	0.05
+elevation	1350.0
+geographic location (latitude)	45.53333
+ENA checklist	ERC000022
+
+study_id	MGYS00005521
+sample_id	ERS916589
+investigation type	metagenome
+project name	PeatMetagenome
+geographic location (longitude)	3.91667
+geographic location (country and/or sea,region)	France
+collection date	2011-06-07
+environment (biome)	peatland
+environment (feature)	peat soil
+environment (material)	soil
+environmental package	soil
+sequencing method	pyrosequencing
+depth	0.05
+elevation	1350.0
+geographic location (latitude)	45.53333
+ENA checklist	ERC000022
+
+study_id	MGYS00000980
+study_id	MGYS00002053
+sample_id	SRS591962
+investigation type	metagenome
+geographic location (longitude)	-93.20186
+geographic location (depth)	0-5cm
+geographic location (country and/or sea,region)	USA:Cedar Creek, Minnesota
+collection date	2008-07-01
+environment (biome)	grassland biome
+environment (feature)	soil
+environment (material)	soil
+environmental package	soil
+depth	0.0-5.0
+elevation	910ft
+geographic location (latitude)	45.423832
+NCBI sample classification	410658
+instrument model	Illumina HiSeq 2000
+
+study_id	MGYS00000980
+study_id	MGYS00002053
+sample_id	SRS591976
+total organic carbon	17.02
+investigation type	metagenome
+geographic location (longitude)	-85.4
+geographic location (depth)	0-5cm
+geographic location (country and/or sea,region)	USA:Kellogg Biological Station, Michigan
+collection date	2008-07-01
+environment (biome)	Agricultural
+environment (feature)	soil
+environment (material)	soil
+environmental package	soil
+depth	0.0-5.0
+elevation	930ft
+pH	5.02
+geographic location (latitude)	42.4
+total N	1.79
+NCBI sample classification	410658
+instrument model	Illumina HiSeq 2000
+
+study_id	MGYS00000392
+study_id	MGYS00002688
+sample_id	ERS463915
+investigation type	metagenome
+project name	Pre-investigation
+geographic location (longitude)	139.2724
+geographic location (country and/or sea,region)	Australia
+collection date	2012-09-26
+environment (biome)	Grassland
+environment (feature)	Farmland
+environment (material)	Clay
+environmental package	soil
+sequencing method	Illumina Miseq
+depth	0.8
+elevation	50.0
+geographic location (elevation)	50
+geographic location (latitude)	-35.10688
+NCBI sample classification	410658
+instrument model	Illumina MiSeq
+ENA checklist	ERC000022
+
+study_id	MGYS00000392
+study_id	MGYS00002688
+sample_id	ERS463914
+investigation type	metagenome
+project name	Pre-investigation
+geographic location (longitude)	139.27281
+geographic location (country and/or sea,region)	Australia
+collection date	2012-09-26
+environment (biome)	Grassland
+environment (feature)	Farmland
+environment (material)	Clay
+environmental package	soil
+sequencing method	Illumina Miseq
+depth	0.8
+elevation	50.0
+geographic location (elevation)	50
+geographic location (latitude)	-35.105362
+NCBI sample classification	410658
+instrument model	Illumina MiSeq
+ENA checklist	ERC000022
+
+study_id	MGYS00002314
+sample_id	ERS456739
+investigation type	metagenome
+geographic location (longitude)	70.37
+geographic location (country and/or sea,region)	India
+collection date	2012-02-01
+environment (biome)	bacteria
+environment (feature)	seaside
+environment (material)	soil
+environmental package	soil
+sequencing method	454
+depth	0.1
+elevation	0.0
+geographic location (latitude)	20.9
+instrument model	454 GS FLX Titanium
+
+study_id	MGYS00002314
+sample_id	ERS456740
+investigation type	metagenome
+geographic location (longitude)	70.37
+geographic location (country and/or sea,region)	India
+collection date	2012-02-01
+environment (biome)	bacteria
+environment (feature)	seaside
+environment (material)	soil
+environmental package	soil
+sequencing method	454
+depth	0.1
+elevation	0.0
+geographic location (latitude)	20.9
+instrument model	454 GS FLX Titanium
+
+study_id	MGYS00002314
+sample_id	ERS456741
+investigation type	metagenome
+geographic location (longitude)	70.37
+geographic location (country and/or sea,region)	India
+collection date	2012-02-01
+environment (biome)	bacteria
+environment (feature)	seaside
+environment (material)	soil
+environmental package	soil
+sequencing method	454
+depth	0.1
+elevation	0.0
+geographic location (latitude)	20.9
+instrument model	454 GS FLX Titanium
+
+study_id	MGYS00002018
+study_id	MGYS00002441
+sample_id	ERS846451
+investigation type	metagenome
+geographic location (longitude)	-149.22556
+geographic location (country and/or sea,region)	USA
+collection date	2010-05-01/2010-05-31
+environment (biome)	tundra
+environment (feature)	field
+environment (material)	soil
+environmental package	soil
+sequencing method	Illumina HiSeq
+depth	0.15
+elevation	455.0
+geographic location (latitude)	63.88306
+instrument model	Illumina HiSeq 2000
+
+study_id	MGYS00002018
+study_id	MGYS00002441
+sample_id	ERS846452
+investigation type	metagenome
+geographic location (longitude)	-149.22556
+geographic location (country and/or sea,region)	USA
+collection date	2010-05-01/2010-05-31
+environment (biome)	tundra
+environment (feature)	field
+environment (material)	soil
+environmental package	soil
+sequencing method	Illumina HiSeq
+depth	0.15
+elevation	455.0
+geographic location (latitude)	63.88306
+instrument model	Illumina HiSeq 2000
+
+study_id	MGYS00002018
+study_id	MGYS00002441
+sample_id	ERS846453
+investigation type	metagenome
+geographic location (longitude)	-149.22556
+geographic location (country and/or sea,region)	USA
+collection date	2010-05-01/2010-05-31
+environment (biome)	tundra
+environment (feature)	field
+environment (material)	soil
+environmental package	soil
+sequencing method	Illumina HiSeq
+depth	0.15
+elevation	455.0
+geographic location (latitude)	63.88306
+instrument model	Illumina HiSeq 2000
+
+study_id	MGYS00002018
+study_id	MGYS00002441
+sample_id	ERS846455
+investigation type	metagenome
+geographic location (longitude)	-149.22556
+geographic location (country and/or sea,region)	USA
+collection date	2010-05-01/2010-05-31
+environment (biome)	tundra
+environment (feature)	field
+environment (material)	soil
+environmental package	soil
+sequencing method	Illumina HiSeq
+depth	0.15
+elevation	455.0
+geographic location (latitude)	63.88306
+instrument model	454 GS FLX Titanium
+
+study_id	MGYS00002018
+study_id	MGYS00002441
+sample_id	ERS846456
+investigation type	metagenome
+geographic location (longitude)	-149.22556
+geographic location (country and/or sea,region)	USA
+collection date	2010-05-01/2010-05-31
+environment (biome)	tundra
+environment (feature)	field
+environment (material)	soil
+environmental package	soil
+sequencing method	Illumina HiSeq
+depth	0.15
+elevation	455.0
+geographic location (latitude)	63.88306
+instrument model	Illumina MiSeq
+
+study_id	MGYS00002018
+study_id	MGYS00002441
+sample_id	ERS846457
+investigation type	metagenome
+geographic location (longitude)	-149.22556
+geographic location (country and/or sea,region)	USA
+collection date	2010-05-01/2010-05-31
+environment (biome)	tundra
+environment (feature)	field
+environment (material)	soil
+environmental package	soil
+sequencing method	Illumina HiSeq
+depth	0.15
+elevation	455.0
+geographic location (latitude)	63.88306
+instrument model	Illumina MiSeq
+
+study_id	MGYS00002018
+study_id	MGYS00002441
+sample_id	ERS846458
+investigation type	metagenome
+geographic location (longitude)	-149.22556
+geographic location (country and/or sea,region)	USA
+collection date	2010-05-01/2010-05-31
+environment (biome)	tundra
+environment (feature)	field
+environment (material)	soil
+environmental package	soil
+sequencing method	Illumina HiSeq
+depth	0.15
+elevation	455.0
+geographic location (latitude)	63.88306
+instrument model	Illumina HiSeq 2000
+
+study_id	MGYS00002018
+sample_id	ERS846469
+investigation type	metagenome
+geographic location (longitude)	-149.22556
+geographic location (country and/or sea,region)	USA
+collection date	2010-05-01/2010-05-31
+environment (biome)	tundra
+environment (feature)	field
+environment (material)	soil
+environmental package	soil
+sequencing method	Illumina HiSeq
+depth	0.15
+elevation	455.0
+geographic location (latitude)	63.88306
+instrument model	Illumina HiSeq
+
+study_id	MGYS00001284
+sample_id	ERS1374536
+geographic location (longitude)	28 N, 38 W
+environment (biome)	terrestrial
+NCBI sample classification	410658
+instrument model	Illumina
+isolation source	Metagenomics of Filtered reads from soil
+
+study_id	MGYS00001207
+sample_id	ERS1289676
+investigation type	metagenome
+project name	Metagenome sequencing of soil samples
+geographic location (depth)	0
+collection date	2015-03-11
+environmental package	soil
+sequencing method	Illumina
+geographic location (elevation)	233
+NCBI sample classification	410658
+instrument model	Illumina HiSeq 1000
+ENA checklist	GSC MIxS soil (ERC000022)
+
+study_id	MGYS00000496
+sample_id	SAMN02954284
+geographic location (longitude)	69.373 N, 152.441 W
+environment (biome)	terrestrial
+NCBI sample classification	410658
+instrument model	Illumina Genome Analyzer II
+isolation source	Alaskan Permafrost
+
+study_id	MGYS00001167
+study_id	MGYS00002028
+sample_id	ERS656882
+total carbon	4511
+total nitrogen	147
+water content	0.46
+investigation type	metagenome
+project name	Metagenomic and metatranscriptomic analysis of forest soil communities across North America
+geographic location (depth)	0
+collection date	2011-06-18
+environmental package	soil
+sequencing method	Illumina
+pH	5.34
+geographic location (elevation)	1075
+current land use	Forest
+horizon	O horizon
+soil_taxonomic/local classification	Brunisolic Gray Luvisol
+pH method	Calcium chloride
+sample weight for DNA extraction	0.5
+composite design/sieving (if any)	Composite sample of three independent samples
+storage conditions (fresh/frozen/other)	Stored with ice at sampling, frozen at -20 the same day, thawed, sieved and then frozen at -80 C before DNA extraction
+total organic C method	combustion elemental analyzer
+NCBI sample classification	410658
+instrument model	Illumina HiSeq 2000
+ENA checklist	GSC MIxS soil (ERC000022)
+sample volume or weight for DNA extraction	0.5
+total nitrogen method	combustion elemental analyzer
+water content method	Gravimetric determination using a oven at 75 C overnight
+
+study_id	MGYS00001167
+study_id	MGYS00002028
+sample_id	ERS656884
+total carbon	251
+total nitrogen	14
+water content	0.2
+investigation type	metagenome
+project name	Metagenomic and metatranscriptomic analysis of forest soil communities across North America
+geographic location (depth)	0.2
+collection date	2011-06-18
+environmental package	soil
+sequencing method	Illumina
+pH	5.16
+geographic location (elevation)	1075
+current land use	Forest
+horizon	A horizon
+soil_taxonomic/local classification	Brunisolic Gray Luvisol
+pH method	Calcium chloride
+sample weight for DNA extraction	0.5
+composite design/sieving (if any)	Composite sample of three independent samples
+storage conditions (fresh/frozen/other)	Stored with ice at sampling, frozen at -20 the same day, thawed, sieved and then frozen at -80 C before DNA extraction
+total organic C method	combustion elemental analyzer
+NCBI sample classification	410658
+instrument model	Illumina HiSeq 2000
+ENA checklist	GSC MIxS soil (ERC000022)
+sample volume or weight for DNA extraction	0.5
+total nitrogen method	combustion elemental analyzer
+water content method	Gravimetric determination using a oven at 75 C overnight
+
+study_id	MGYS00001167
+study_id	MGYS00002028
+sample_id	ERS656887
+total carbon	3499
+total nitrogen	154
+water content	0.57
+investigation type	metagenome
+project name	Metagenomic and metatranscriptomic analysis of forest soil communities across North America
+geographic location (depth)	0
+collection date	2011-06-18
+environmental package	soil
+sequencing method	Illumina
+pH	5.36
+geographic location (elevation)	1075
+current land use	Forest
+horizon	O horizon
+soil_taxonomic/local classification	Brunisolic Gray Luvisol
+pH method	Calcium chloride
+sample weight for DNA extraction	0.5
+composite design/sieving (if any)	Composite sample of three independent samples
+storage conditions (fresh/frozen/other)	Stored with ice at sampling, frozen at -20 the same day, thawed, sieved and then frozen at -80 C before DNA extraction
+total organic C method	combustion elemental analyzer
+NCBI sample classification	410658
+instrument model	Illumina HiSeq 2000
+ENA checklist	GSC MIxS soil (ERC000022)
+sample volume or weight for DNA extraction	0.5
+total nitrogen method	combustion elemental analyzer
+water content method	Gravimetric determination using a oven at 75 C overnight
+
+study_id	MGYS00001167
+study_id	MGYS00002028
+sample_id	ERS656888
+total carbon	3714
+total nitrogen	136
+water content	0.57
+investigation type	metagenome
+project name	Metagenomic and metatranscriptomic analysis of forest soil communities across North America
+geographic location (depth)	0
+collection date	2011-06-18
+environmental package	soil
+sequencing method	Illumina
+pH	4.8
+geographic location (elevation)	1075
+current land use	Forest
+horizon	O horizon
+soil_taxonomic/local classification	Brunisolic Gray Luvisol
+pH method	Calcium chloride
+sample weight for DNA extraction	0.5
+composite design/sieving (if any)	Composite sample of three independent samples
+storage conditions (fresh/frozen/other)	Stored with ice at sampling, frozen at -20 the same day, thawed, sieved and then frozen at -80 C before DNA extraction
+total organic C method	combustion elemental analyzer
+NCBI sample classification	410658
+instrument model	Illumina HiSeq 2000
+ENA checklist	GSC MIxS soil (ERC000022)
+sample volume or weight for DNA extraction	0.5
+total nitrogen method	combustion elemental analyzer
+water content method	Gravimetric determination using a oven at 75 C overnight
+
+study_id	MGYS00001167
+study_id	MGYS00002028
+sample_id	ERS656893
+total carbon	4012
+total nitrogen	135
+water content	0.6
+investigation type	metagenome
+project name	Metagenomic and metatranscriptomic analysis of forest soil communities across North America
+geographic location (depth)	0
+collection date	2011-06-18
+environmental package	soil
+sequencing method	Illumina
+pH	5.07
+geographic location (elevation)	1075
+current land use	Forest
+horizon	O horizon
+soil_taxonomic/local classification	Brunisolic Gray Luvisol
+pH method	Calcium chloride
+sample weight for DNA extraction	0.5
+composite design/sieving (if any)	Composite sample of three independent samples
+storage conditions (fresh/frozen/other)	Stored with ice at sampling, frozen at -20 the same day, thawed, sieved and then frozen at -80 C before DNA extraction
+total organic C method	combustion elemental analyzer
+NCBI sample classification	410658
+instrument model	Illumina HiSeq 2000
+ENA checklist	GSC MIxS soil (ERC000022)
+sample volume or weight for DNA extraction	0.5
+total nitrogen method	combustion elemental analyzer
+water content method	Gravimetric determination using a oven at 75 C overnight
+
+study_id	MGYS00001161
+study_id	MGYS00002048
+sample_id	SRS266246
+NCBI sample classification	410658
+instrument model	Illumina Genome Analyzer II
+
+study_id	MGYS00001157
+study_id	MGYS00002051
+sample_id	SRS481054
+investigation type	metagenome
+project name	Oklahoma soil ten years warming
+geographic location (longitude)	34.975667, -97.519
+geographic location (depth)	0-15cm
+geographic location (country and/or sea,region)	USA: Okalahoma, Kessler Farm Field Laboratory (KFFL)
+collection date	Oct-2010
+environment (biome)	Grassland
+environment (feature)	plot 3 control, replicate 1
+environment (material)	Soil core
+environmental package	MIGS/MIMS/MIMARKS.soil
+sample collection device or method	soil corer
+elevation	0m
+current land use	Grassland
+current vegetation	Grass
+NCBI sample classification	410658
+instrument model	Illumina HiSeq 2000
+BioSampleModel	MIMS.me,MIGS/MIMS/MIMARKS.soil
+
+study_id	MGYS00001157
+study_id	MGYS00002051
+sample_id	SRS481055
+investigation type	metagenome
+project name	Oklahoma soil ten years warming
+geographic location (longitude)	34.975667, -97.519
+geographic location (depth)	0-15cm
+geographic location (country and/or sea,region)	USA: Okalahoma, Kessler Farm Field Laboratory (KFFL)
+collection date	Oct-2010
+environment (biome)	Grassland
+environment (feature)	plot 3 control, replicate 2
+environment (material)	Soil core
+environmental package	MIGS/MIMS/MIMARKS.soil
+sample collection device or method	soil corer
+elevation	0m
+current land use	Grassland
+current vegetation	Grass
+NCBI sample classification	410658
+instrument model	Illumina HiSeq 2000
+BioSampleModel	MIMS.me,MIGS/MIMS/MIMARKS.soil
+
+study_id	MGYS00001157
+study_id	MGYS00002051
+sample_id	SRS481056
+investigation type	metagenome
+project name	Oklahoma soil ten years warming
+geographic location (longitude)	34.975667, -97.519
+geographic location (depth)	0-15cm
+geographic location (country and/or sea,region)	USA: Okalahoma, Kessler Farm Field Laboratory (KFFL)
+collection date	Oct-2010
+environment (biome)	Grassland
+environment (feature)	plot 4 control
+environment (material)	Soil core
+environmental package	MIGS/MIMS/MIMARKS.soil
+sample collection device or method	soil corer
+elevation	0m
+current land use	Grassland
+current vegetation	Grass
+NCBI sample classification	410658
+instrument model	Illumina HiSeq 2000
+BioSampleModel	MIMS.me,MIGS/MIMS/MIMARKS.soil
+
+study_id	MGYS00001157
+study_id	MGYS00002051
+sample_id	SRS481063
+investigation type	metagenome
+project name	Oklahoma soil ten years warming
+geographic location (longitude)	34.975667, -97.519
+geographic location (depth)	0-15cm
+geographic location (country and/or sea,region)	USA: Okalahoma, Kessler Farm Field Laboratory (KFFL)
+collection date	Oct-2010
+environment (biome)	Grassland
+environment (feature)	plot 4 warming, replicate 1
+environment (material)	Soil core
+environmental package	MIGS/MIMS/MIMARKS.soil
+sample collection device or method	soil corer
+elevation	0m
+current land use	Grassland
+current vegetation	Grass
+NCBI sample classification	410658
+instrument model	Illumina HiSeq 2000
+BioSampleModel	MIMS.me,MIGS/MIMS/MIMARKS.soil
+
+study_id	MGYS00001157
+study_id	MGYS00002051
+sample_id	SRS481064
+investigation type	metagenome
+project name	Oklahoma soil ten years warming
+geographic location (longitude)	34.975667, -97.519
+geographic location (depth)	0-15cm
+geographic location (country and/or sea,region)	USA: Okalahoma, Kessler Farm Field Laboratory (KFFL)
+collection date	Oct-2010
+environment (biome)	Grassland
+environment (feature)	plot 4 warming, replicate 2
+environment (material)	Soil core
+environmental package	MIGS/MIMS/MIMARKS.soil
+sample collection device or method	soil corer
+elevation	0m
+current land use	Grassland
+current vegetation	Grass
+NCBI sample classification	410658
+instrument model	Illumina HiSeq 2000
+BioSampleModel	MIMS.me,MIGS/MIMS/MIMARKS.soil
+
+study_id	MGYS00001157
+study_id	MGYS00002051
+sample_id	SRS481066
+investigation type	metagenome
+project name	Oklahoma soil ten years warming
+geographic location (longitude)	34.975667, -97.519
+geographic location (depth)	0-15cm
+geographic location (country and/or sea,region)	USA: Okalahoma, Kessler Farm Field Laboratory (KFFL)
+collection date	Oct-2010
+environment (biome)	Grassland
+environment (feature)	plot 6 warming
+environment (material)	Soil core
+environmental package	MIGS/MIMS/MIMARKS.soil
+sample collection device or method	soil corer
+elevation	0m
+current land use	Grassland
+current vegetation	Grass
+NCBI sample classification	410658
+instrument model	Illumina HiSeq 2000
+BioSampleModel	MIMS.me,MIGS/MIMS/MIMARKS.soil
+
+study_id	MGYS00001155
+study_id	MGYS00002069
+sample_id	ERS1214244
+NCBI sample classification	256318
+instrument model	Illumina MiSeq
+ENA checklist	ENA default sample checklist (ERC000011)
+
+study_id	MGYS00000989
+study_id	MGYS00002054
+sample_id	SRS697243
+geographic location (longitude)	30.3262 N 087.1745 W
+geographic location (depth)	30-40 cm
+geographic location (country and/or sea,region)	USA: Municipal Pensacola Beach, FL
+collection date	30-Jul-2010
+environment (biome)	beach
+environment (feature)	sea beach
+elevation	0 m.a.s.l.
+NCBI sample classification	412757
+instrument model	Illumina MiSeq
+
+study_id	MGYS00000989
+study_id	MGYS00002054
+sample_id	SRS697338
+geographic location (longitude)	30.3262 N 087.1745 W
+geographic location (depth)	40-45 cm
+geographic location (country and/or sea,region)	USA: Municipal Pensacola Beach, FL
+collection date	20-Oct-2010
+environment (biome)	beach
+environment (feature)	sea beach
+sample collection device or method	A 10x1x1 meter trench was excavated, samples were collected using cutoff 5 mL syringes exuded into 15 mL Falcon tubes, immediately frozen on dry ice, and stored at -80C
+elevation	0 m.a.s.l.
+NCBI sample classification	412757
+instrument model	Illumina MiSeq
+
+study_id	MGYS00000989
+study_id	MGYS00002054
+sample_id	SRS697339
+geographic location (longitude)	30.3262 N 087.1745 W
+geographic location (depth)	25-47 cm
+geographic location (country and/or sea,region)	USA: Municipal Pensacola Beach, FL
+collection date	20-Oct-2010
+environment (biome)	beach
+environment (feature)	sea beach
+sample collection device or method	A 10x1x1 meter trench was excavated, samples were collected using cutoff 5 mL syringes exuded into 15 mL Falcon tubes, immediately frozen on dry ice, and stored at -80C
+elevation	0 m.a.s.l.
+NCBI sample classification	412757
+instrument model	Illumina HiSeq 2000
+
+study_id	MGYS00000980
+study_id	MGYS00002053
+sample_id	SRS591979
+total organic carbon	13
+investigation type	metagenome
+geographic location (longitude)	42.4, -85.4
+geographic location (depth)	0-5cm
+geographic location (country and/or sea,region)	USA:Kellogg Biological Station, Michigan
+collection date	Jul-2008
+environment (biome)	Agricultural
+environment (feature)	soil
+environment (material)	soil
+environmental package	MIGS/MIMS/MIMARKS.soil
+elevation	930ft
+pH	5.13
+total N	1.32
+NCBI sample classification	410658
+instrument model	Illumina HiSeq 2000
+
+study_id	MGYS00000980
+study_id	MGYS00002053
+sample_id	SRS591965
+total organic carbon	17.2
+investigation type	metagenome
+geographic location (longitude)	45.4, -93.2
+geographic location (depth)	0-5cm
+geographic location (country and/or sea,region)	USA:Cedar Creek, Minnesota
+collection date	Jul-2008
+environment (biome)	Grassland
+environment (feature)	soil
+environment (material)	soil
+environmental package	MIGS/MIMS/MIMARKS.soil
+elevation	910ft
+pH	6.77
+total N	1.3
+NCBI sample classification	410658
+instrument model	Illumina HiSeq 2000
+
+study_id	MGYS00000939
+study_id	MGYS00002032
+sample_id	ERS799765
+investigation type	metagenome
+project name	Poyang_Lake_Sediment survay
+geographic location (depth)	0.1
+collection date	2014
+environmental package	sediment
+sequencing method	Illumina hiseq 2500
+geographic location (elevation)	16.5
+NCBI sample classification	256318
+instrument model	Illumina HiSeq 2500
+ENA checklist	GSC MIxS sediment (ERC000021)
+
+study_id	MGYS00000939
+study_id	MGYS00002032
+sample_id	ERS799752
+investigation type	metagenome
+project name	Poyang_Lake_Sediment survay
+geographic location (depth)	0.1
+collection date	2014
+environmental package	sediment
+sequencing method	Illumina hiseq 2500
+geographic location (elevation)	16.5
+NCBI sample classification	256318
+instrument model	Illumina HiSeq 2500
+ENA checklist	GSC MIxS sediment (ERC000021)
+
+study_id	MGYS00000939
+study_id	MGYS00002032
+sample_id	ERS799771
+investigation type	metagenome
+project name	Poyang_Lake_Sediment survay
+geographic location (depth)	0.1
+collection date	2014
+environmental package	sediment
+sequencing method	Illumina hiseq 2500
+geographic location (elevation)	16.5
+NCBI sample classification	256318
+instrument model	Illumina HiSeq 2500
+ENA checklist	GSC MIxS sediment (ERC000021)
+
+study_id	MGYS00000896
+study_id	MGYS00002055
+sample_id	SRS811901
+geographic location (longitude)	20.459293 N 85.93301 E
+geographic location (country and/or sea,region)	India: CRRI Experimental farm;Cuttack:Odisha-753006
+collection date	17-Dec-2013
+NCBI sample classification	410658
+instrument model	Illumina MiSeq
+isolation source	rice field; elevated CO2 plus elevated temperature
+
+study_id	MGYS00000881
+study_id	MGYS00002306
+sample_id	SRS567760
+investigation type	metagenome
+geographic location (longitude)	China:Hunan
+geographic location (depth)	0.08m
+geographic location (country and/or sea,region)	China_Hunan Province_Lengshuijiang City
+collection date	15-Oct-2012
+environment (biome)	bacteria
+environment (feature)	mine soil
+environment (material)	soil
+environmental package	MIGS/MIMS/MIMARKS.soil
+elevation	80m
+NCBI sample classification	1224
+instrument model	Illumina HiSeq 2000
+
+study_id	MGYS00000809
+study_id	MGYS00002305
+sample_id	SRS502313
+NCBI sample classification	410658
+instrument model	Illumina HiSeq 2000
+
+study_id	MGYS00000776
+study_id	MGYS00002037
+sample_id	ERS1075580
+NCBI sample classification	256318
+instrument model	Illumina MiSeq
+ENA checklist	ENA default sample checklist (ERC000011)
+
+study_id	MGYS00000767
+study_id	MGYS00002049
+sample_id	SRS398270
+investigation type	metagenome
+project name	Soil Microbiome
+geographic location (depth)	DG_metagenome
+collection date	30/4/2012
+environment (biome)	Soil
+environment (feature)	swamp
+environment (material)	Soil
+environmental package	MIGS/MIMS/MIMARKS.soil
+elevation	5cm
+NCBI sample classification	410658
+instrument model	Illumina HiSeq 2000
+
+study_id	MGYS00000766
+study_id	MGYS00002067
+sample_id	SRS396926
+investigation type	metagenome
+project name	Soil Microbiome
+geographic location (depth)	RA_metagenome
+collection date	30/4/2012
+environment (biome)	Soil
+environment (feature)	swamp
+environment (material)	Soil
+environmental package	MIGS/MIMS/MIMARKS.soil
+elevation	5cm
+NCBI sample classification	410658
+instrument model	Illumina HiSeq 2000
+
+study_id	MGYS00000713
+study_id	MGYS00002068
+sample_id	SRS265882
+NCBI sample classification	410658
+instrument model	Illumina Genome Analyzer II
+
+study_id	MGYS00000662
+study_id	MGYS00002059
+sample_id	SRS1100065
+geographic location (longitude)	31.48 N 121.74 E
+geographic location (country and/or sea,region)	China: Chongming island
+collection date	2014-08-31
+NCBI sample classification	410658
+instrument model	Illumina MiSeq
+isolation source	soil with organic fertilizer and biochar-mineral complex
+
+study_id	MGYS00000369
+study_id	MGYS00002011
+sample_id	ERS434640
+investigation type	metagenome
+project name	Microbial Community of Mobilong Acid Sulfate Soil depth profile using Metagenomics
+geographic location (longitude)	+139.274772
+geographic location (country and/or sea,region)	Australia
+collection date	01/02/2013
+environment (biome)	Grassland
+environment (feature)	Farmland
+environment (material)	Clay
+environmental package	soil
+sequencing method	Illumina Miseq
+depth	0.25
+geographic location (elevation)	50
+geographic location (latitude)	-35.105875
+NCBI sample classification	410658
+instrument model	Illumina MiSeq
+ENA checklist	GSC MIxS soil (ERC000022)
+
+study_id	MGYS00000369
+study_id	MGYS00002011
+sample_id	ERS434642
+investigation type	metagenome
+project name	Microbial Community of Mobilong Acid Sulfate Soil depth profile using Metagenomics
+geographic location (longitude)	+139.274772
+geographic location (country and/or sea,region)	Australia
+collection date	01/02/2013
+environment (biome)	Grassland
+environment (feature)	Farmland
+environment (material)	Clay
+environmental package	soil
+sequencing method	Illumina Miseq
+depth	0.65
+geographic location (elevation)	50
+geographic location (latitude)	-35.105875
+NCBI sample classification	410658
+instrument model	Illumina MiSeq
+ENA checklist	GSC MIxS soil (ERC000022)
+
+study_id	MGYS00000369
+study_id	MGYS00002011
+sample_id	ERS434643
+investigation type	metagenome
+project name	Microbial Community of Mobilong Acid Sulfate Soil depth profile using Metagenomics
+geographic location (longitude)	+139.274772
+geographic location (country and/or sea,region)	Australia
+collection date	01/02/2013
+environment (biome)	Grassland
+environment (feature)	Farmland
+environment (material)	Clay
+environmental package	soil
+sequencing method	Illumina Miseq
+depth	0.8
+geographic location (elevation)	50
+geographic location (latitude)	-35.105875
+NCBI sample classification	410658
+instrument model	Illumina MiSeq
+ENA checklist	GSC MIxS soil (ERC000022)
+
+study_id	MGYS00000369
+study_id	MGYS00002011
+sample_id	ERS434644
+investigation type	metagenome
+project name	Microbial Community of Mobilong Acid Sulfate Soil depth profile using Metagenomics
+geographic location (longitude)	+139.274772
+geographic location (country and/or sea,region)	Australia
+collection date	01/02/2013
+environment (biome)	Grassland
+environment (feature)	Farmland
+environment (material)	Clay
+environmental package	soil
+sequencing method	Illumina Miseq
+depth	1.2
+geographic location (elevation)	50
+geographic location (latitude)	-35.105875
+NCBI sample classification	410658
+instrument model	Illumina MiSeq
+ENA checklist	GSC MIxS soil (ERC000022)
+
+study_id	MGYS00000369
+study_id	MGYS00002011
+sample_id	ERS434645
+investigation type	metagenome
+project name	Microbial Community of Mobilong Acid Sulfate Soil depth profile using Metagenomics
+geographic location (longitude)	+139.274772
+geographic location (country and/or sea,region)	Australia
+collection date	01/02/2013
+environment (biome)	Grassland
+environment (feature)	Farmland
+environment (material)	Clay
+environmental package	soil
+sequencing method	Illumina Miseq
+depth	1.4
+geographic location (elevation)	50
+geographic location (latitude)	-35.105875
+NCBI sample classification	410658
+instrument model	Illumina MiSeq
+ENA checklist	GSC MIxS soil (ERC000022)
+
+study_id	MGYS00000496
+study_id	MGYS00002047
+sample_id	SRS345522
+geographic location (longitude)	69.373 N, 152.441 W
+environment (biome)	terrestrial
+NCBI sample classification	410658
+instrument model	Illumina Genome Analyzer II
+isolation source	Alaskan Permafrost
+
+study_id	MGYS00000496
+study_id	MGYS00002047
+sample_id	SRS345598
+geographic location (longitude)	69.373 N, 152.441 W
+environment (biome)	terrestrial
+NCBI sample classification	410658
+instrument model	Illumina Genome Analyzer II
+isolation source	Alaskan Permafrost
+
+study_id	MGYS00000496
+study_id	MGYS00002047
+sample_id	SRS345600
+geographic location (longitude)	69.373 N, 152.441 W
+environment (biome)	terrestrial
+NCBI sample classification	410658
+instrument model	Illumina Genome Analyzer II
+isolation source	Alaskan Permafrost
+
+study_id	MGYS00000496
+study_id	MGYS00002047
+sample_id	SRS345606
+geographic location (longitude)	69.373 N, 152.441 W
+environment (biome)	terrestrial
+NCBI sample classification	410658
+instrument model	Illumina Genome Analyzer II
+isolation source	Alaskan Permafrost
+
+study_id	MGYS00000453
+sample_id	ERS627838
+temperature	36
+geographic location (longitude)	-111.39185
+geographic location (depth)	0
+geographic location (country and/or sea,region)	Canada
+collection date	2012-09-06
+environment (biome)	terrestrial biome
+environment (feature)	oil reservoir
+environment (material)	sandstone
+environmental package	miscellaneous
+sample collection device or method	Sample placed in sealed bag
+depth	0
+geographic location (latitude)	56.7063166666667
+miscellaneous parameter2	Horse River oil sands outcrops ??? Cliff
+NCBI sample classification	1348798
+instrument model	LS454
+ENA checklist	ENA default sample checklist (ERC000011)
+collection time	12:00:00
+sample name	H1C 454 QC Reads
+broker object ID	mgm4523101.3
+collection timezone	UTC-6
+continent	north america
+material	sandstone
+sample identifier	4523101.3
+
+study_id	MGYS00000453
+sample_id	ERS627839
+temperature	36
+geographic location (longitude)	-111.39185
+geographic location (depth)	0
+geographic location (country and/or sea,region)	Canada
+collection date	2012-09-06
+environment (biome)	terrestrial biome
+environment (feature)	oil reservoir
+environment (material)	sandstone
+environmental package	miscellaneous
+sample collection device or method	Sample placed in sealed bag
+depth	0
+geographic location (latitude)	56.7063166666667
+miscellaneous parameter2	Horse River oil sands outcrops ??? Cliff
+NCBI sample classification	1348798
+instrument model	LS454
+ENA checklist	ENA default sample checklist (ERC000011)
+collection time	12:00:00
+sample name	H1C.454AllContigs_Singletons
+broker object ID	mgm4523100.3
+collection timezone	UTC-6
+continent	north america
+material	sandstone
+sample identifier	4523100.3
+
+study_id	MGYS00000453
+sample_id	ERS627840
+temperature	25
+geographic location (longitude)	-111.39185
+geographic location (depth)	0
+geographic location (country and/or sea,region)	Canada
+collection date	2012-09-06
+environment (biome)	terrestrial biome
+environment (feature)	oil reservoir
+environment (material)	sandstone
+environmental package	miscellaneous
+sample collection device or method	Sample placed in sealed bag
+depth	0
+geographic location (latitude)	56.7063166666667
+miscellaneous parameter2	Horse River oil sands outcrops ??? in water
+NCBI sample classification	1348798
+instrument model	LS454
+ENA checklist	ENA default sample checklist (ERC000011)
+collection time	12:00:00
+sample name	H1R 454 QC Reads
+broker object ID	mgm4523103.3
+collection timezone	UTC-6
+continent	north america
+material	sandstone
+sample identifier	4523103.3
+
+study_id	MGYS00000453
+sample_id	ERS627841
+temperature	25
+geographic location (longitude)	-111.39185
+geographic location (depth)	0
+geographic location (country and/or sea,region)	Canada
+collection date	2012-09-06
+environment (biome)	terrestrial biome
+environment (feature)	oil reservoir
+environment (material)	sandstone
+environmental package	miscellaneous
+sample collection device or method	Sample placed in sealed bag
+depth	0
+geographic location (latitude)	56.7063166666667
+miscellaneous parameter2	Horse River oil sands outcrops ??? in water
+NCBI sample classification	1348798
+instrument model	LS454
+ENA checklist	ENA default sample checklist (ERC000011)
+collection time	12:00:00
+sample name	H1R.454AllContigs_Singletons
+broker object ID	mgm4523104.3
+collection timezone	UTC-6
+continent	north america
+material	sandstone
+sample identifier	4523104.3
+
+study_id	MGYS00000453
+sample_id	ERS627842
+geographic location (longitude)	-118.13
+geographic location (country and/or sea,region)	Canada
+collection date	2008-01-07
+environment (biome)	terrestrial biome
+environment (feature)	oil reservoir
+environment (material)	sandstone
+environmental package	miscellaneous
+geographic location (latitude)	56.04
+NCBI sample classification	1348798
+instrument model	LS454
+ENA checklist	ENA default sample checklist (ERC000011)
+collection time	12:00:00
+sample name	604WGA 454 newbler2.6 contigs and singletons
+broker object ID	mgm4507690.3
+collection timezone	UTC-6
+continent	north america
+material	sandstone
+sample identifier	4507690.3
+
+study_id	MGYS00000453
+sample_id	ERS627843
+geographic location (longitude)	-118.13
+geographic location (country and/or sea,region)	Canada
+collection date	2008-01-07
+environment (biome)	terrestrial biome
+environment (feature)	oil reservoir
+environment (material)	sandstone
+environmental package	miscellaneous
+geographic location (latitude)	56.04
+NCBI sample classification	1348798
+instrument model	LS454
+ENA checklist	ENA default sample checklist (ERC000011)
+collection time	12:00:00
+sample name	604WGA 454 QC Reads
+broker object ID	mgm4507688.3
+collection timezone	UTC-6
+continent	north america
+material	sandstone
+sample identifier	4507688.3
+
+study_id	MGYS00000453
+sample_id	ERS627844
+geographic location (longitude)	-118.13
+geographic location (country and/or sea,region)	Canada
+collection date	2008-01-07
+environment (biome)	terrestrial biome
+environment (feature)	oil reservoir
+environment (material)	sandstone
+environmental package	miscellaneous
+geographic location (latitude)	56.04
+NCBI sample classification	1348798
+instrument model	LS454
+ENA checklist	ENA default sample checklist (ERC000011)
+collection time	12:00:00
+sample name	614WGA 454 newbler2.6 assembly contigs and singletons
+broker object ID	mgm4507691.3
+collection timezone	UTC-6
+continent	north america
+material	sandstone
+sample identifier	4507691.3
+
+study_id	MGYS00000453
+sample_id	ERS627845
+geographic location (longitude)	-118.13
+geographic location (country and/or sea,region)	Canada
+collection date	2008-01-07
+environment (biome)	terrestrial biome
+environment (feature)	oil reservoir
+environment (material)	sandstone
+environmental package	miscellaneous
+geographic location (latitude)	56.04
+NCBI sample classification	1348798
+instrument model	LS454
+ENA checklist	ENA default sample checklist (ERC000011)
+collection time	12:00:00
+sample name	614WGA 454 QC Reads
+broker object ID	mgm4507689.3
+collection timezone	UTC-6
+continent	north america
+material	sandstone
+sample identifier	4507689.3
+
+study_id	MGYS00000453
+sample_id	ERS627856
+temperature	28.7
+geographic location (longitude)	-108
+geographic location (country and/or sea,region)	USA
+collection date	2011-09-01
+environment (biome)	terrestrial biome
+environment (feature)	coal mine
+environment (material)	carbon dioxide-reducing sediment
+environmental package	miscellaneous
+pH	7.88
+geographic location (latitude)	37
+NCBI sample classification	1348798
+instrument model	LS454
+ENA checklist	ENA default sample checklist (ERC000011)
+collection time	12:00:00
+sample name	CG13 454 newbler assembly contigs and singletons
+broker object ID	mgm4509517.3
+collection timezone	UTC-6
+continent	north america
+material	carbon dioxide-reducing sediment
+sample identifier	4509517.3
+
+study_id	MGYS00000453
+sample_id	ERS627857
+temperature	28.7
+geographic location (longitude)	-108
+geographic location (country and/or sea,region)	USA
+collection date	2011-09-01
+environment (biome)	terrestrial biome
+environment (feature)	coal mine
+environment (material)	carbon dioxide-reducing sediment
+environmental package	miscellaneous
+pH	7.88
+geographic location (latitude)	37
+NCBI sample classification	1348798
+instrument model	LS454
+ENA checklist	ENA default sample checklist (ERC000011)
+collection time	12:00:00
+sample name	CG13 454 QC Reads
+broker object ID	mgm4509513.3
+collection timezone	UTC-6
+continent	north america
+material	carbon dioxide-reducing sediment
+sample identifier	4509513.3
+
+study_id	MGYS00000453
+sample_id	ERS627858
+temperature	32.6
+geographic location (longitude)	-108
+geographic location (country and/or sea,region)	USA
+collection date	2011-09-01
+environment (biome)	terrestrial biome
+environment (feature)	coal mine
+environment (material)	carbon dioxide-reducing sediment
+environmental package	miscellaneous
+pH	7.07
+geographic location (latitude)	37
+NCBI sample classification	1348798
+instrument model	LS454
+ENA checklist	ENA default sample checklist (ERC000011)
+collection time	12 days, 0:00:00
+sample name	CG19 454 newbler assembly contigs and singletons
+broker object ID	mgm4509518.3
+collection timezone	UTC-6
+continent	north america
+material	carbon dioxide-reducing sediment
+sample identifier	4509518.3
+
+study_id	MGYS00000453
+sample_id	ERS627859
+temperature	32.6
+geographic location (longitude)	-108
+geographic location (country and/or sea,region)	USA
+collection date	2011-09-01
+environment (biome)	terrestrial biome
+environment (feature)	coal mine
+environment (material)	carbon dioxide-reducing sediment
+environmental package	miscellaneous
+pH	7.07
+geographic location (latitude)	37
+NCBI sample classification	1348798
+instrument model	LS454
+ENA checklist	ENA default sample checklist (ERC000011)
+collection time	12 days, 0:00:00
+sample name	CG19 QC Reads
+broker object ID	mgm4509514.3
+collection timezone	UTC-6
+continent	north america
+material	carbon dioxide-reducing sediment
+sample identifier	4509514.3
+
+study_id	MGYS00000453
+sample_id	ERS627860
+temperature	32.4
+geographic location (longitude)	-108
+geographic location (country and/or sea,region)	USA
+collection date	2011-09-01
+environment (biome)	terrestrial biome
+environment (feature)	coal mine
+environment (material)	carbon dioxide-reducing sediment
+environmental package	miscellaneous
+pH	7.74
+geographic location (latitude)	37
+NCBI sample classification	1348798
+instrument model	LS454
+ENA checklist	ENA default sample checklist (ERC000011)
+collection time	12 days, 0:00:00
+sample name	CG7 454 newbler assembly contigs and singletons
+broker object ID	mgm4509519.3
+collection timezone	UTC-6
+continent	north america
+material	carbon dioxide-reducing sediment
+sample identifier	4509519.3
+
+study_id	MGYS00000453
+sample_id	ERS627861
+temperature	32.4
+geographic location (longitude)	-108
+geographic location (country and/or sea,region)	USA
+collection date	2011-09-01
+environment (biome)	terrestrial biome
+environment (feature)	coal mine
+environment (material)	carbon dioxide-reducing sediment
+environmental package	miscellaneous
+pH	7.74
+geographic location (latitude)	37
+NCBI sample classification	1348798
+instrument model	LS454
+ENA checklist	ENA default sample checklist (ERC000011)
+collection time	12 days, 0:00:00
+sample name	CG7 454 QC reads
+broker object ID	mgm4509515.3
+collection timezone	UTC-6
+continent	north america
+material	carbon dioxide-reducing sediment
+sample identifier	4509515.3
+
+study_id	MGYS00000453
+sample_id	ERS627862
+temperature	31
+geographic location (longitude)	-108
+geographic location (country and/or sea,region)	USA
+collection date	2011-09-01
+environment (biome)	terrestrial biome
+environment (feature)	coal mine
+environment (material)	carbon dioxide-reducing sediment
+environmental package	miscellaneous
+pH	7.05
+geographic location (latitude)	37
+NCBI sample classification	1348798
+instrument model	LS454
+ENA checklist	ENA default sample checklist (ERC000011)
+collection time	12 days, 0:00:00
+sample name	CG8 454 QC reads
+broker object ID	mgm4509516.3
+collection timezone	UTC-6
+continent	north america
+material	carbon dioxide-reducing sediment
+sample identifier	4509516.3
+
+study_id	MGYS00000453
+sample_id	ERS627863
+temperature	31
+geographic location (longitude)	-108
+geographic location (country and/or sea,region)	USA
+collection date	2011-09-01
+environment (biome)	terrestrial biome
+environment (feature)	coal mine
+environment (material)	carbon dioxide-reducing sediment
+environmental package	miscellaneous
+pH	7.05
+geographic location (latitude)	37
+NCBI sample classification	1348798
+instrument model	LS454
+ENA checklist	ENA default sample checklist (ERC000011)
+collection time	12 days, 0:00:00
+sample name	CG8 newbler assembly contigs and singletons
+broker object ID	mgm4509520.3
+collection timezone	UTC-6
+continent	north america
+material	carbon dioxide-reducing sediment
+sample identifier	4509520.3
+
+study_id	MGYS00000453
+sample_id	ERS627864
+temperature	22
+geographic location (longitude)	113.78136
+geographic location (depth)	686
+geographic location (country and/or sea,region)	Canada
+collection date	2010-07-29
+environment (biome)	terrestrial biome
+environment (feature)	coal mine
+environment (material)	carbon dioxide-reducing sediment
+environmental package	miscellaneous
+depth	686
+geographic location (latitude)	52.11932
+NCBI sample classification	1348798
+instrument model	LS454
+ENA checklist	ENA default sample checklist (ERC000011)
+collection time	12 days, 0:00:00
+sample name	CO182 Illumina data assembly
+broker object ID	mgm4492765.3
+collection timezone	UTC-6
+continent	north america
+material	carbon dioxide-reducing sediment
+sample identifier	4492765.3
+
+study_id	MGYS00000453
+sample_id	ERS627865
+temperature	22
+geographic location (longitude)	113.78136
+geographic location (depth)	730
+geographic location (country and/or sea,region)	Canada
+collection date	2010-07-29
+environment (biome)	terrestrial biome
+environment (feature)	coal mine
+environment (material)	carbon dioxide-reducing sediment
+environmental package	miscellaneous
+depth	730
+geographic location (latitude)	52.11932
+NCBI sample classification	1348798
+instrument model	LS454
+ENA checklist	ENA default sample checklist (ERC000011)
+collection time	12 days, 0:00:00
+sample name	CO182.illumina
+broker object ID	mgm4509196.3
+collection timezone	UTC-6
+continent	north america
+material	carbon dioxide-reducing sediment
+sample identifier	4509196.3
+
+study_id	MGYS00000453
+sample_id	ERS627866
+temperature	22
+geographic location (longitude)	113.78136
+geographic location (depth)	730
+geographic location (country and/or sea,region)	Canada
+collection date	2010-07-29
+environment (biome)	terrestrial biome
+environment (feature)	coal mine
+environment (material)	carbon dioxide-reducing sediment
+environmental package	miscellaneous
+depth	730
+geographic location (latitude)	52.11932
+NCBI sample classification	1348798
+instrument model	LS454
+ENA checklist	ENA default sample checklist (ERC000011)
+collection time	12 days, 0:00:00
+sample name	CO183 Illumina data assembly
+broker object ID	mgm4492770.3
+collection timezone	UTC-6
+continent	north america
+material	carbon dioxide-reducing sediment
+sample identifier	4492770.3
+
+study_id	MGYS00000453
+sample_id	ERS627867
+temperature	22
+geographic location (longitude)	113.78136
+geographic location (depth)	686
+geographic location (country and/or sea,region)	Canada
+collection date	2010-07-29
+environment (biome)	terrestrial biome
+environment (feature)	coal mine
+environment (material)	carbon dioxide-reducing sediment
+environmental package	miscellaneous
+depth	686
+geographic location (latitude)	52.11932
+NCBI sample classification	1348798
+instrument model	LS454
+ENA checklist	ENA default sample checklist (ERC000011)
+collection time	12 days, 0:00:00
+sample name	CO183.illumina
+broker object ID	mgm4509197.3
+collection timezone	UTC-6
+continent	north america
+material	carbon dioxide-reducing sediment
+sample identifier	4509197.3
+
+study_id	MGYS00000453
+sample_id	ERS627868
+temperature	35
+geographic location (longitude)	114.70508
+geographic location (depth)	1047.1
+geographic location (country and/or sea,region)	Canada
+collection date	2009-06-03
+environment (biome)	terrestrial biome
+environment (feature)	coal mine
+environment (material)	carbon dioxide-reducing sediment
+environmental package	miscellaneous
+depth	1047.1
+geographic location (latitude)	54.15754
+NCBI sample classification	1348798
+instrument model	LS454
+ENA checklist	ENA default sample checklist (ERC000011)
+collection time	01:00:00
+sample name	Trident1560D 454 newbler assembly contigs and singletons
+broker object ID	mgm4492779.3
+collection timezone	UTC-6
+continent	north america
+material	carbon dioxide-reducing sediment
+sample identifier	4492779.3
+
+study_id	MGYS00000453
+sample_id	ERS627869
+temperature	35
+geographic location (longitude)	114.70508
+geographic location (depth)	1047.1
+geographic location (country and/or sea,region)	Canada
+collection date	2009-06-03
+environment (biome)	terrestrial biome
+environment (feature)	coal mine
+environment (material)	carbon dioxide-reducing sediment
+environmental package	miscellaneous
+depth	1047.1
+geographic location (latitude)	54.15754
+NCBI sample classification	1348798
+instrument model	LS454
+ENA checklist	ENA default sample checklist (ERC000011)
+collection time	01:00:00
+sample name	Trident-1560D 454 QC Reads
+broker object ID	mgm4470905.3
+collection timezone	UTC-6
+continent	north america
+material	carbon dioxide-reducing sediment
+sample identifier	4470905.3
+
+study_id	MGYS00000453
+sample_id	ERS627870
+temperature	30
+geographic location (longitude)	-110.6775
+geographic location (depth)	800
+geographic location (country and/or sea,region)	Canada
+collection date	2012-04-17
+environment (biome)	terrestrial biome
+environment (feature)	oil reservoir
+environment (material)	oil field production water
+environmental package	miscellaneous
+sample collection device or method	Anaerobic Sample collection (Nalgene bottles filled till brim)
+depth	800
+pH	7.2
+geographic location (latitude)	50.0416666666667
+miscellaneous parameter2	No nitrate breakthrough in 10PW after 4 years of nitrate injection in the field for souring control
+NCBI sample classification	1348798
+instrument model	LS454
+ENA checklist	ENA default sample checklist (ERC000011)
+collection time	12:30:00
+sample name	PW_MHGC_2012April10 454 QC Reads
+broker object ID	mgm4507667.3
+collection timezone	UTC-6
+continent	north america
+material	oil field production water
+sample identifier	4507667.3
+
+study_id	MGYS00000453
+sample_id	ERS627871
+temperature	30
+geographic location (longitude)	-110.6775
+geographic location (depth)	800
+geographic location (country and/or sea,region)	Canada
+collection date	2012-04-17
+environment (biome)	terrestrial biome
+environment (feature)	oil reservoir
+environment (material)	oil field production water
+environmental package	miscellaneous
+sample collection device or method	Anaerobic Sample collection (Nalgene bottles filled till brim)
+depth	800
+pH	7.2
+geographic location (latitude)	50.0416666666667
+miscellaneous parameter2	No nitrate breakthrough in 10PW after 4 years of nitrate injection in the field for souring control
+NCBI sample classification	1348798
+instrument model	LS454
+ENA checklist	ENA default sample checklist (ERC000011)
+collection time	12:30:00
+sample name	PW_MHGC_2012April10_454_newbler2.6_contigSingletons
+broker object ID	mgm4507670.3
+collection timezone	UTC-6
+continent	north america
+material	oil field production water
+sample identifier	4507670.3
+
+study_id	MGYS00000453
+sample_id	ERS627872
+temperature	30
+geographic location (longitude)	-110.6775
+geographic location (depth)	800
+geographic location (country and/or sea,region)	Canada
+collection date	2012-04-17
+environment (biome)	terrestrial biome
+environment (feature)	oil reservoir
+environment (material)	oil field production water
+environmental package	miscellaneous
+sample collection device or method	Anaerobic Sample collection (Nalgene bottles filled till brim)
+depth	800
+pH	7.5
+geographic location (latitude)	50.041667
+miscellaneous parameter2	Nitrate breakthrough in 2PW  after  years of nitrate injection in field to control souring
+NCBI sample classification	1348798
+instrument model	LS454
+ENA checklist	ENA default sample checklist (ERC000011)
+collection time	12:00:00
+sample name	PW_MHGC_2012April2.illumina454.contigs
+broker object ID	mgm4527899.3
+collection timezone	UTC-6
+continent	north america
+material	oil field production water
+sample identifier	4527899.3
+
+study_id	MGYS00000453
+sample_id	ERS627873
+temperature	30
+geographic location (longitude)	-110.6775
+geographic location (depth)	800
+geographic location (country and/or sea,region)	Canada
+collection date	2012-04-17
+environment (biome)	terrestrial biome
+environment (feature)	oil reservoir
+environment (material)	oil field production water
+environmental package	miscellaneous
+sample collection device or method	Anaerobic Sample collection (Nalgene bottles filled till brim)
+depth	800
+pH	7.5
+geographic location (latitude)	50.041667
+miscellaneous parameter2	Nitrate breakthrough in 2PW  after  years of nitrate injection in field to control souring
+NCBI sample classification	1348798
+instrument model	LS454
+ENA checklist	ENA default sample checklist (ERC000011)
+collection time	12:00:00
+sample name	PW_MHGC_2012April2_454_newbler2.6_contigSingletons
+broker object ID	mgm4507672.3
+collection timezone	UTC-6
+continent	north america
+material	oil field production water
+sample identifier	4507672.3
+
+study_id	MGYS00000453
+sample_id	ERS627874
+temperature	30
+geographic location (longitude)	-110.6775
+geographic location (depth)	800
+geographic location (country and/or sea,region)	Canada
+collection date	2012-04-17
+environment (biome)	terrestrial biome
+environment (feature)	oil reservoir
+environment (material)	oil field production water
+environmental package	miscellaneous
+sample collection device or method	Anaerobic Sample collection (Nalgene bottles filled till brim)
+depth	800
+pH	7.5
+geographic location (latitude)	50.041667
+miscellaneous parameter2	Nitrate breakthrough in 2PW  after  years of nitrate injection in field to control souring
+NCBI sample classification	1348798
+instrument model	LS454
+ENA checklist	ENA default sample checklist (ERC000011)
+collection time	12:00:00
+sample name	PW_MHGC_2012April2_454Illumina
+broker object ID	mgm4524037.3
+collection timezone	UTC-6
+continent	north america
+material	oil field production water
+sample identifier	4524037.3
+
+study_id	MGYS00000453
+sample_id	ERS627875
+temperature	30
+geographic location (longitude)	-110.6775
+geographic location (depth)	800
+geographic location (country and/or sea,region)	Canada
+collection date	2012-04-17
+environment (biome)	terrestrial biome
+environment (feature)	oil reservoir
+environment (material)	oil field production water
+environmental package	miscellaneous
+sample collection device or method	Anaerobic Sample collection (Nalgene bottles filled till brim)
+depth	800
+pH	7.5
+geographic location (latitude)	50.041667
+miscellaneous parameter2	Nitrate breakthrough in 2PW  after  years of nitrate injection in field to control souring
+NCBI sample classification	1348798
+instrument model	LS454
+ENA checklist	ENA default sample checklist (ERC000011)
+collection time	12:00:00
+sample name	PW_MHGC2012April2 454 QC Reads
+broker object ID	mgm4507668.3
+collection timezone	UTC-6
+continent	north america
+material	oil field production water
+sample identifier	4507668.3
+
+study_id	MGYS00000453
+sample_id	ERS627882
+temperature	30
+geographic location (longitude)	-110.6775
+geographic location (depth)	800
+geographic location (country and/or sea,region)	Canada
+collection date	2012-04-17
+environment (biome)	terrestrial biome
+environment (feature)	oil reservoir
+environment (material)	oil field production water
+environmental package	miscellaneous
+sample collection device or method	Anaerobic Sample collection (Nalgene bottles filled till brim)
+depth	800
+pH	7.2
+geographic location (latitude)	50.0416666666667
+miscellaneous parameter2	No nitrate breakthrough in 10PW after 4 years of nitrate injection in the field for souring control
+NCBI sample classification	1348798
+instrument model	LS454
+ENA checklist	ENA default sample checklist (ERC000011)
+collection time	12:00:00
+sample name	MHGC10PW.illumina.contig.200bp
+broker object ID	mgm4559935.3
+collection timezone	UTC-6
+continent	north america
+material	oil field production water
+sample identifier	4559935.3
+
+study_id	MGYS00000434
+study_id	MGYS00002026
+sample_id	ERS580791
+total organic carbon	0.43
+investigation type	metagenome
+project name	BASE
+collection date	2012-11-07
+environmental package	soil
+sequencing method	Illumina
+depth	0.20
+geographic location (elevation)	72
+history/agrochemical additions	Fertiliser, herbicides
+current land use	Production from dryland agriculture and plantations
+history/extreme events	0
+soil_taxonomic/FAO classification	Isbell 2002
+history/fire	stubble burnt annually
+history/flooding	0
+links to additional analysis	http://bioplatforms.com.au/
+soil_taxonomic/local classification	Calcarosol
+history/previous land use	Residual native cover
+slope aspect	NW
+slope gradient	0
+texture	2.5
+water content of soil	4.4
+NCBI sample classification	410658
+instrument model	Illumina HiSeq 2500
+ENA checklist	GSC MIxS soil (ERC000022)
+
+study_id	MGYS00000357
+sample_id	ERS239108
+investigation type	metagenome
+project name	Eukaryotic Beech Litter Transcriptome 2012
+sequencing method	Illumina
+depth	0.05
+geographic location (elevation)	480
+NCBI sample classification	2759
+instrument model	Illumina MiSeq
+ENA checklist	GSC MIxS soil (ERC000022)
+
+study_id	MGYS00000434
+study_id	MGYS00002026
+sample_id	ERS580793
+total organic carbon	1.07
+investigation type	metagenome
+project name	BASE
+collection date	2012-11-07
+environmental package	soil
+sequencing method	Illumina
+depth	0.20
+geographic location (elevation)	90
+history/agrochemical additions	nil
+current land use	Conservation and Natural Environments
+history/extreme events	0
+soil_taxonomic/FAO classification	Isbell 2002
+history/fire	unknown
+history/flooding	0
+links to additional analysis	http://bioplatforms.com.au/
+soil_taxonomic/local classification	Calcarosol
+history/previous land use	Residual native cover
+slope aspect	NW
+slope gradient	0
+texture	2
+water content of soil	4.2
+NCBI sample classification	410658
+instrument model	Illumina HiSeq 2500
+ENA checklist	GSC MIxS soil (ERC000022)
+
+study_id	MGYS00000434
+study_id	MGYS00002026
+sample_id	ERS580794
+total organic carbon	1.38
+investigation type	metagenome
+project name	BASE
+collection date	2012-11-08
+environmental package	soil
+sequencing method	Illumina
+depth	0.10
+geographic location (elevation)	139
+history/agrochemical additions	Urea and herbicide
+current land use	Production from Dryland Agriculture and Plantations
+history/extreme events	0
+soil_taxonomic/FAO classification	Isbell 2002
+history/fire	yes, stubble
+history/flooding	0
+links to additional analysis	http://bioplatforms.com.au/
+soil_taxonomic/local classification	Vertosol (grey)
+history/previous land use	Residual native cover
+slope aspect	NW
+slope gradient	10
+texture	2.5
+water content of soil	8.9
+NCBI sample classification	410658
+instrument model	Illumina HiSeq 2500
+ENA checklist	GSC MIxS soil (ERC000022)
+
+study_id	MGYS00000434
+study_id	MGYS00002026
+sample_id	ERS580795
+total organic carbon	0.84
+investigation type	metagenome
+project name	BASE
+collection date	2012-11-08
+environmental package	soil
+sequencing method	Illumina
+depth	0.20
+geographic location (elevation)	139
+history/agrochemical additions	Urea and herbicide
+current land use	Production from Dryland Agriculture and Plantations
+history/extreme events	0
+soil_taxonomic/FAO classification	Isbell 2002
+history/fire	yes, stubble
+history/flooding	0
+links to additional analysis	http://bioplatforms.com.au/
+soil_taxonomic/local classification	Vertosol (grey)
+history/previous land use	Residual native cover
+slope aspect	NW
+slope gradient	10
+texture	2.5
+water content of soil	9.1
+NCBI sample classification	410658
+instrument model	Illumina HiSeq 2500
+ENA checklist	GSC MIxS soil (ERC000022)
+
+study_id	MGYS00000387
+study_id	MGYS00002015
+sample_id	ERS437996
+investigation type	metagenome
+project name	ASS Lime injection
+geographic location (longitude)	139.27280775
+geographic location (country and/or sea,region)	Australia
+collection date	31/01/2013
+environment (biome)	Glassland
+environment (feature)	Farmland
+environment (material)	Clay
+environmental package	soil
+sequencing method	Illumina
+depth	0.55
+geographic location (elevation)	50
+geographic location (latitude)	-35.10536088
+NCBI sample classification	410658
+instrument model	Illumina MiSeq
+ENA checklist	GSC MIxS soil (ERC000022)
+
+study_id	MGYS00000387
+study_id	MGYS00002015
+sample_id	ERS437997
+investigation type	metagenome
+project name	ASS Lime injection
+geographic location (longitude)	139.27282854
+geographic location (country and/or sea,region)	Australia
+collection date	31/01/2013
+environment (biome)	Glassland
+environment (feature)	Farmland
+environment (material)	Clay
+environmental package	soil
+sequencing method	Illumina
+depth	0.55
+geographic location (elevation)	50
+geographic location (latitude)	-35.10541527
+NCBI sample classification	410658
+instrument model	Illumina MiSeq
+ENA checklist	GSC MIxS soil (ERC000022)
+
+study_id	MGYS00000387
+study_id	MGYS00002015
+sample_id	ERS437998
+investigation type	metagenome
+project name	ASS Lime injection
+geographic location (longitude)	139.27284046
+geographic location (country and/or sea,region)	Australia
+collection date	31/01/2013
+environment (biome)	Glassland
+environment (feature)	Farmland
+environment (material)	Clay
+environmental package	soil
+sequencing method	Illumina
+depth	0.55
+geographic location (elevation)	50
+geographic location (latitude)	-35.10537036
+NCBI sample classification	410658
+instrument model	Illumina MiSeq
+ENA checklist	GSC MIxS soil (ERC000022)
+
+study_id	MGYS00000387
+study_id	MGYS00002015
+sample_id	ERS437999
+investigation type	metagenome
+project name	ASS Lime injection
+geographic location (longitude)	139.27284065
+geographic location (country and/or sea,region)	Australia
+collection date	31/01/2013
+environment (biome)	Glassland
+environment (feature)	Farmland
+environment (material)	Clay
+environmental package	soil
+sequencing method	Illumina
+depth	0.55
+geographic location (elevation)	50
+geographic location (latitude)	-35.10536135
+NCBI sample classification	410658
+instrument model	Illumina MiSeq
+ENA checklist	GSC MIxS soil (ERC000022)
+
+study_id	MGYS00000387
+study_id	MGYS00002015
+sample_id	ERS438000
+investigation type	metagenome
+project name	ASS Lime injection
+geographic location (longitude)	139.27284046
+geographic location (country and/or sea,region)	Australia
+collection date	31/01/2013
+environment (biome)	Glassland
+environment (feature)	Farmland
+environment (material)	Clay
+environmental package	soil
+sequencing method	Illumina
+depth	0.55
+geographic location (elevation)	50
+geographic location (latitude)	-35.10537036
+NCBI sample classification	410658
+instrument model	Illumina MiSeq
+ENA checklist	GSC MIxS soil (ERC000022)
+
+study_id	MGYS00000373
+study_id	MGYS00002070
+sample_id	ERS438002
+investigation type	metagenome
+project name	ASS lime injection
+geographic location (longitude)	139.27242482
+geographic location (country and/or sea,region)	Australia
+collection date	01/02/2013
+environment (biome)	Grassland
+environment (feature)	Farmland
+environment (material)	Clay
+environmental package	soil
+sequencing method	Illumina Miseq
+depth	0.55
+geographic location (elevation)	50
+geographic location (latitude)	-35.10687009
+NCBI sample classification	410658
+instrument model	Illumina MiSeq
+ENA checklist	GSC MIxS soil (ERC000022)
+

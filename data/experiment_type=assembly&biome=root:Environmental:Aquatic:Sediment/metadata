@@ -1,0 +1,47 @@
+study_id	MGYS00005148
+study_id	MGYS00005295
+sample_id	ERS3757522
+investigation type	metagenome
+project name	Lost Hammer metagenome
+geographic location (longitude)	-90.21097
+geographic location (country and/or sea,region)	Canada
+collection date	2017-07-08
+environment (biome)	Arctic soil
+environment (feature)	perennial spring outflow channel
+environment (material)	sediment
+environmental package	soil
+sequencing method	Illumina Miseq
+elevation	130.0
+geographic location (latitude)	79.07672
+ENA checklist	ERC000022
+
+study_id	MGYS00005148
+study_id	MGYS00005295
+sample_id	ERS3757523
+investigation type	metagenome
+project name	Lost Hammer metagenome
+geographic location (longitude)	-90.21217
+geographic location (country and/or sea,region)	Canada
+collection date	2017-07-08
+environment (biome)	Arctic soil
+environment (feature)	perennial spring outflow channel
+environment (material)	sediment
+environmental package	soil
+sequencing method	Illumina Miseq
+elevation	130.0
+geographic location (latitude)	79.07644
+ENA checklist	ERC000022
+
+study_id	MGYS00003336
+sample_id	SRS1648183
+geographic location (longitude)	-172.20001
+geographic location (country and/or sea,region)	Pacific Ocean
+collection date	2012-09-02
+environment (biome)	marine
+environment (feature)	ocean trench
+environment (material)	sediment
+depth	0.0-2.0
+geographic location (latitude)	-16.64175
+instrument model	Illumina HiSeq 1000
+last update date	2016-09-27
+

@@ -1,0 +1,1335 @@
+study_id	MGYS00003602
+sample_id	SRS1972149
+geographic location (longitude)	-110.4387
+geographic location (country and/or sea,region)	USA:Yellowstone National Park, Wyoming, USA
+collection date	2012-10-12
+geographic location (latitude)	44.6102
+instrument model	Illumina HiSeq 2000
+last update date	2017-02-15
+
+study_id	MGYS00002328
+sample_id	SRS1971321
+geographic location (longitude)	-110.69
+geographic location (country and/or sea,region)	USA:Octopus Spring, Yellowstone National Park, Wyoming, USA
+geographic location (latitude)	44.376
+instrument model	Illumina HiSeq 2000
+
+study_id	MGYS00002327
+sample_id	SRS1947333
+geographic location (longitude)	-122.4271
+geographic location (country and/or sea,region)	USA: California
+collection date	2014-09-02
+geographic location (latitude)	39.0348
+instrument model	Illumina HiSeq 2500
+
+study_id	MGYS00002325
+sample_id	SRS1946303
+geographic location (longitude)	-98.6889
+geographic location (country and/or sea,region)	USA: Zodletone Spring, Oklahoma
+collection date	2013-12-03
+geographic location (latitude)	34.9956
+instrument model	Illumina HiSeq 2500
+
+study_id	MGYS00002680
+sample_id	SRS1947328
+geographic location (longitude)	-122.4323
+geographic location (country and/or sea,region)	USA: California
+collection date	2014-09-02
+geographic location (latitude)	39.0314
+instrument model	Illumina HiSeq 2500
+
+study_id	MGYS00005690
+study_id	MGYS00005691
+sample_id	DRS082837
+temperature	96.8
+project name	Metagenomic analysis of Kirishima hot springs
+geographic location (longitude)	130.46
+geographic location (country and/or sea,region)	Japan:Kagoshima, Kirishima
+collection date	2013-09-01
+environment (biome)	freshwater biome
+environment (feature)	hot spring
+environment (material)	water
+depth	0.1
+geographic location (latitude)	31.57
+
+study_id	MGYS00005690
+study_id	MGYS00005691
+sample_id	DRS082839
+temperature	88.0
+project name	Metagenomic analysis of Kirishima hot springs
+geographic location (longitude)	130.5
+geographic location (country and/or sea,region)	Japan:Kagoshima, Kirishima
+collection date	2013-09-01
+environment (biome)	freshwater biome
+environment (feature)	hot spring
+environment (material)	water
+depth	0.1
+geographic location (latitude)	31.53
+
+study_id	MGYS00005690
+study_id	MGYS00005691
+sample_id	DRS082840
+temperature	84.0
+project name	Metagenomic analysis of Kirishima hot springs
+geographic location (longitude)	130.49
+geographic location (country and/or sea,region)	Japan:Kagoshima, Kirishima
+collection date	2013-09-01
+environment (biome)	freshwater biome
+environment (feature)	hot spring
+environment (material)	water
+depth	0.1
+geographic location (latitude)	31.54
+
+study_id	MGYS00005690
+study_id	MGYS00005691
+sample_id	DRS082841
+temperature	85.5
+project name	Metagenomic analysis of Kirishima hot springs
+geographic location (longitude)	130.48
+geographic location (country and/or sea,region)	Japan:Kagoshima, Kirishima
+collection date	2013-09-01
+environment (biome)	freshwater biome
+environment (feature)	hot spring
+environment (material)	water
+depth	0.1
+geographic location (latitude)	31.55
+
+study_id	MGYS00005690
+study_id	MGYS00005691
+sample_id	DRS082834
+temperature	84.5
+project name	Metagenomic analysis of Kirishima hot springs
+geographic location (longitude)	130.47
+geographic location (country and/or sea,region)	Japan:Kagoshima, Kirishima
+collection date	2013-09-01
+environment (biome)	freshwater biome
+environment (feature)	hot spring
+environment (material)	water
+depth	0.1
+geographic location (latitude)	31.55
+
+study_id	MGYS00005690
+study_id	MGYS00005691
+sample_id	DRS082838
+temperature	94.7
+project name	Metagenomic analysis of Kirishima hot springs
+geographic location (longitude)	130.47
+geographic location (country and/or sea,region)	Japan:Kagoshima, Kirishima
+collection date	2013-09-01
+environment (biome)	freshwater biome
+environment (feature)	hot spring
+environment (material)	water
+depth	0.1
+geographic location (latitude)	31.55
+
+study_id	MGYS00005690
+study_id	MGYS00005691
+sample_id	DRS082836
+temperature	68.0
+project name	Metagenomic analysis of Kirishima hot springs
+geographic location (longitude)	130.47
+geographic location (country and/or sea,region)	Japan:Kagoshima, Kirishima
+collection date	2013-09-01
+environment (biome)	freshwater biome
+environment (feature)	hot spring
+environment (material)	water
+depth	0.1
+geographic location (latitude)	31.55
+
+study_id	MGYS00005690
+study_id	MGYS00005691
+sample_id	DRS082835
+temperature	90.4
+project name	Metagenomic analysis of Kirishima hot springs
+geographic location (longitude)	130.49
+geographic location (country and/or sea,region)	Japan:Kagoshima, Kirishima
+collection date	2013-09-01
+environment (biome)	freshwater biome
+environment (feature)	hot spring
+environment (material)	water
+depth	0.1
+geographic location (latitude)	31.53
+
+study_id	MGYS00005690
+sample_id	DRS082842
+temperature	89.1
+project name	Metagenomic analysis of Kirishima hot springs
+geographic location (longitude)	130.49
+geographic location (country and/or sea,region)	Japan:Kagoshima, Kirishima
+collection date	2013-09-01
+environment (biome)	freshwater biome
+environment (feature)	hot spring
+environment (material)	water
+depth	0.1
+geographic location (latitude)	31.54
+
+study_id	MGYS00005688
+study_id	MGYS00005689
+sample_id	SRS1589162
+temperature	98.0
+geographic location (longitude)	83.39
+geographic location (country and/or sea,region)	India: Tattapani, Chhattisgarh
+collection date	2016-01-26
+environment (biome)	Hot spring water
+environment (feature)	surface water
+environment (material)	water
+depth	1.0
+geographic location (latitude)	23.41
+
+study_id	MGYS00005688
+study_id	MGYS00005689
+sample_id	SRS1589163
+temperature	61.5
+geographic location (longitude)	83.39
+geographic location (country and/or sea,region)	India: Tattapani, Chhattisgarh
+collection date	2016-01-26
+environment (biome)	Hot spring water
+environment (feature)	surface water
+environment (material)	water
+depth	1.0
+geographic location (latitude)	23.41
+
+study_id	MGYS00005688
+study_id	MGYS00005689
+sample_id	SRS1589165
+temperature	69.0
+geographic location (longitude)	83.39
+geographic location (country and/or sea,region)	India: Tattapani, Chhattisgarh
+collection date	2016-01-26
+environment (biome)	Hot spring water
+environment (feature)	surface water
+environment (material)	water
+depth	1.0
+geographic location (latitude)	23.41
+
+study_id	MGYS00005688
+study_id	MGYS00005689
+sample_id	SRS1589166
+temperature	67.0
+geographic location (longitude)	83.39
+geographic location (country and/or sea,region)	India: Tattapani, Chhattisgarh
+collection date	2016-01-26
+environment (biome)	Hot spring water
+environment (feature)	surface water
+environment (material)	water
+depth	1.0
+geographic location (latitude)	23.41
+
+study_id	MGYS00005688
+study_id	MGYS00005689
+sample_id	SRS1589167
+temperature	43.5
+geographic location (longitude)	78.36
+geographic location (country and/or sea,region)	India: Anhoni, Madhya Pradesh
+collection date	2014-10-25
+environment (biome)	Hot spring water
+environment (feature)	surface water
+environment (material)	water
+depth	1.0
+geographic location (latitude)	22.65
+
+study_id	MGYS00005688
+study_id	MGYS00005689
+sample_id	SRS1589160
+temperature	52.1
+geographic location (longitude)	78.36
+geographic location (country and/or sea,region)	India: Anhoni, Madhya Pradesh
+collection date	2014-10-25
+environment (biome)	Hot spring water
+environment (feature)	surface water
+environment (material)	water
+depth	400.0
+geographic location (latitude)	22.65
+
+study_id	MGYS00005688
+sample_id	SRS1589161
+temperature	55.0
+geographic location (longitude)	78.36
+geographic location (country and/or sea,region)	India: Anhoni, Madhya Pradesh
+collection date	2014-10-25
+environment (biome)	Hot spring water
+environment (feature)	surface water
+environment (material)	water
+depth	1.0
+geographic location (latitude)	22.65
+
+study_id	MGYS00005003
+study_id	MGYS00005677
+study_id	MGYS00005678
+sample_id	SRS2797666
+temperature	58.0
+geographic location (longitude)	98.05402
+geographic location (country and/or sea,region)	Russia: Ush-Beldyr
+collection date	2015-07-01
+environment (biome)	alkaline hot spring
+environment (feature)	alkaline hot spring
+environment (material)	microbial mat
+depth	0.5
+pH	9.8
+geographic location (latitude)	51.46897
+instrument model	Illumina MiSeq
+last update date	2017-12-30
+
+study_id	MGYS00005675
+sample_id	SRS5681002
+temperature	83.1
+geographic location (longitude)	177.1902
+geographic location (country and/or sea,region)	New Zealand: Whakaari|White Island
+collection date	2016-08-17
+depth	0.1
+geographic location (latitude)	-37.5248
+
+study_id	MGYS00005673
+sample_id	SRS2907353
+temperature	91.3
+geographic location (longitude)	176.14711
+geographic location (country and/or sea,region)	New Zealand: Taup? Volcanic Zone
+collection date	2016-06-21
+environment (biome)	temperate mixed forest biome [ENVO:01000212]
+environment (feature)	neutral hot spring [ENVO:00002181]
+environment (material)	water
+geographic location (latitude)	-38.47333
+
+study_id	MGYS00005671
+study_id	MGYS00005672
+sample_id	SRS1633001
+temperature	55.0
+geographic location (longitude)	-79.976
+geographic location (country and/or sea,region)	USA: Pennsylvania
+environment (biome)	terrestrial subsurface
+environment (feature)	shale formation
+environment (material)	shale
+geographic location (latitude)	39.898
+
+study_id	MGYS00005671
+study_id	MGYS00005672
+sample_id	SRS1632999
+temperature	55.0
+geographic location (longitude)	-79.976
+geographic location (country and/or sea,region)	USA: Pennsylvania
+environment (biome)	terrestrial subsurface
+environment (feature)	shale formation
+environment (material)	shale
+geographic location (latitude)	39.898
+
+study_id	MGYS00005671
+sample_id	SRS1633000
+temperature	55.0
+geographic location (longitude)	-79.976
+geographic location (country and/or sea,region)	USA: Pennsylvania
+environment (biome)	terrestrial subsurface
+environment (feature)	shale formation
+environment (material)	shale
+geographic location (latitude)	39.898
+
+study_id	MGYS00005669
+study_id	MGYS00005670
+sample_id	SRS1338813
+temperature	30.0
+geographic location (longitude)	-103.00346
+geographic location (country and/or sea,region)	USA: Texas, Big Bend National Park
+collection date	2009-03-17
+salinity	221.0
+geographic location (latitude)	29.14979
+
+study_id	MGYS00005669
+study_id	MGYS00005670
+sample_id	SRS1338839
+temperature	12.0
+geographic location (longitude)	-104.4106
+geographic location (country and/or sea,region)	USA: New Mexico, Bitter Lake NWR
+collection date	2008-11-15
+salinity	228.0
+geographic location (latitude)	33.47665
+
+study_id	MGYS00005669
+study_id	MGYS00005670
+sample_id	SRS1338824
+temperature	11.0
+geographic location (longitude)	-122.12807
+geographic location (country and/or sea,region)	USA:California, San Francisco Bay NWR
+collection date	2009-02-09
+salinity	8258.0
+geographic location (latitude)	37.49897
+
+study_id	MGYS00005669
+study_id	MGYS00005670
+sample_id	SRS1338811
+temperature	28.0
+geographic location (longitude)	-103.00346
+geographic location (country and/or sea,region)	USA: Texas, Big Bend National Park
+collection date	2009-03-17
+salinity	205.0
+geographic location (latitude)	29.14979
+
+study_id	MGYS00005669
+study_id	MGYS00005670
+sample_id	SRS1338798
+temperature	60.0
+geographic location (longitude)	-110.79746
+geographic location (country and/or sea,region)	USA: Wyoming, Fireholl Drive Yellowstone National Park
+collection date	2009-07-28
+salinity	324.0
+geographic location (latitude)	44.53279
+
+study_id	MGYS00005669
+study_id	MGYS00005670
+sample_id	SRS1338816
+temperature	30.0
+geographic location (longitude)	-103.00346
+geographic location (country and/or sea,region)	USA: Texas, Big Bend National Park
+collection date	2009-03-17
+salinity	221.0
+geographic location (latitude)	29.14979
+
+study_id	MGYS00005669
+study_id	MGYS00005670
+sample_id	SRS1338832
+temperature	12.0
+geographic location (longitude)	-104.42092
+geographic location (country and/or sea,region)	USA: New Mexico, Bitter Lake NWR
+collection date	2008-11-15
+salinity	5946.0
+geographic location (latitude)	33.47541
+
+study_id	MGYS00005669
+study_id	MGYS00005670
+sample_id	SRS1338826
+temperature	11.0
+geographic location (longitude)	-122.12807
+geographic location (country and/or sea,region)	USA:California, San Francisco Bay NWR
+collection date	2009-02-09
+salinity	8258.0
+geographic location (latitude)	37.49897
+
+study_id	MGYS00005669
+study_id	MGYS00005670
+sample_id	SRS1338851
+temperature	19.0
+geographic location (longitude)	-98.249504
+geographic location (country and/or sea,region)	USA: Oklahoma, Great Salt Plains NWR
+collection date	2008-10-09
+salinity	15534.0
+geographic location (latitude)	36.79999
+
+study_id	MGYS00005669
+study_id	MGYS00005670
+sample_id	SRS1338829
+temperature	14.0
+geographic location (longitude)	-104.34126
+geographic location (country and/or sea,region)	USA: New Mexico, Bottomless Lake State Park, Lazy Lagoon
+collection date	2008-11-15
+salinity	10017.0
+geographic location (latitude)	33.25377
+
+study_id	MGYS00005669
+study_id	MGYS00005670
+sample_id	SRS1338849
+temperature	19.0
+geographic location (longitude)	-98.249504
+geographic location (country and/or sea,region)	USA: Oklahoma, Great Salt Plains NWR
+collection date	2008-10-09
+salinity	15534.0
+geographic location (latitude)	36.79999
+
+study_id	MGYS00005669
+study_id	MGYS00005670
+sample_id	SRS1338804
+temperature	20.0
+geographic location (longitude)	-81.2778
+geographic location (country and/or sea,region)	USA: Georgia, Sapelo Island Microbial Observatory
+collection date	2009-05-20
+salinity	2476.0
+geographic location (latitude)	31.43978
+
+study_id	MGYS00005669
+study_id	MGYS00005670
+sample_id	SRS1338831
+temperature	14.0
+geographic location (longitude)	-104.34126
+geographic location (country and/or sea,region)	USA: New Mexico, Bottomless Lake State Park, Lazy Lagoon
+collection date	2008-11-15
+salinity	10017.0
+geographic location (latitude)	33.25377
+
+study_id	MGYS00005669
+study_id	MGYS00005670
+sample_id	SRS1338821
+temperature	10.0
+geographic location (longitude)	-122.08481
+geographic location (country and/or sea,region)	USA:California, San Francisco Bay NWR
+collection date	2009-02-09
+salinity	18262.0
+geographic location (latitude)	37.53262
+
+study_id	MGYS00005669
+study_id	MGYS00005670
+sample_id	SRS1338844
+temperature	22.0
+geographic location (longitude)	-95.26693
+geographic location (country and/or sea,region)	USA: Texas, Brazoria NWR
+collection date	2008-10-24
+salinity	9812.0
+geographic location (latitude)	29.03787
+
+study_id	MGYS00005669
+study_id	MGYS00005670
+sample_id	SRS1338850
+temperature	19.0
+geographic location (longitude)	-98.249504
+geographic location (country and/or sea,region)	USA: Oklahoma, Great Salt Plains NWR
+collection date	2008-10-09
+salinity	15534.0
+geographic location (latitude)	36.79999
+
+study_id	MGYS00005669
+study_id	MGYS00005670
+sample_id	SRS1338808
+temperature	47.0
+geographic location (longitude)	-112.72943
+geographic location (country and/or sea,region)	USA: Utah, Baker Hot Springs
+collection date	2009-04-27
+geographic location (latitude)	39.6111
+
+study_id	MGYS00005669
+study_id	MGYS00005670
+sample_id	SRS1338823
+temperature	10.0
+geographic location (longitude)	-122.08481
+geographic location (country and/or sea,region)	USA:California, San Francisco Bay NWR
+collection date	2009-02-09
+salinity	18262.0
+geographic location (latitude)	37.53262
+
+study_id	MGYS00005669
+study_id	MGYS00005670
+sample_id	SRS1338854
+temperature	34.0
+geographic location (longitude)	-98.05018
+geographic location (country and/or sea,region)	USA: Texas, La Sal del Rey
+collection date	2008-06-23
+salinity	40553.0
+geographic location (latitude)	26.54046
+
+study_id	MGYS00005669
+study_id	MGYS00005670
+sample_id	SRS1338835
+temperature	11.0
+geographic location (longitude)	-104.41254
+geographic location (country and/or sea,region)	USA: New Mexico, Bitter Lake NWR
+collection date	2008-11-15
+salinity	18741.0
+geographic location (latitude)	33.48433
+
+study_id	MGYS00005669
+study_id	MGYS00005670
+sample_id	SRS1338852
+temperature	19.0
+geographic location (longitude)	-98.24967
+geographic location (country and/or sea,region)	USA: Oklahoma, Great Salt Plains NWR
+collection date	2008-10-09
+salinity	13136.0
+geographic location (latitude)	36.799236
+
+study_id	MGYS00005669
+study_id	MGYS00005670
+sample_id	SRS1338841
+temperature	12.0
+geographic location (longitude)	-104.4106
+geographic location (country and/or sea,region)	USA: New Mexico, Bitter Lake NWR
+collection date	2008-11-15
+salinity	228.0
+geographic location (latitude)	33.47665
+
+study_id	MGYS00005669
+study_id	MGYS00005670
+sample_id	SRS1338848
+temperature	19.0
+geographic location (longitude)	-98.249504
+geographic location (country and/or sea,region)	USA: Oklahoma, Great Salt Plains NWR
+collection date	2008-10-09
+salinity	15534.0
+geographic location (latitude)	36.79999
+
+study_id	MGYS00005669
+study_id	MGYS00005670
+sample_id	SRS1338812
+temperature	31.0
+geographic location (longitude)	-103.00346
+geographic location (country and/or sea,region)	USA: Texas, Big Bend National Park
+collection date	2009-03-17
+salinity	182.0
+geographic location (latitude)	29.14979
+
+study_id	MGYS00005669
+study_id	MGYS00005670
+sample_id	SRS1338827
+temperature	11.0
+geographic location (longitude)	-122.12807
+geographic location (country and/or sea,region)	USA:California, San Francisco Bay NWR
+collection date	2009-02-09
+salinity	8258.0
+geographic location (latitude)	37.49897
+
+study_id	MGYS00005669
+study_id	MGYS00005670
+sample_id	SRS1338801
+temperature	66.0
+geographic location (longitude)	-106.61637
+geographic location (country and/or sea,region)	USA: New Mexico, New Mexico Sulfur Spings
+collection date	2009-07-20
+salinity	92.0
+geographic location (latitude)	35.907204
+
+study_id	MGYS00005669
+study_id	MGYS00005670
+sample_id	SRS1338819
+temperature	37.0
+geographic location (longitude)	-102.99237
+geographic location (country and/or sea,region)	USA: Texas, Big Bend National Park
+collection date	2009-03-17
+salinity	134.0
+geographic location (latitude)	29.18209
+
+study_id	MGYS00005669
+study_id	MGYS00005670
+sample_id	SRS1338833
+temperature	11.0
+geographic location (longitude)	-104.41254
+geographic location (country and/or sea,region)	USA: New Mexico, Bitter Lake NWR
+collection date	2008-11-15
+salinity	18741.0
+geographic location (latitude)	33.48433
+
+study_id	MGYS00005669
+study_id	MGYS00005670
+sample_id	SRS1338807
+temperature	47.0
+geographic location (longitude)	-112.72943
+geographic location (country and/or sea,region)	USA: Utah, Baker Hot Springs
+collection date	2009-04-27
+geographic location (latitude)	39.6111
+
+study_id	MGYS00005669
+study_id	MGYS00005670
+sample_id	SRS1338840
+temperature	12.0
+geographic location (longitude)	-104.4106
+geographic location (country and/or sea,region)	USA: New Mexico, Bitter Lake NWR
+collection date	2008-11-15
+salinity	228.0
+geographic location (latitude)	33.47665
+
+study_id	MGYS00005669
+study_id	MGYS00005670
+sample_id	SRS1338828
+temperature	15.0
+geographic location (longitude)	-104.34136
+geographic location (country and/or sea,region)	USA: New Mexico, Bottomless Lake State Park, Lazy Lagoon
+collection date	2008-11-15
+salinity	12181.0
+geographic location (latitude)	33.35347
+
+study_id	MGYS00005669
+study_id	MGYS00005670
+sample_id	SRS1338809
+temperature	47.0
+geographic location (longitude)	-112.72943
+geographic location (country and/or sea,region)	USA: Utah, Baker Hot Springs
+collection date	2009-04-27
+geographic location (latitude)	39.6111
+
+study_id	MGYS00005669
+study_id	MGYS00005670
+sample_id	SRS1338846
+temperature	22.0
+geographic location (longitude)	-95.24095
+geographic location (country and/or sea,region)	USA: Texas, Brazoria NWR
+collection date	2008-10-24
+salinity	12697.0
+geographic location (latitude)	29.06083
+
+study_id	MGYS00005669
+study_id	MGYS00005670
+sample_id	SRS1338796
+temperature	64.0
+geographic location (longitude)	-110.72836
+geographic location (country and/or sea,region)	USA: Wyoming, Sulfatara Trail Yellowstone National Park
+collection date	2009-07-28
+salinity	58.0
+geographic location (latitude)	44.79937
+
+study_id	MGYS00005669
+study_id	MGYS00005670
+sample_id	SRS1338817
+temperature	37.0
+geographic location (longitude)	-102.99237
+geographic location (country and/or sea,region)	USA: Texas, Big Bend National Park
+collection date	2009-03-17
+salinity	134.0
+geographic location (latitude)	29.18209
+
+study_id	MGYS00005669
+study_id	MGYS00005670
+sample_id	SRS1338834
+temperature	11.0
+geographic location (longitude)	-104.41254
+geographic location (country and/or sea,region)	USA: New Mexico, Bitter Lake NWR
+collection date	2008-11-15
+salinity	18741.0
+geographic location (latitude)	33.48433
+
+study_id	MGYS00005669
+study_id	MGYS00005670
+sample_id	SRS1338799
+temperature	60.0
+geographic location (longitude)	-110.79746
+geographic location (country and/or sea,region)	USA: Wyoming, Fireholl Drive Yellowstone National Park
+collection date	2009-07-28
+salinity	324.0
+geographic location (latitude)	44.53279
+
+study_id	MGYS00005669
+study_id	MGYS00005670
+sample_id	SRS1338818
+temperature	37.0
+geographic location (longitude)	-102.99237
+geographic location (country and/or sea,region)	USA: Texas, Big Bend National Park
+collection date	2009-03-17
+salinity	134.0
+geographic location (latitude)	29.18209
+
+study_id	MGYS00005669
+study_id	MGYS00005670
+sample_id	SRS1338810
+temperature	28.0
+geographic location (longitude)	-103.00346
+geographic location (country and/or sea,region)	USA: Texas, Big Bend National Park
+collection date	2009-03-17
+salinity	205.0
+geographic location (latitude)	29.14979
+
+study_id	MGYS00005669
+study_id	MGYS00005670
+sample_id	SRS1338830
+temperature	14.0
+geographic location (longitude)	-104.34126
+geographic location (country and/or sea,region)	USA: New Mexico, Bottomless Lake State Park, Lazy Lagoon
+collection date	2008-11-15
+salinity	10017.0
+geographic location (latitude)	33.25377
+
+study_id	MGYS00005669
+study_id	MGYS00005670
+sample_id	SRS1338802
+geographic location (longitude)	-67.17092
+geographic location (country and/or sea,region)	USA: Puerto Rico, Laguna Bouqueron NWR
+collection date	2009-06-01
+salinity	86.0
+geographic location (latitude)	18.00959
+
+study_id	MGYS00005669
+study_id	MGYS00005670
+sample_id	SRS1338843
+temperature	12.0
+geographic location (longitude)	-104.4106
+geographic location (country and/or sea,region)	USA: New Mexico, Bitter Lake NWR
+collection date	2008-11-15
+salinity	228.0
+geographic location (latitude)	33.47665
+
+study_id	MGYS00005669
+study_id	MGYS00005670
+sample_id	SRS1338792
+temperature	33.0
+geographic location (longitude)	-117.95216
+geographic location (country and/or sea,region)	USA:California,Owens Lake (dry lake)
+collection date	2009-08-06
+salinity	164045.0
+geographic location (latitude)	36.40028
+
+study_id	MGYS00005669
+study_id	MGYS00005670
+sample_id	SRS1338825
+temperature	11.0
+geographic location (longitude)	-122.12807
+geographic location (country and/or sea,region)	USA:California, San Francisco Bay NWR
+collection date	2009-02-09
+salinity	8258.0
+geographic location (latitude)	37.49897
+
+study_id	MGYS00005669
+study_id	MGYS00005670
+sample_id	SRS1338822
+temperature	10.0
+geographic location (longitude)	-122.08481
+geographic location (country and/or sea,region)	USA:California, San Francisco Bay NWR
+collection date	2009-02-09
+salinity	18262.0
+geographic location (latitude)	37.53262
+
+study_id	MGYS00005669
+study_id	MGYS00005670
+sample_id	SRS1338853
+temperature	34.0
+geographic location (longitude)	-98.05018
+geographic location (country and/or sea,region)	USA: Texas, La Sal del Rey
+collection date	2008-06-23
+salinity	40553.0
+geographic location (latitude)	26.54046
+
+study_id	MGYS00005669
+study_id	MGYS00005670
+sample_id	SRS1338794
+temperature	32.0
+geographic location (longitude)	-118.40915
+geographic location (country and/or sea,region)	USA: Nevada, Stillwater NWR
+collection date	2009-08-06
+salinity	77679.0
+geographic location (latitude)	39.602
+
+study_id	MGYS00005669
+study_id	MGYS00005670
+sample_id	SRS1338820
+temperature	31.0
+geographic location (longitude)	-102.99555
+geographic location (country and/or sea,region)	USA: Texas, Big Bend National Park
+collection date	2009-03-17
+salinity	181.0
+geographic location (latitude)	29.17961
+
+study_id	MGYS00005669
+study_id	MGYS00005670
+sample_id	SRS1338845
+temperature	22.0
+geographic location (longitude)	-95.26693
+geographic location (country and/or sea,region)	USA: Texas, Brazoria NWR
+collection date	2008-10-24
+salinity	9812.0
+geographic location (latitude)	29.03787
+
+study_id	MGYS00005669
+study_id	MGYS00005670
+sample_id	SRS1338805
+temperature	22.0
+geographic location (longitude)	-79.61488
+geographic location (country and/or sea,region)	USA: South Carolina, Cape Romain NWR
+collection date	2009-05-18
+salinity	134.0
+geographic location (latitude)	32.90656
+
+study_id	MGYS00005669
+study_id	MGYS00005670
+sample_id	SRS1338800
+temperature	60.0
+geographic location (longitude)	-110.79746
+geographic location (country and/or sea,region)	USA: Wyoming, Fireholl Drive Yellowstone National Park
+collection date	2009-07-28
+salinity	324.0
+geographic location (latitude)	44.53279
+
+study_id	MGYS00005669
+study_id	MGYS00005670
+sample_id	SRS1338793
+temperature	33.0
+geographic location (longitude)	-117.95216
+geographic location (country and/or sea,region)	USA:California,Owens Lake (dry lake)
+collection date	2009-08-06
+salinity	164045.0
+geographic location (latitude)	36.40028
+
+study_id	MGYS00005669
+study_id	MGYS00005670
+sample_id	SRS1338838
+temperature	12.0
+geographic location (longitude)	-104.4106
+geographic location (country and/or sea,region)	USA: New Mexico, Bitter Lake NWR
+collection date	2008-11-15
+salinity	228.0
+geographic location (latitude)	33.47665
+
+study_id	MGYS00005669
+study_id	MGYS00005670
+sample_id	SRS1338815
+temperature	30.0
+geographic location (longitude)	-103.00346
+geographic location (country and/or sea,region)	USA: Texas, Big Bend National Park
+collection date	2009-03-17
+salinity	221.0
+geographic location (latitude)	29.14979
+
+study_id	MGYS00005669
+study_id	MGYS00005670
+sample_id	SRS1338814
+temperature	30.0
+geographic location (longitude)	-103.00346
+geographic location (country and/or sea,region)	USA: Texas, Big Bend National Park
+collection date	2009-03-17
+salinity	221.0
+geographic location (latitude)	29.14979
+
+study_id	MGYS00005669
+study_id	MGYS00005670
+sample_id	SRS1338842
+temperature	12.0
+geographic location (longitude)	-104.4106
+geographic location (country and/or sea,region)	USA: New Mexico, Bitter Lake NWR
+collection date	2008-11-15
+salinity	228.0
+geographic location (latitude)	33.47665
+
+study_id	MGYS00005669
+study_id	MGYS00005670
+sample_id	SRS1338797
+temperature	60.0
+geographic location (longitude)	-110.79746
+geographic location (country and/or sea,region)	USA: Wyoming, Fireholl Drive Yellowstone National Park
+collection date	2009-07-28
+salinity	324.0
+geographic location (latitude)	44.53279
+
+study_id	MGYS00005669
+study_id	MGYS00005670
+sample_id	SRS1338803
+temperature	20.0
+geographic location (longitude)	-81.2778
+geographic location (country and/or sea,region)	USA: Georgia, Sapelo Island Microbial Observatory
+collection date	2009-05-20
+salinity	2476.0
+geographic location (latitude)	31.43978
+
+study_id	MGYS00005669
+study_id	MGYS00005670
+sample_id	SRS1338847
+temperature	21.0
+geographic location (longitude)	-95.26022
+geographic location (country and/or sea,region)	USA: Texas, Brazoria NWR
+collection date	2008-10-24
+salinity	7742.0
+geographic location (latitude)	29.0673
+
+study_id	MGYS00005669
+study_id	MGYS00005670
+sample_id	SRS1338806
+temperature	47.0
+geographic location (longitude)	-112.72943
+geographic location (country and/or sea,region)	USA: Utah, Baker Hot Springs
+collection date	2009-04-27
+geographic location (latitude)	39.6111
+
+study_id	MGYS00005669
+study_id	MGYS00005670
+sample_id	SRS1338795
+temperature	32.0
+geographic location (longitude)	-118.40915
+geographic location (country and/or sea,region)	USA: Nevada, Stillwater NWR
+collection date	2009-08-06
+salinity	77679.0
+geographic location (latitude)	39.602
+
+study_id	MGYS00005669
+study_id	MGYS00005670
+sample_id	SRS1338836
+temperature	11.0
+geographic location (longitude)	-104.41254
+geographic location (country and/or sea,region)	USA: New Mexico, Bitter Lake NWR
+collection date	2008-11-15
+salinity	18741.0
+geographic location (latitude)	33.48433
+
+study_id	MGYS00005669
+study_id	MGYS00005670
+sample_id	SRS1338837
+temperature	11.0
+geographic location (longitude)	-104.41254
+geographic location (country and/or sea,region)	USA: New Mexico, Bitter Lake NWR
+collection date	2008-11-15
+salinity	18741.0
+geographic location (latitude)	33.48433
+
+study_id	MGYS00005669
+sample_id	SRS1338791
+temperature	33.0
+geographic location (longitude)	-117.95216
+geographic location (country and/or sea,region)	USA:California,Owens Lake (dry lake)
+collection date	2009-08-06
+salinity	164045.0
+geographic location (latitude)	36.40028
+
+study_id	MGYS00001474
+study_id	MGYS00005667
+study_id	MGYS00005668
+sample_id	ERS223618
+temperature	65.0
+investigation type	metagenome
+project name	Novel subsurface lineages dominate fumarolic microbial communities at Tramway Ridge, Mt. Erebus, Antarctica
+geographic location (longitude)	167.11137
+geographic location (depth)	0.01
+geographic location (country and/or sea,region)	Antarctica
+collection date	2009-02-01
+environment (biome)	terrestrial geothermal fumarole
+environment (feature)	fumarole
+environment (material)	soil
+environmental package	sediment
+amount or size of sample collected	0.05
+nucleic acid extraction	CTAB-BME (Barrett, 2006)
+target gene	16S rRNA
+sequencing method	Pyrosequencing
+depth	0.01
+elevation	3370.0
+pH	8.35
+geographic location (elevation)	3370
+geographic location (latitude)	-77.51838
+NCBI sample classification	256318
+instrument model	454 GS FLX Titanium
+ENA checklist	ERC000021
+ENA-SUBMISSION-TOOL	SRA-Webin
+sediment environmental package	sediment
+
+study_id	MGYS00001474
+study_id	MGYS00005667
+study_id	MGYS00005668
+sample_id	ERS223619
+temperature	65.0
+investigation type	metagenome
+project name	Novel subsurface lineages dominate fumarolic microbial communities at Tramway Ridge, Mt. Erebus, Antarctica
+geographic location (longitude)	167.11137
+geographic location (depth)	0.03
+geographic location (country and/or sea,region)	Antarctica
+collection date	2009-02-01
+environment (biome)	terrestrial geothermal fumarole
+environment (feature)	fumarole
+environment (material)	soil
+environmental package	sediment
+amount or size of sample collected	0.05
+nucleic acid extraction	CTAB-BME (Barrett, 2006)
+target gene	16S rRNA
+sequencing method	Pyrosequencing
+depth	0.03
+elevation	3370.0
+pH	8.52
+geographic location (elevation)	3370
+geographic location (latitude)	-77.51838
+NCBI sample classification	256318
+instrument model	454 GS Junior
+ENA checklist	ERC000021
+ENA-SUBMISSION-TOOL	SRA-Webin
+sediment environmental package	sediment
+
+study_id	MGYS00005665
+study_id	MGYS00005666
+sample_id	SRS4517417
+temperature	75.0
+geographic location (longitude)	-110.48471
+geographic location (country and/or sea,region)	USA: Yellowstone National Park, Wyoming
+collection date	2016-02-01
+depth	0.0
+geographic location (latitude)	44.65335
+
+study_id	MGYS00005665
+sample_id	SRS4517418
+temperature	75.0
+geographic location (longitude)	-110.48471
+geographic location (country and/or sea,region)	USA: Yellowstone National Park, Wyoming
+collection date	2016-02-01
+depth	0.0
+geographic location (latitude)	44.65335
+
+study_id	MGYS00005653
+study_id	MGYS00005654
+sample_id	SRS2704733
+temperature	70.0
+geographic location (longitude)	158.195
+geographic location (country and/or sea,region)	Russia: Kamchatka, Mutnovsky
+collection date	2001-08-01
+environment (biome)	hot spring
+environment (feature)	acid hot spring
+environment (material)	thermophilic sediment
+depth	1.0
+geographic location (latitude)	52.453
+
+study_id	MGYS00005653
+study_id	MGYS00005654
+sample_id	SRS2704734
+temperature	81.0
+geographic location (longitude)	159.967
+geographic location (country and/or sea,region)	Russia: Kamchatka, Uzon Caldera
+collection date	2001-07-27
+environment (biome)	hot spring
+environment (feature)	neutral hot spring
+environment (material)	thermophilic sediment
+depth	1.0
+geographic location (latitude)	54.5
+
+study_id	MGYS00004884
+sample_id	SRS1946302
+geographic location (longitude)	-98.6889
+geographic location (country and/or sea,region)	USA: Zodletone Spring, Oklahoma
+collection date	2013-12-03
+geographic location (latitude)	34.9956
+instrument model	Illumina HiSeq 2500
+last update date	2017-01-29
+
+study_id	MGYS00004840
+sample_id	SRS1616313
+geographic location (longitude)	-121.744
+geographic location (country and/or sea,region)	USA:Elkhorn Slough, Monterey Bay, California, USA
+collection date	2011-09-09
+geographic location (latitude)	36.82188
+instrument model	Illumina HiSeq 2000
+last update date	2016-08-15
+
+study_id	MGYS00004735
+sample_id	SRS2212711
+geographic location (longitude)	-116.5155
+geographic location (country and/or sea,region)	Canada: British Columbia
+collection date	2012-09-26
+geographic location (latitude)	49.9543
+instrument model	Illumina HiSeq 2500
+last update date	2017-11-08
+
+study_id	MGYS00003579
+sample_id	SRS1947324
+geographic location (longitude)	-118.504
+geographic location (country and/or sea,region)	USA: California
+collection date	2015-08-17
+geographic location (latitude)	37.4127
+instrument model	Illumina HiSeq 2500
+last update date	2017-01-31
+
+study_id	MGYS00003546
+sample_id	SRS2212713
+geographic location (longitude)	-116.5155
+geographic location (country and/or sea,region)	Canada: British Columbia
+collection date	2012-09-26
+geographic location (latitude)	49.9543
+instrument model	Illumina HiSeq 2500
+last update date	2017-11-08
+
+study_id	MGYS00003366
+sample_id	SRS3222658
+geographic location (longitude)	-119.3661
+geographic location (country and/or sea,region)	USA: Nevada
+collection date	2013-03-24
+geographic location (latitude)	40.6614
+instrument model	Illumina HiSeq 2500
+last update date	2018-04-27
+
+study_id	MGYS00003365
+sample_id	SRS3222549
+geographic location (longitude)	-119.3661
+geographic location (country and/or sea,region)	USA: Nevada
+collection date	2013-03-24
+geographic location (latitude)	40.6614
+instrument model	Illumina HiSeq 2500
+last update date	2018-04-27
+
+study_id	MGYS00003326
+sample_id	SRS2212714
+geographic location (longitude)	-116.5155
+geographic location (country and/or sea,region)	Canada: British Columbia
+collection date	2010-09-15
+geographic location (latitude)	49.9543
+instrument model	Illumina HiSeq 2500
+last update date	2017-11-08
+
+study_id	MGYS00003307
+sample_id	SRS2212712
+geographic location (longitude)	-116.5155
+geographic location (country and/or sea,region)	Canada: British Columbia
+collection date	2012-09-26
+geographic location (latitude)	49.9543
+instrument model	Illumina HiSeq 2500
+last update date	2017-11-08
+
+study_id	MGYS00003306
+sample_id	SRS2212710
+geographic location (longitude)	-116.5155
+geographic location (country and/or sea,region)	Canada: British Columbia
+collection date	2012-09-26
+geographic location (latitude)	49.9543
+instrument model	Illumina HiSeq 2500
+last update date	2017-11-08
+
+study_id	MGYS00002678
+sample_id	SRS1946334
+geographic location (longitude)	30.6814
+geographic location (country and/or sea,region)	South Africa: Limpopo
+collection date	2015-06-22
+geographic location (latitude)	-22.5304
+instrument model	Illumina HiSeq 2500
+
+study_id	MGYS00002330
+sample_id	SRS1616310
+geographic location (longitude)	-110.83216
+geographic location (country and/or sea,region)	USA:Conch Spring, Yellowstone National Park, Wyoming, USA
+collection date	2011-10-11
+geographic location (latitude)	44.55641
+instrument model	Illumina HiSeq 2000
+
+sample_id	SRS1971322
+geographic location (longitude)	-110.69
+geographic location (country and/or sea,region)	USA:Joseph&apos;s Coat, Yellowstone National Park, Washington, USA
+geographic location (latitude)	44.376
+instrument model	Illumina HiSeq 2000
+
+study_id	MGYS00002326
+sample_id	SRS1946335
+geographic location (longitude)	30.1749
+geographic location (country and/or sea,region)	South Africa: Tshipise
+collection date	2015-06-21
+geographic location (latitude)	-22.6092
+instrument model	Illumina HiSeq 2500
+
+study_id	MGYS00002324
+sample_id	SRS1616306
+geographic location (longitude)	-110.79789
+geographic location (country and/or sea,region)	USA:Octopus Spring Streamers, Yellowstone National Park, Wyoming, USA
+collection date	2011-10-11
+geographic location (latitude)	44.534084
+instrument model	Illumina HiSeq 2000
+
+study_id	MGYS00002323
+sample_id	SRS1569127
+geographic location (longitude)	-119.36959
+geographic location (country and/or sea,region)	USA: Great Boiling Spring, Nevada
+collection date	2008-12-01
+environment (biome)	Desert Springs
+environment (feature)	Hot Springs
+environment (material)	Water
+depth	0.0
+geographic location (latitude)	40.71458
+instrument model	Illumina Genome Analyzer IIx
+
+study_id	MGYS00002317
+sample_id	SRS1616314
+geographic location (longitude)	-110.70957
+geographic location (country and/or sea,region)	USA:Grendel Spring, Yellowstone National Park, Wyoming, USA
+collection date	2011-11-16
+geographic location (latitude)	44.732788
+instrument model	Illumina HiSeq 2000
+
+sample_id	SRS1971309
+geographic location (longitude)	-110.69
+geographic location (country and/or sea,region)	USA:Joseph&apos;s Coat, Yellowstone National Park, Wyoming, USA
+geographic location (latitude)	44.376
+instrument model	Illumina HiSeq 2000
+
+study_id	MGYS00002313
+sample_id	ERS1261129
+investigation type	metagenome
+geographic location (longitude)	77.34
+geographic location (country and/or sea,region)	India
+collection date	2012-06-12
+environment (biome)	Terrestrial Biome
+environment (feature)	Habitat
+environment (material)	Microbial Mat
+environmental package	microbial mat/biofilm
+sequencing method	Illumina
+depth	10.0
+elevation	1760.0
+geographic location (latitude)	32.02
+instrument model	Illumina HiSeq 3000
+
+study_id	MGYS00002312
+sample_id	ERS1563791
+investigation type	metagenome
+geographic location (longitude)	77.347305
+geographic location (country and/or sea,region)	India
+collection date	2012-06-12
+environment (biome)	Aquatic biome
+environment (feature)	Geographical feature
+environment (material)	Water
+environmental package	water
+sequencing method	Illumina
+elevation	1760.0
+geographic location (latitude)	32.026333
+instrument model	Illumina Genome Analyzer II
+
+study_id	MGYS00002312
+sample_id	ERS1563792
+investigation type	metagenome
+geographic location (longitude)	77.347305
+geographic location (country and/or sea,region)	India
+collection date	2012-12-06
+environment (biome)	Aquatic biome
+environment (feature)	Water
+environment (material)	Water
+environmental package	water
+sequencing method	Illumina
+geographic location (latitude)	32.026333
+instrument model	Illumina Genome Analyzer II
+
+study_id	MGYS00001860
+sample_id	ERS1617558
+investigation type	metagenome
+geographic location (longitude)	-31.519255
+geographic location (country and/or sea,region)	Atlantic Ocean
+collection date	2013-08-06
+environment (biome)	marine biome
+environment (feature)	hydrothermal vent
+environment (material)	sediment
+sequencing method	Miseq
+geographic location (latitude)	37.8445
+instrument model	Illumina
+
+study_id	MGYS00001860
+sample_id	ERS1617559
+investigation type	metagenome
+geographic location (country and/or sea,region)	Atlantic Ocean
+collection date	2013-08-13
+environment (biome)	marine biome
+environment (feature)	hydrothermal vent
+environment (material)	sediment
+sequencing method	Miseq
+instrument model	Illumina
+
+study_id	MGYS00001693
+sample_id	ERS1628942
+instrument model	Illumina HiSeq 2000
+
+study_id	MGYS00001693
+sample_id	ERS1628943
+instrument model	Illumina HiSeq 4000
+
+study_id	MGYS00001693
+sample_id	ERS1628944
+instrument model	Illumina HiSeq 4000
+
+study_id	MGYS00001693
+sample_id	ERS1628945
+instrument model	Illumina HiSeq 4000
+
+study_id	MGYS00001296
+sample_id	ERS1258237
+instrument model	Illumina
+
+study_id	MGYS00001296
+sample_id	ERS1258238
+instrument model	Illumina
+
+study_id	MGYS00001296
+sample_id	ERS1258239
+instrument model	Illumina
+
+study_id	MGYS00001296
+sample_id	ERS1258240
+instrument model	Illumina
+
+study_id	MGYS00001296
+sample_id	ERS1258241
+instrument model	Illumina
+
+study_id	MGYS00000424
+study_id	MGYS00003601
+sample_id	ERS613976
+investigation type	metagenome
+project name	Binga Hot spring
+collection date	2013
+environmental package	water
+sequencing method	Illumina MiSeq
+depth	0.2
+NCBI sample classification	433727
+instrument model	Illumina MiSeq
+ENA checklist	GSC MIxS water (ERC000024)
+

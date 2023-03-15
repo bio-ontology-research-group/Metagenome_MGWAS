@@ -1,0 +1,232 @@
+study_id	MGYS00000588
+study_id	MGYS00002034
+sample_id	ERS1003597
+investigation type	metagenome
+project name	Axial 2014 &apos;omics
+geographic location (longitude)	-130.0138
+geographic location (depth)	1539
+geographic location (country and/or sea,region)	Pacific Ocean
+collection date	2014-08-15
+environment (biome)	water
+environment (feature)	marine
+environment (material)	hydrothermal vent
+environmental package	water
+sequencing method	paired-end overlapping reads
+geographic location (latitude)	45.9332
+NCBI sample classification	256318
+instrument model	Illumina HiSeq 1000
+ENA checklist	ERC000024
+
+study_id	MGYS00000588
+study_id	MGYS00002034
+sample_id	ERS1003595
+investigation type	metagenome
+project name	Axial 2014 &apos;omics
+geographic location (longitude)	-129.9882
+geographic location (depth)	1521
+geographic location (country and/or sea,region)	Pacific Ocean
+collection date	2014-08-12
+environment (biome)	water
+environment (feature)	marine
+environment (material)	hydrothermal vent
+environmental package	water
+sequencing method	paired-end overlapping reads
+geographic location (latitude)	45.9228
+NCBI sample classification	256318
+instrument model	Illumina HiSeq 1000
+ENA checklist	ERC000024
+
+study_id	MGYS00000588
+study_id	MGYS00002034
+sample_id	ERS1003599
+investigation type	metagenome
+project name	Axial 2014 &apos;omics
+geographic location (longitude)	-129.9823
+geographic location (depth)	1514
+geographic location (country and/or sea,region)	Pacific Ocean
+collection date	2014-08-16
+environment (biome)	water
+environment (feature)	marine
+environment (material)	hydrothermal vent
+environmental package	water
+sequencing method	paired-end overlapping reads
+geographic location (latitude)	45.9332
+NCBI sample classification	256318
+instrument model	Illumina HiSeq 1000
+ENA checklist	ERC000024
+
+study_id	MGYS00000588
+study_id	MGYS00002034
+sample_id	ERS1003593
+investigation type	metagenome
+project name	Axial 2014 &apos;omics
+geographic location (longitude)	-129.9988
+geographic location (depth)	1200
+geographic location (country and/or sea,region)	Pacific Ocean
+collection date	2014-08-14
+environment (biome)	water
+environment (feature)	marine
+environment (material)	hydrothermal vent
+environmental package	water
+sequencing method	paired-end overlapping reads
+geographic location (latitude)	45.9332
+NCBI sample classification	256318
+instrument model	Illumina HiSeq 1000
+ENA checklist	ERC000024
+
+study_id	MGYS00000588
+study_id	MGYS00002034
+sample_id	ERS1003598
+investigation type	metatranscriptome
+project name	Axial 2014 &apos;omics
+geographic location (longitude)	-130.0138
+geographic location (depth)	1539
+geographic location (country and/or sea,region)	Pacific Ocean
+collection date	2014-08-15
+environment (biome)	water
+environment (feature)	marine
+environment (material)	hydrothermal vent
+environmental package	water
+sequencing method	paired-end overlapping reads
+geographic location (latitude)	45.9332
+NCBI sample classification	256318
+instrument model	Illumina HiSeq 1000
+ENA checklist	ERC000024
+
+study_id	MGYS00003566
+sample_id	SRS1615317
+geographic location (longitude)	-13.35
+geographic location (country and/or sea,region)	Atlantic Ocean
+collection date	2012-08-01
+environment (biome)	deep sea
+environment (feature)	Hydrothermal vent
+environment (material)	sediment
+depth	2500.0
+geographic location (latitude)	-15.16
+instrument model	Illumina HiSeq 2000
+last update date	2016-08-15
+
+study_id	MGYS00001609
+study_id	MGYS00002304
+sample_id	ERS614323
+investigation type	metagenome
+project name	2013 'Omics from the diffuse hydrothermal vents of Axial Seamount
+geographic location (depth)	1522
+collection date	2013-09-27
+sequencing method	Illumina paired-end, overlapping
+NCBI sample classification	256318
+instrument model	Illumina HiSeq 1000
+ENA checklist	GSC MIxS water (ERC000024)
+water environmental package	water
+
+study_id	MGYS00001609
+study_id	MGYS00002304
+sample_id	ERS614325
+investigation type	metagenome
+project name	2013 'Omics from the diffuse hydrothermal vents of Axial Seamount
+geographic location (depth)	1516
+collection date	2013-09-28
+sequencing method	Illumina paired-end, overlapping
+NCBI sample classification	256318
+instrument model	Illumina HiSeq 1000
+ENA checklist	GSC MIxS water (ERC000024)
+water environmental package	water
+
+study_id	MGYS00001609
+study_id	MGYS00002304
+sample_id	ERS614327
+investigation type	metagenome
+project name	2013 'Omics from the diffuse hydrothermal vents of Axial Seamount
+geographic location (depth)	1543
+collection date	2013-09-06
+sequencing method	Illumina paired-end, overlapping
+NCBI sample classification	256318
+instrument model	Illumina HiSeq 1000
+ENA checklist	GSC MIxS water (ERC000024)
+water environmental package	water
+
+study_id	MGYS00001609
+study_id	MGYS00002304
+sample_id	ERS614329
+investigation type	metagenome
+project name	2013 'Omics from the diffuse hydrothermal vents of Axial Seamount
+geographic location (depth)	1507
+collection date	2013-09-08
+sequencing method	Illumina paired-end, overlapping
+NCBI sample classification	256318
+instrument model	Illumina HiSeq 1000
+ENA checklist	GSC MIxS water (ERC000024)
+water environmental package	water
+
+study_id	MGYS00001609
+study_id	MGYS00002304
+sample_id	ERS614331
+investigation type	metagenome
+project name	2013 'Omics from the diffuse hydrothermal vents of Axial Seamount
+geographic location (depth)	1530
+collection date	2013-09-14
+sequencing method	Illumina paired-end, overlapping
+NCBI sample classification	256318
+instrument model	Illumina HiSeq 1000
+ENA checklist	GSC MIxS water (ERC000024)
+water environmental package	water
+
+study_id	MGYS00001609
+study_id	MGYS00002304
+sample_id	ERS614333
+investigation type	metagenome
+project name	2013 'Omics from the diffuse hydrothermal vents of Axial Seamount
+geographic location (depth)	1917
+collection date	2013-09-15
+sequencing method	Illumina paired-end, overlapping
+NCBI sample classification	256318
+instrument model	Illumina HiSeq 1000
+ENA checklist	GSC MIxS water (ERC000024)
+water environmental package	water
+
+study_id	MGYS00001608
+study_id	MGYS00002031
+sample_id	ERS714917
+investigation type	metagenome
+project name	Cayman
+geographic location (depth)	2308
+collection date	2012-01-19
+sequencing method	Illumina
+NCBI sample classification	652676
+instrument model	Illumina HiSeq 2000
+ENA checklist	GSC MIxS water (ERC000024)
+water environmental package	water
+
+study_id	MGYS00000360
+study_id	MGYS00002010
+sample_id	ERS399632
+investigation type	metagenome
+project name	Axial
+collection date	2011-2012
+sequencing method	Illumina Hi Seq
+NCBI sample classification	256318
+instrument model	Illumina HiSeq 1000
+ENA checklist	Genomic Standards Consortium defined Minimum Information about any(x) Sequence (GSC MIxS) (ERC000004)
+
+study_id	MGYS00000360
+study_id	MGYS00002010
+sample_id	ERS399634
+investigation type	metagenome
+project name	Axial
+collection date	2011-2012
+sequencing method	Illumina Hi Seq
+NCBI sample classification	256318
+instrument model	Illumina HiSeq 1000
+ENA checklist	Genomic Standards Consortium defined Minimum Information about any(x) Sequence (GSC MIxS) (ERC000004)
+
+study_id	MGYS00000360
+study_id	MGYS00002010
+sample_id	ERS399638
+investigation type	metagenome
+project name	Axial
+collection date	2011-2012
+sequencing method	Illumina Hi Seq
+NCBI sample classification	256318
+instrument model	Illumina HiSeq 1000
+ENA checklist	Genomic Standards Consortium defined Minimum Information about any(x) Sequence (GSC MIxS) (ERC000004)
+

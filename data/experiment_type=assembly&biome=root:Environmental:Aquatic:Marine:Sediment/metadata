@@ -1,0 +1,801 @@
+study_id	MGYS00005362
+sample_id	SRS3033588
+geographic location (longitude)	-111.3798
+geographic location (country and/or sea,region)	Mexico: Gulf of California
+collection date	2009-11-30
+geographic location (latitude)	27.0154
+
+study_id	MGYS00005140
+sample_id	ERS4023168
+investigation type	metatranscriptome
+project name	PREDHYPO
+geographic location (longitude)	5.070062
+geographic location (country and/or sea,region)	France
+collection date	2015-05-01
+environment (biome)	ENVO_00000038
+environment (feature)	ENVO_01000325
+environment (material)	ENVO_00002297
+environmental package	sediment
+sequencing method	Illumina Miseq
+elevation	0.0
+geographic location (latitude)	43.507217
+ENA checklist	ERC000021
+
+study_id	MGYS00005140
+sample_id	ERS4023160
+investigation type	metatranscriptome
+project name	PREDHYPO
+geographic location (longitude)	5.070062
+geographic location (country and/or sea,region)	France
+collection date	2015-05-01
+environment (biome)	ENVO_00000038
+environment (feature)	ENVO_01000325
+environment (material)	ENVO_00002297
+environmental package	sediment
+sequencing method	Illumina Miseq
+elevation	0.0
+geographic location (latitude)	43.507217
+ENA checklist	ERC000021
+
+study_id	MGYS00005140
+sample_id	ERS4023166
+investigation type	metatranscriptome
+project name	PREDHYPO
+geographic location (longitude)	5.070062
+geographic location (country and/or sea,region)	France
+collection date	2015-05-01
+environment (biome)	ENVO_00000038
+environment (feature)	ENVO_01000325
+environment (material)	ENVO_00002297
+environmental package	sediment
+sequencing method	Illumina Miseq
+elevation	0.0
+geographic location (latitude)	43.507217
+ENA checklist	ERC000021
+
+study_id	MGYS00005140
+sample_id	ERS4023159
+investigation type	metatranscriptome
+project name	PREDHYPO
+geographic location (longitude)	5.070062
+geographic location (country and/or sea,region)	France
+collection date	2015-05-01
+environment (biome)	ENVO_00000038
+environment (feature)	ENVO_01000325
+environment (material)	ENVO_00002297
+environmental package	sediment
+sequencing method	Illumina Miseq
+elevation	0.0
+geographic location (latitude)	43.507217
+ENA checklist	ERC000021
+
+study_id	MGYS00005140
+sample_id	ERS4023172
+investigation type	metatranscriptome
+project name	PREDHYPO
+geographic location (longitude)	5.070062
+geographic location (country and/or sea,region)	France
+collection date	2015-05-01
+environment (biome)	ENVO_00000038
+environment (feature)	ENVO_01000325
+environment (material)	ENVO_00002297
+environmental package	sediment
+sequencing method	Illumina Miseq
+elevation	0.0
+geographic location (latitude)	43.507217
+ENA checklist	ERC000021
+
+study_id	MGYS00005140
+sample_id	ERS4023174
+investigation type	metatranscriptome
+project name	PREDHYPO
+geographic location (longitude)	5.070062
+geographic location (country and/or sea,region)	France
+collection date	2015-05-01
+environment (biome)	ENVO_00000038
+environment (feature)	ENVO_01000325
+environment (material)	ENVO_00002297
+environmental package	sediment
+sequencing method	Illumina Miseq
+elevation	0.0
+geographic location (latitude)	43.507217
+ENA checklist	ERC000021
+
+study_id	MGYS00005140
+sample_id	ERS4023163
+investigation type	metatranscriptome
+project name	PREDHYPO
+geographic location (longitude)	5.070062
+geographic location (country and/or sea,region)	France
+collection date	2015-05-01
+environment (biome)	ENVO_00000038
+environment (feature)	ENVO_01000325
+environment (material)	ENVO_00002297
+environmental package	sediment
+sequencing method	Illumina Miseq
+elevation	0.0
+geographic location (latitude)	43.507217
+ENA checklist	ERC000021
+
+study_id	MGYS00005140
+sample_id	ERS4023181
+investigation type	metatranscriptome
+project name	PREDHYPO
+geographic location (longitude)	5.070062
+geographic location (country and/or sea,region)	France
+collection date	2015-05-01
+environment (biome)	ENVO_00000038
+environment (feature)	ENVO_01000325
+environment (material)	ENVO_00002297
+environmental package	sediment
+sequencing method	Illumina Miseq
+elevation	0.0
+geographic location (latitude)	43.507217
+ENA checklist	ERC000021
+
+study_id	MGYS00005140
+sample_id	ERS4023156
+investigation type	metatranscriptome
+project name	PREDHYPO
+geographic location (longitude)	5.070062
+geographic location (country and/or sea,region)	France
+collection date	2015-05-01
+environment (biome)	ENVO_00000038
+environment (feature)	ENVO_01000325
+environment (material)	ENVO_00002297
+environmental package	sediment
+sequencing method	Illumina Miseq
+elevation	0.0
+geographic location (latitude)	43.507217
+ENA checklist	ERC000021
+
+study_id	MGYS00005140
+sample_id	ERS4023176
+investigation type	metatranscriptome
+project name	PREDHYPO
+geographic location (longitude)	5.070062
+geographic location (country and/or sea,region)	France
+collection date	2015-05-01
+environment (biome)	ENVO_00000038
+environment (feature)	ENVO_01000325
+environment (material)	ENVO_00002297
+environmental package	sediment
+sequencing method	Illumina Miseq
+elevation	0.0
+geographic location (latitude)	43.507217
+ENA checklist	ERC000021
+
+study_id	MGYS00005140
+sample_id	ERS4023157
+investigation type	metatranscriptome
+project name	PREDHYPO
+geographic location (longitude)	5.070062
+geographic location (country and/or sea,region)	France
+collection date	2015-05-01
+environment (biome)	ENVO_00000038
+environment (feature)	ENVO_01000325
+environment (material)	ENVO_00002297
+environmental package	sediment
+sequencing method	Illumina Miseq
+elevation	0.0
+geographic location (latitude)	43.507217
+ENA checklist	ERC000021
+
+study_id	MGYS00005140
+sample_id	ERS4023165
+investigation type	metatranscriptome
+project name	PREDHYPO
+geographic location (longitude)	5.070062
+geographic location (country and/or sea,region)	France
+collection date	2015-05-01
+environment (biome)	ENVO_00000038
+environment (feature)	ENVO_01000325
+environment (material)	ENVO_00002297
+environmental package	sediment
+sequencing method	Illumina Miseq
+elevation	0.0
+geographic location (latitude)	43.507217
+ENA checklist	ERC000021
+
+study_id	MGYS00005140
+sample_id	ERS4023178
+investigation type	metatranscriptome
+project name	PREDHYPO
+geographic location (longitude)	5.070062
+geographic location (country and/or sea,region)	France
+collection date	2015-05-01
+environment (biome)	ENVO_00000038
+environment (feature)	ENVO_01000325
+environment (material)	ENVO_00002297
+environmental package	sediment
+sequencing method	Illumina Miseq
+elevation	0.0
+geographic location (latitude)	43.507217
+ENA checklist	ERC000021
+
+study_id	MGYS00005140
+sample_id	ERS4023161
+investigation type	metatranscriptome
+project name	PREDHYPO
+geographic location (longitude)	5.070062
+geographic location (country and/or sea,region)	France
+collection date	2015-05-01
+environment (biome)	ENVO_00000038
+environment (feature)	ENVO_01000325
+environment (material)	ENVO_00002297
+environmental package	sediment
+sequencing method	Illumina Miseq
+elevation	0.0
+geographic location (latitude)	43.507217
+ENA checklist	ERC000021
+
+study_id	MGYS00005140
+sample_id	ERS4023175
+investigation type	metatranscriptome
+project name	PREDHYPO
+geographic location (longitude)	5.070062
+geographic location (country and/or sea,region)	France
+collection date	2015-05-01
+environment (biome)	ENVO_00000038
+environment (feature)	ENVO_01000325
+environment (material)	ENVO_00002297
+environmental package	sediment
+sequencing method	Illumina Miseq
+elevation	0.0
+geographic location (latitude)	43.507217
+ENA checklist	ERC000021
+
+study_id	MGYS00005140
+sample_id	ERS4023167
+investigation type	metatranscriptome
+project name	PREDHYPO
+geographic location (longitude)	5.070062
+geographic location (country and/or sea,region)	France
+collection date	2015-05-01
+environment (biome)	ENVO_00000038
+environment (feature)	ENVO_01000325
+environment (material)	ENVO_00002297
+environmental package	sediment
+sequencing method	Illumina Miseq
+elevation	0.0
+geographic location (latitude)	43.507217
+ENA checklist	ERC000021
+
+study_id	MGYS00005140
+sample_id	ERS4023154
+investigation type	metatranscriptome
+project name	PREDHYPO
+geographic location (longitude)	5.070062
+geographic location (country and/or sea,region)	France
+collection date	2015-05-01
+environment (biome)	ENVO_00000038
+environment (feature)	ENVO_01000325
+environment (material)	ENVO_00002297
+environmental package	sediment
+sequencing method	Illumina Miseq
+elevation	0.0
+geographic location (latitude)	43.507217
+ENA checklist	ERC000021
+
+study_id	MGYS00005140
+sample_id	ERS4023153
+investigation type	metatranscriptome
+project name	PREDHYPO
+geographic location (longitude)	5.070062
+geographic location (country and/or sea,region)	France
+collection date	2015-05-01
+environment (biome)	ENVO_00000038
+environment (feature)	ENVO_01000325
+environment (material)	ENVO_00002297
+environmental package	sediment
+sequencing method	Illumina Miseq
+elevation	0.0
+geographic location (latitude)	43.507217
+ENA checklist	ERC000021
+
+study_id	MGYS00005140
+sample_id	ERS4023164
+investigation type	metatranscriptome
+project name	PREDHYPO
+geographic location (longitude)	5.070062
+geographic location (country and/or sea,region)	France
+collection date	2015-05-01
+environment (biome)	ENVO_00000038
+environment (feature)	ENVO_01000325
+environment (material)	ENVO_00002297
+environmental package	sediment
+sequencing method	Illumina Miseq
+elevation	0.0
+geographic location (latitude)	43.507217
+ENA checklist	ERC000021
+
+study_id	MGYS00005140
+sample_id	ERS4023162
+investigation type	metatranscriptome
+project name	PREDHYPO
+geographic location (longitude)	5.070062
+geographic location (country and/or sea,region)	France
+collection date	2015-05-01
+environment (biome)	ENVO_00000038
+environment (feature)	ENVO_01000325
+environment (material)	ENVO_00002297
+environmental package	sediment
+sequencing method	Illumina Miseq
+elevation	0.0
+geographic location (latitude)	43.507217
+ENA checklist	ERC000021
+
+study_id	MGYS00005140
+sample_id	ERS4023177
+investigation type	metatranscriptome
+project name	PREDHYPO
+geographic location (longitude)	5.070062
+geographic location (country and/or sea,region)	France
+collection date	2015-05-01
+environment (biome)	ENVO_00000038
+environment (feature)	ENVO_01000325
+environment (material)	ENVO_00002297
+environmental package	sediment
+sequencing method	Illumina Miseq
+elevation	0.0
+geographic location (latitude)	43.507217
+ENA checklist	ERC000021
+
+study_id	MGYS00005140
+sample_id	ERS4023155
+investigation type	metatranscriptome
+project name	PREDHYPO
+geographic location (longitude)	5.070062
+geographic location (country and/or sea,region)	France
+collection date	2015-05-01
+environment (biome)	ENVO_00000038
+environment (feature)	ENVO_01000325
+environment (material)	ENVO_00002297
+environmental package	sediment
+sequencing method	Illumina Miseq
+elevation	0.0
+geographic location (latitude)	43.507217
+ENA checklist	ERC000021
+
+study_id	MGYS00005140
+sample_id	ERS4023171
+investigation type	metatranscriptome
+project name	PREDHYPO
+geographic location (longitude)	5.070062
+geographic location (country and/or sea,region)	France
+collection date	2015-05-01
+environment (biome)	ENVO_00000038
+environment (feature)	ENVO_01000325
+environment (material)	ENVO_00002297
+environmental package	sediment
+sequencing method	Illumina Miseq
+elevation	0.0
+geographic location (latitude)	43.507217
+ENA checklist	ERC000021
+
+study_id	MGYS00005140
+sample_id	ERS4023180
+investigation type	metatranscriptome
+project name	PREDHYPO
+geographic location (longitude)	5.070062
+geographic location (country and/or sea,region)	France
+collection date	2015-05-01
+environment (biome)	ENVO_00000038
+environment (feature)	ENVO_01000325
+environment (material)	ENVO_00002297
+environmental package	sediment
+sequencing method	Illumina Miseq
+elevation	0.0
+geographic location (latitude)	43.507217
+ENA checklist	ERC000021
+
+study_id	MGYS00005140
+sample_id	ERS4023179
+investigation type	metatranscriptome
+project name	PREDHYPO
+geographic location (longitude)	5.070062
+geographic location (country and/or sea,region)	France
+collection date	2015-05-01
+environment (biome)	ENVO_00000038
+environment (feature)	ENVO_01000325
+environment (material)	ENVO_00002297
+environmental package	sediment
+sequencing method	Illumina Miseq
+elevation	0.0
+geographic location (latitude)	43.507217
+ENA checklist	ERC000021
+
+study_id	MGYS00005140
+sample_id	ERS4023170
+investigation type	metatranscriptome
+project name	PREDHYPO
+geographic location (longitude)	5.070062
+geographic location (country and/or sea,region)	France
+collection date	2015-05-01
+environment (biome)	ENVO_00000038
+environment (feature)	ENVO_01000325
+environment (material)	ENVO_00002297
+environmental package	sediment
+sequencing method	Illumina Miseq
+elevation	0.0
+geographic location (latitude)	43.507217
+ENA checklist	ERC000021
+
+study_id	MGYS00005140
+sample_id	ERS4023169
+investigation type	metatranscriptome
+project name	PREDHYPO
+geographic location (longitude)	5.070062
+geographic location (country and/or sea,region)	France
+collection date	2015-05-01
+environment (biome)	ENVO_00000038
+environment (feature)	ENVO_01000325
+environment (material)	ENVO_00002297
+environmental package	sediment
+sequencing method	Illumina Miseq
+elevation	0.0
+geographic location (latitude)	43.507217
+ENA checklist	ERC000021
+
+study_id	MGYS00005140
+sample_id	ERS4023158
+investigation type	metatranscriptome
+project name	PREDHYPO
+geographic location (longitude)	5.070062
+geographic location (country and/or sea,region)	France
+collection date	2015-05-01
+environment (biome)	ENVO_00000038
+environment (feature)	ENVO_01000325
+environment (material)	ENVO_00002297
+environmental package	sediment
+sequencing method	Illumina Miseq
+elevation	0.0
+geographic location (latitude)	43.507217
+ENA checklist	ERC000021
+
+study_id	MGYS00005403
+study_id	MGYS00005404
+sample_id	SRS1616301
+geographic location (longitude)	-67.01883
+geographic location (country and/or sea,region)	Puerto Rico:Bioluminescent Bay, La Paraguera, Puerto Rico
+collection date	2011-12-16
+geographic location (latitude)	17.967318
+
+study_id	MGYS00005032
+sample_id	SRS791682
+geographic location (longitude)	-158.881
+geographic location (country and/or sea,region)	Pacific Ocean:North Pacific Subtropical Gyre
+collection date	2012-07-26
+environment (biome)	marine pelagic biome
+environment (feature)	marine oligotrophic desert
+environment (material)	marine snow
+depth	150.0
+geographic location (latitude)	22.677
+instrument model	Illumina MiSeq
+last update date	2015-06-23
+
+study_id	MGYS00005032
+sample_id	SRS791740
+geographic location (longitude)	-158.881
+geographic location (country and/or sea,region)	Pacific Ocean:North Pacific Subtropical Gyre
+collection date	2012-07-26
+environment (biome)	marine pelagic biome
+environment (feature)	marine oligotrophic desert
+environment (material)	marine snow
+depth	150.0
+geographic location (latitude)	22.677
+instrument model	Illumina MiSeq
+last update date	2015-06-23
+
+study_id	MGYS00005032
+sample_id	SRS794524
+geographic location (longitude)	-158.881
+geographic location (country and/or sea,region)	Pacific Ocean:North Pacific Subtropical Gyre
+collection date	2012-07-26
+environment (biome)	marine pelagic biome
+environment (feature)	marine oligotrophic desert
+environment (material)	marine snow
+depth	200.0
+geographic location (latitude)	22.677
+instrument model	Illumina MiSeq
+last update date	2015-06-23
+
+study_id	MGYS00005032
+sample_id	SRS794525
+geographic location (longitude)	-158.881
+geographic location (country and/or sea,region)	Pacific Ocean:North Pacific Subtropical Gyre
+collection date	2012-07-26
+environment (biome)	marine pelagic biome
+environment (feature)	marine oligotrophic desert
+environment (material)	marine snow
+depth	200.0
+geographic location (latitude)	22.677
+instrument model	Illumina MiSeq
+last update date	2015-06-23
+
+study_id	MGYS00005032
+sample_id	SRS794530
+geographic location (longitude)	-158.881
+geographic location (country and/or sea,region)	Pacific Ocean:North Pacific Subtropical Gyre
+collection date	2012-07-26
+environment (biome)	marine pelagic biome
+environment (feature)	marine oligotrophic desert
+environment (material)	marine snow
+depth	300.0
+geographic location (latitude)	22.677
+instrument model	Illumina MiSeq
+last update date	2015-06-23
+
+study_id	MGYS00005032
+sample_id	SRS794574
+geographic location (longitude)	-158.881
+geographic location (country and/or sea,region)	Pacific Ocean:North Pacific Subtropical Gyre
+collection date	2012-07-26
+environment (biome)	marine pelagic biome
+environment (feature)	marine oligotrophic desert
+environment (material)	marine snow
+depth	500.0
+geographic location (latitude)	22.677
+instrument model	Illumina MiSeq
+last update date	2015-06-23
+
+study_id	MGYS00005032
+sample_id	SRS794575
+geographic location (longitude)	-158.881
+geographic location (country and/or sea,region)	Pacific Ocean:North Pacific Subtropical Gyre
+collection date	2012-07-26
+environment (biome)	marine pelagic biome
+environment (feature)	marine oligotrophic desert
+environment (material)	marine snow
+depth	500.0
+geographic location (latitude)	22.677
+instrument model	Illumina MiSeq
+last update date	2015-06-23
+
+study_id	MGYS00005032
+sample_id	SRS794578
+temperature	21.206
+geographic location (longitude)	-158.0503
+geographic location (country and/or sea,region)	Pacific Ocean:North Pacific Subtropical Gyre
+collection date	2012-08-26
+environment (biome)	marine pelagic biome
+environment (feature)	marine oligotrophic desert
+environment (material)	ocean water
+depth	150.0
+salinity	35.242
+geographic location (latitude)	22.808683
+instrument model	Illumina MiSeq
+last update date	2015-06-23
+
+study_id	MGYS00005032
+sample_id	SRS794638
+temperature	19.001
+geographic location (longitude)	-158.0503
+geographic location (country and/or sea,region)	Pacific Ocean:North Pacific Subtropical Gyre
+collection date	2012-08-26
+environment (biome)	marine pelagic biome
+environment (feature)	marine oligotrophic desert
+environment (material)	ocean water
+depth	200.0
+salinity	34.948
+geographic location (latitude)	22.808683
+instrument model	Illumina MiSeq
+last update date	2015-06-23
+
+study_id	MGYS00005032
+sample_id	SRS794643
+temperature	11.967
+geographic location (longitude)	-158.0503
+geographic location (country and/or sea,region)	Pacific Ocean:North Pacific Subtropical Gyre
+collection date	2012-08-26
+environment (biome)	marine pelagic biome
+environment (feature)	marine oligotrophic desert
+environment (material)	ocean water
+depth	300.0
+salinity	34.145
+geographic location (latitude)	22.808683
+instrument model	Illumina MiSeq
+last update date	2015-06-23
+
+study_id	MGYS00005032
+sample_id	SRS794644
+temperature	7.028
+geographic location (longitude)	-158.0503
+geographic location (country and/or sea,region)	Pacific Ocean:North Pacific Subtropical Gyre
+collection date	2012-08-26
+environment (biome)	marine pelagic biome
+environment (feature)	marine oligotrophic desert
+environment (material)	ocean water
+depth	500.0
+salinity	34.066
+geographic location (latitude)	22.808683
+instrument model	Illumina MiSeq
+last update date	2015-06-23
+
+study_id	MGYS00004875
+sample_id	SRS2610802
+geographic location (longitude)	-122.10243
+geographic location (country and/or sea,region)	USA:Eden Landing Ponds, San Francisco, CA, USA
+collection date	2011-12-05
+geographic location (latitude)	37.569016
+instrument model	Illumina HiSeq 2000
+last update date	2017-10-27
+
+study_id	MGYS00004874
+sample_id	SRS2610570
+geographic location (longitude)	-67.018875
+geographic location (country and/or sea,region)	Puerto Rico:Bioluminescent Bay, La Paraguera, Puerto Rico
+collection date	2011-12-16
+geographic location (latitude)	17.96725
+instrument model	Illumina HiSeq 2000
+last update date	2017-10-27
+
+study_id	MGYS00003655
+sample_id	SRS1254542
+geographic location (longitude)	15.477167
+geographic location (country and/or sea,region)	Denmark
+collection date	2013-01-01
+salinity	1.72
+geographic location (latitude)	55.468166
+instrument model	Illumina HiSeq 2000
+last update date	2017-01-02
+
+study_id	MGYS00003655
+sample_id	SRS1254543
+geographic location (longitude)	15.477167
+geographic location (country and/or sea,region)	Denmark
+collection date	2013-01-01
+salinity	13.86
+geographic location (latitude)	55.468166
+instrument model	Illumina HiSeq 2000
+last update date	2017-01-02
+
+study_id	MGYS00003655
+sample_id	SRS1254544
+geographic location (longitude)	15.477167
+geographic location (country and/or sea,region)	Denmark
+collection date	2013-01-01
+salinity	13.86
+geographic location (latitude)	55.468166
+instrument model	Illumina HiSeq 2000
+last update date	2017-01-02
+
+study_id	MGYS00003655
+sample_id	SRS1254545
+geographic location (longitude)	10.108167
+geographic location (country and/or sea,region)	Denmark
+collection date	2013-01-01
+salinity	7.48
+geographic location (latitude)	55.004833
+instrument model	Illumina HiSeq 2000
+last update date	2017-01-02
+
+study_id	MGYS00003655
+sample_id	SRS1254551
+geographic location (longitude)	18.254168
+geographic location (country and/or sea,region)	Sweden
+collection date	2013-01-01
+salinity	1.67
+geographic location (latitude)	58.622334
+instrument model	Illumina HiSeq 2000
+last update date	2017-01-02
+
+study_id	MGYS00003655
+sample_id	SRS1254552
+geographic location (longitude)	18.254168
+geographic location (country and/or sea,region)	Sweden
+collection date	2013-01-01
+salinity	12.3
+geographic location (latitude)	58.622334
+instrument model	Illumina HiSeq 2000
+last update date	2017-01-02
+
+study_id	MGYS00003655
+sample_id	SRS1254553
+geographic location (longitude)	18.254168
+geographic location (country and/or sea,region)	Sweden
+collection date	2013-01-01
+salinity	12.3
+geographic location (latitude)	58.622334
+instrument model	Illumina HiSeq 2000
+last update date	2017-01-02
+
+study_id	MGYS00003655
+sample_id	SRS1254555
+geographic location (longitude)	11.670667
+geographic location (country and/or sea,region)	Denmark
+collection date	2013-01-01
+salinity	30.67
+geographic location (latitude)	56.620167
+instrument model	Illumina HiSeq 2000
+last update date	2017-01-02
+
+study_id	MGYS00003655
+sample_id	SRS1254556
+geographic location (longitude)	11.670667
+geographic location (country and/or sea,region)	Denmark
+collection date	2013-01-01
+salinity	31.72
+geographic location (latitude)	56.620167
+instrument model	Illumina HiSeq 2000
+last update date	2017-01-02
+
+study_id	MGYS00003655
+sample_id	SRS1254557
+geographic location (longitude)	11.670667
+geographic location (country and/or sea,region)	Denmark
+collection date	2013-01-01
+salinity	31.72
+geographic location (latitude)	56.620167
+instrument model	Illumina HiSeq 2000
+last update date	2017-01-02
+
+study_id	MGYS00003548
+sample_id	SRS2139748
+geographic location (longitude)	-72.4
+geographic location (country and/or sea,region)	USA:Hudson Canyon
+collection date	2014-07-10
+geographic location (latitude)	39.54
+instrument model	Illumina HiSeq 2500
+last update date	2017-11-08
+
+study_id	MGYS00003345
+sample_id	SRS3033587
+geographic location (longitude)	-111.3798
+geographic location (country and/or sea,region)	Mexico: Gulf of California
+collection date	2008-12-07
+geographic location (latitude)	27.0154
+instrument model	Illumina HiSeq 2500
+last update date	2018-03-11
+
+study_id	MGYS00003337
+sample_id	SRS2139711
+geographic location (longitude)	-72.4
+geographic location (country and/or sea,region)	USA:Hudson Canyon
+collection date	2014-07-10
+geographic location (latitude)	39.55
+instrument model	Illumina HiSeq 2500
+last update date	2017-11-08
+
+study_id	MGYS00003324
+sample_id	SRS2139746
+geographic location (longitude)	-72.41
+geographic location (country and/or sea,region)	USA:Hudson Canyon
+collection date	2014-07-10
+geographic location (latitude)	39.54
+instrument model	Illumina HiSeq 2500
+last update date	2017-11-08
+
+study_id	MGYS00003323
+sample_id	SRS2139745
+geographic location (longitude)	-72.2
+geographic location (country and/or sea,region)	USA:Hudson Canyon
+collection date	2014-07-10
+geographic location (latitude)	39.29
+instrument model	Illumina HiSeq 2500
+last update date	2017-11-08
+
+study_id	MGYS00003322
+sample_id	SRS2139712
+geographic location (longitude)	-72.2
+geographic location (country and/or sea,region)	USA:Hudson Canyon
+collection date	2014-07-10
+geographic location (latitude)	39.29
+instrument model	Illumina HiSeq 2500
+last update date	2017-11-08
+
+study_id	MGYS00003271
+sample_id	SRS1899658
+temperature	2.61
+geographic location (longitude)	-46.08125
+geographic location (country and/or sea,region)	Atlantic Ocean
+collection date	2011-11-08
+environment (biome)	marine
+environment (feature)	ridge flank
+environment (material)	sediment
+depth	59.0
+pH	7.67
+geographic location (latitude)	22.75589
+instrument model	NextSeq 500
+last update date	2017-01-07
+

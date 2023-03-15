@@ -1,0 +1,453 @@
+study_id	MGYS00005845
+study_id	MGYS00005867
+sample_id	SRS7984752
+geographic location (longitude)	8.847
+geographic location (country and/or sea,region)	Germany: Bremen, pond
+collection date	1996-01-01
+geographic location (latitude)	53.11
+
+study_id	MGYS00005845
+study_id	MGYS00005867
+sample_id	SRS7832272
+geographic location (longitude)	8.847
+geographic location (country and/or sea,region)	Germany: Bremen, pond
+collection date	1996-01-01
+geographic location (latitude)	53.11
+
+study_id	MGYS00005845
+study_id	MGYS00005867
+sample_id	SRS7832282
+geographic location (longitude)	8.847
+geographic location (country and/or sea,region)	Germany: Bremen, pond
+collection date	1996-01-01
+geographic location (latitude)	53.11
+
+study_id	MGYS00005845
+study_id	MGYS00005867
+sample_id	SRS7832275
+geographic location (longitude)	8.847
+geographic location (country and/or sea,region)	Germany: Bremen, pond
+collection date	1996-01-01
+geographic location (latitude)	53.11
+
+study_id	MGYS00005845
+study_id	MGYS00005867
+sample_id	SRS7984751
+geographic location (longitude)	8.847
+geographic location (country and/or sea,region)	Germany: Bremen, pond
+collection date	1996-01-01
+geographic location (latitude)	53.11
+
+study_id	MGYS00005845
+study_id	MGYS00005867
+sample_id	SRS7832285
+geographic location (longitude)	8.847
+geographic location (country and/or sea,region)	Germany: Bremen, pond
+collection date	1996-01-01
+geographic location (latitude)	53.11
+
+study_id	MGYS00005648
+sample_id	SRS4600533
+geographic location (longitude)	77.27
+geographic location (country and/or sea,region)	India: Faizupur Khadar , New Delhi
+collection date	2017-02-21
+geographic location (latitude)	28.18
+
+study_id	MGYS00005646
+sample_id	SRS4592470
+geographic location (longitude)	77.18
+geographic location (country and/or sea,region)	India: Okhla Barrage, New Delhi
+collection date	2017-02-21
+geographic location (latitude)	28.32
+
+study_id	MGYS00005644
+sample_id	SRS4592195
+geographic location (longitude)	77.13
+geographic location (country and/or sea,region)	India: Wazaribad , New Delhi
+collection date	2017-02-21
+geographic location (latitude)	28.42
+
+study_id	MGYS00005642
+sample_id	SRS4555986
+geographic location (longitude)	80.26
+geographic location (country and/or sea,region)	India: Jana village, Kanpur
+collection date	2015-12-17
+geographic location (latitude)	26.24
+
+study_id	MGYS00005640
+sample_id	SRS4570483
+geographic location (longitude)	80.25
+geographic location (country and/or sea,region)	India: Jajmau, Kanpur
+collection date	2015-12-17
+geographic location (latitude)	26.25
+
+study_id	MGYS00005638
+sample_id	SRS4570482
+geographic location (longitude)	80.19
+geographic location (country and/or sea,region)	India: Nawabganj, Kanpur
+collection date	2015-12-17
+geographic location (latitude)	26.3
+
+study_id	MGYS00005636
+sample_id	SRS4592439
+geographic location (longitude)	88.27
+geographic location (country and/or sea,region)	India: Lalbag, west Bangal
+collection date	2016-08-04
+geographic location (latitude)	24.17
+
+study_id	MGYS00005634
+sample_id	SRS4592471
+geographic location (longitude)	87.57
+geographic location (country and/or sea,region)	India: Paharghati Dhulian, west Bengal
+collection date	2016-08-04
+geographic location (latitude)	26.4
+
+study_id	MGYS00005632
+sample_id	SRS4592440
+geographic location (longitude)	87.55
+geographic location (country and/or sea,region)	India: Farakka, west Bengal
+collection date	2016-08-04
+geographic location (latitude)	24.47
+
+study_id	MGYS00003605
+study_id	MGYS00003978
+sample_id	ERS2876942
+instrument model	Illumina HiSeq 2500
+ENA checklist	ERC000021
+last update date	2018-11-06
+
+study_id	MGYS00003605
+study_id	MGYS00003978
+sample_id	ERS2876943
+instrument model	Illumina HiSeq 2500
+ENA checklist	ERC000021
+last update date	2018-11-06
+
+study_id	MGYS00003605
+study_id	MGYS00003978
+sample_id	ERS2876944
+instrument model	Illumina HiSeq 2500
+ENA checklist	ERC000021
+last update date	2018-11-06
+
+study_id	MGYS00003605
+study_id	MGYS00003978
+sample_id	ERS2876945
+instrument model	Illumina HiSeq 2500
+ENA checklist	ERC000021
+last update date	2018-11-06
+
+study_id	MGYS00003605
+study_id	MGYS00003978
+sample_id	ERS2876946
+instrument model	Illumina HiSeq 2500
+ENA checklist	ERC000021
+last update date	2018-11-06
+
+study_id	MGYS00003605
+study_id	MGYS00003978
+sample_id	ERS2876947
+instrument model	Illumina HiSeq 2500
+ENA checklist	ERC000021
+last update date	2018-11-06
+
+study_id	MGYS00003605
+study_id	MGYS00003978
+sample_id	ERS2876948
+instrument model	Illumina HiSeq 2500
+ENA checklist	ERC000021
+last update date	2018-11-06
+
+study_id	MGYS00003605
+study_id	MGYS00003978
+sample_id	ERS2876949
+instrument model	Illumina HiSeq 2500
+ENA checklist	ERC000021
+last update date	2018-11-06
+
+study_id	MGYS00003605
+study_id	MGYS00003978
+sample_id	ERS2876950
+instrument model	Illumina HiSeq 2500
+ENA checklist	ERC000021
+last update date	2018-11-06
+
+study_id	MGYS00003342
+sample_id	SRS2395001
+geographic location (longitude)	125.0078
+geographic location (country and/or sea,region)	China
+collection date	2014-10-16
+geographic location (latitude)	47.5233
+instrument model	Illumina HiSeq 2500
+last update date	2017-07-31
+
+study_id	MGYS00002321
+sample_id	SRS1609438
+geographic location (longitude)	-79.266
+geographic location (country and/or sea,region)	Canada: Niagara
+collection date	2013-08-31
+geographic location (latitude)	43.2047
+instrument model	Illumina HiSeq 2000
+
+study_id	MGYS00002321
+sample_id	SRS1609439
+geographic location (longitude)	-79.266
+geographic location (country and/or sea,region)	Canada: Niagara
+collection date	2013-08-31
+geographic location (latitude)	43.2047
+instrument model	Illumina HiSeq 2000
+
+study_id	MGYS00002321
+sample_id	SRS1609440
+geographic location (longitude)	-79.4187
+geographic location (country and/or sea,region)	Canada: Niagara
+collection date	2013-08-28
+geographic location (latitude)	42.8723
+instrument model	Illumina HiSeq 2000
+
+study_id	MGYS00002321
+sample_id	SRS1609441
+geographic location (longitude)	-79.4187
+geographic location (country and/or sea,region)	Canada: Niagara
+collection date	2013-08-28
+geographic location (latitude)	42.8723
+instrument model	Illumina HiSeq 2000
+
+study_id	MGYS00002321
+sample_id	SRS1609442
+geographic location (longitude)	-79.3982
+geographic location (country and/or sea,region)	Canada: Niagara
+collection date	2013-08-28
+geographic location (latitude)	42.8698
+instrument model	Illumina HiSeq 2000
+
+study_id	MGYS00002321
+sample_id	SRS1609443
+geographic location (longitude)	-79.3982
+geographic location (country and/or sea,region)	Canada: Niagara
+collection date	2013-08-28
+geographic location (latitude)	42.8698
+instrument model	Illumina HiSeq 2000
+
+study_id	MGYS00002321
+sample_id	SRS1609444
+geographic location (longitude)	-79.6183
+geographic location (country and/or sea,region)	Canada: Niagara
+collection date	2012-08-03
+geographic location (latitude)	43.2247
+instrument model	Illumina HiSeq 2000
+
+study_id	MGYS00002321
+sample_id	SRS1609445
+geographic location (longitude)	-79.6183
+geographic location (country and/or sea,region)	Canada: Niagara
+collection date	2012-08-03
+geographic location (latitude)	43.2247
+instrument model	Illumina HiSeq 2000
+
+study_id	MGYS00002321
+sample_id	SRS1609446
+geographic location (longitude)	-79.3862
+geographic location (country and/or sea,region)	Canada: Niagara
+collection date	2012-08-09
+geographic location (latitude)	42.8638
+instrument model	Illumina HiSeq 2000
+
+study_id	MGYS00002321
+sample_id	SRS1609447
+geographic location (longitude)	-79.3862
+geographic location (country and/or sea,region)	Canada: Niagara
+collection date	2012-08-09
+geographic location (latitude)	42.8638
+instrument model	Illumina HiSeq 2000
+
+study_id	MGYS00002321
+sample_id	SRS1609448
+geographic location (longitude)	-79.3981
+geographic location (country and/or sea,region)	Canada: Niagara
+collection date	2012-08-09
+geographic location (latitude)	42.8698
+instrument model	Illumina HiSeq 2000
+
+study_id	MGYS00002321
+sample_id	SRS1609449
+geographic location (longitude)	-79.3982
+geographic location (country and/or sea,region)	Canada: Niagara
+collection date	2012-08-09
+geographic location (latitude)	42.8698
+instrument model	Illumina HiSeq 2000
+
+study_id	MGYS00002321
+sample_id	SRS1609450
+geographic location (longitude)	-79.3982
+geographic location (country and/or sea,region)	Canada: Niagara
+collection date	2013-08-14
+geographic location (latitude)	42.8698
+instrument model	Illumina HiSeq 2000
+
+study_id	MGYS00002321
+sample_id	SRS1609451
+geographic location (longitude)	-79.4187
+geographic location (country and/or sea,region)	Canada: Niagara
+collection date	2012-08-09
+geographic location (latitude)	42.8723
+instrument model	Illumina HiSeq 2000
+
+study_id	MGYS00002321
+sample_id	SRS1609452
+geographic location (longitude)	-79.4188
+geographic location (country and/or sea,region)	Canada: Niagara
+collection date	2012-08-09
+geographic location (latitude)	42.8723
+instrument model	Illumina HiSeq 2000
+
+study_id	MGYS00002321
+sample_id	SRS1609453
+geographic location (longitude)	-79.4272
+geographic location (country and/or sea,region)	Canada: Niagara
+collection date	2012-08-09
+geographic location (latitude)	42.8722
+instrument model	Illumina HiSeq 2000
+
+study_id	MGYS00002321
+sample_id	SRS1609454
+geographic location (longitude)	-79.4272
+geographic location (country and/or sea,region)	Canada: Niagara
+collection date	2012-08-09
+geographic location (latitude)	42.8722
+instrument model	Illumina HiSeq 2000
+
+study_id	MGYS00002321
+sample_id	SRS1609455
+geographic location (longitude)	-79.2669
+geographic location (country and/or sea,region)	Canada: Niagara
+collection date	2012-08-03
+geographic location (latitude)	43.2043
+instrument model	Illumina HiSeq 2000
+
+study_id	MGYS00002321
+sample_id	SRS1609456
+geographic location (longitude)	-79.2669
+geographic location (country and/or sea,region)	Canada: Niagara
+collection date	2012-08-03
+geographic location (latitude)	43.2043
+instrument model	Illumina HiSeq 2000
+
+study_id	MGYS00002321
+sample_id	SRS1609457
+geographic location (longitude)	-79.266
+geographic location (country and/or sea,region)	Canada: Niagara
+collection date	2012-08-03
+geographic location (latitude)	43.2047
+instrument model	Illumina HiSeq 2000
+
+study_id	MGYS00002321
+sample_id	SRS1609458
+geographic location (longitude)	-79.266
+geographic location (country and/or sea,region)	Canada: Niagara
+collection date	2012-08-03
+geographic location (latitude)	43.2047
+instrument model	Illumina HiSeq 2000
+
+study_id	MGYS00002321
+sample_id	SRS1609459
+geographic location (longitude)	-79.2648
+geographic location (country and/or sea,region)	Canada: Niagara
+collection date	2012-08-03
+geographic location (latitude)	43.2052
+instrument model	Illumina HiSeq 2000
+
+study_id	MGYS00002321
+sample_id	SRS1609460
+geographic location (longitude)	-79.2648
+geographic location (country and/or sea,region)	Canada: Niagara
+collection date	2012-08-03
+geographic location (latitude)	43.2052
+instrument model	Illumina HiSeq 2000
+
+study_id	MGYS00002321
+sample_id	SRS1609461
+geographic location (longitude)	-79.4187
+geographic location (country and/or sea,region)	Canada: Niagara
+collection date	2013-08-14
+geographic location (latitude)	42.8723
+instrument model	Illumina HiSeq 2000
+
+study_id	MGYS00002321
+sample_id	SRS1609462
+geographic location (longitude)	-79.2323
+geographic location (country and/or sea,region)	Canada: Niagara
+collection date	2012-08-09
+geographic location (latitude)	42.8746
+instrument model	Illumina HiSeq 2000
+
+study_id	MGYS00002321
+sample_id	SRS1609463
+geographic location (longitude)	-79.2323
+geographic location (country and/or sea,region)	Canada: Niagara
+collection date	2012-08-09
+geographic location (latitude)	42.8746
+instrument model	Illumina HiSeq 2000
+
+study_id	MGYS00002321
+sample_id	SRS1609464
+geographic location (longitude)	-79.3982
+geographic location (country and/or sea,region)	Canada: Niagara
+collection date	2013-08-14
+geographic location (latitude)	42.8698
+instrument model	Illumina HiSeq 2000
+
+study_id	MGYS00002321
+sample_id	SRS1609465
+geographic location (longitude)	-79.4187
+geographic location (country and/or sea,region)	Canada: Niagara
+collection date	2013-08-14
+geographic location (latitude)	42.8723
+instrument model	Illumina HiSeq 2000
+
+study_id	MGYS00002321
+sample_id	SRS1609466
+geographic location (longitude)	-79.2669
+geographic location (country and/or sea,region)	Canada: Niagara
+collection date	2013-08-21
+geographic location (latitude)	43.2043
+instrument model	Illumina HiSeq 2000
+
+study_id	MGYS00002321
+sample_id	SRS1609467
+geographic location (longitude)	-79.2669
+geographic location (country and/or sea,region)	Canada: Niagara
+collection date	2013-08-21
+geographic location (latitude)	43.2043
+instrument model	Illumina HiSeq 2000
+
+study_id	MGYS00002321
+sample_id	SRS1609468
+geographic location (longitude)	-79.3862
+geographic location (country and/or sea,region)	Canada: Niagara
+collection date	2013-08-28
+geographic location (latitude)	42.8638
+instrument model	Illumina HiSeq 2000
+
+study_id	MGYS00002321
+sample_id	SRS1609469
+geographic location (longitude)	-79.3862
+geographic location (country and/or sea,region)	Canada: Niagara
+collection date	2013-08-28
+geographic location (latitude)	42.8638
+instrument model	Illumina HiSeq 2000
+
+study_id	MGYS00000406
+study_id	MGYS00002025
+sample_id	ERS524245
+investigation type	metagenome
+project name	Metagenome-UraniumSpike
+collection date	2013-05-14
+environmental package	sediment
+sequencing method	Illumina HiSeq 2500
+depth	1
+geographic location (elevation)	17
+NCBI sample classification	749907
+instrument model	Illumina HiSeq 2500
+ENA checklist	GSC MIxS sediment (ERC000021)
+
