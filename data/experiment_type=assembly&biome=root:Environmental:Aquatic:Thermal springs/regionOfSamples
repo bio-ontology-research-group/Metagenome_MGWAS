@@ -1,0 +1,131 @@
+sample_id	location	continent	koppen_geiger_zone	zone_description
+SRS1972149	Park County, Wyoming, United States	North America	Dfc	Subartic, severe winter, no dry season, cool summer
+SRS1971321	Teton County, Wyoming, United States	North America	Dfc	Subartic, severe winter, no dry season, cool summer
+SRS1947333	1779, Wilbur Springs Road, Wilbur Hot Springs, Colusa County, California, 95987, United States	North America	Csa	Mediterranean, hot summer
+SRS1946303	Kiowa County, Oklahoma, United States	North America	Cfa	Humid subtropical, no dry season
+SRS1947328	Wilbur Springs Road, Wilbur Hot Springs, Colusa County, California, United States	North America	Csa	Mediterranean, hot summer
+DRS082837	Haruyamacho, Kagoshima, Kagoshima Prefecture, 892-8677, Japan	Asia	Cfa	Humid subtropical, no dry season
+DRS082839	Kami-Fukumoto-Cho, Kagoshima, Kagoshima Prefecture, 892-8677, Japan	Asia	Cfa	Humid subtropical, no dry season
+DRS082840	Ibusuki Sky Line, Chuzancho, Chuzan, Kagoshima, Kagoshima Prefecture, 892-8677, Japan	Asia	Cfa	Humid subtropical, no dry season
+DRS082841	Chuzancho, Chuzan, Kagoshima, Kagoshima Prefecture, 892-8677, Japan	Asia	Cfa	Humid subtropical, no dry season
+DRS082834	Chuzancho, Gokabeppucho, Kagoshima, Kagoshima Prefecture, 892-8677, Japan	Asia	Cfa	Humid subtropical, no dry season
+DRS082838	Chuzancho, Gokabeppucho, Kagoshima, Kagoshima Prefecture, 892-8677, Japan	Asia	Cfa	Humid subtropical, no dry season
+DRS082836	Chuzancho, Gokabeppucho, Kagoshima, Kagoshima Prefecture, 892-8677, Japan	Asia	Cfa	Humid subtropical, no dry season
+DRS082835	Kagoshima Kaseda line, Kami-Fukumoto-Cho, Kagoshima, Kagoshima Prefecture, 892-8677, Japan	Asia	Cfa	Humid subtropical, no dry season
+DRS082842	Ibusuki Sky Line, Chuzancho, Chuzan, Kagoshima, Kagoshima Prefecture, 892-8677, Japan	Asia	Cfa	Humid subtropical, no dry season
+SRS1589162	Rajpur Tahsil, Balrampur, Chhattisgarh, 497119, India	Asia	Cwa	Humid subtropical, dry winter
+SRS1589163	Rajpur Tahsil, Balrampur, Chhattisgarh, 497119, India	Asia	Cwa	Humid subtropical, dry winter
+SRS1589165	Rajpur Tahsil, Balrampur, Chhattisgarh, 497119, India	Asia	Cwa	Humid subtropical, dry winter
+SRS1589166	Rajpur Tahsil, Balrampur, Chhattisgarh, 497119, India	Asia	Cwa	Humid subtropical, dry winter
+SRS1589167	Pipariya Tahsil, Narmadapuram, Madhya Pradesh, India	Asia	As	Tropical wet and dry or savanna ('summer' dry season)
+SRS1589160	Pipariya Tahsil, Narmadapuram, Madhya Pradesh, India	Asia	As	Tropical wet and dry or savanna ('summer' dry season)
+SRS1589161	Pipariya Tahsil, Narmadapuram, Madhya Pradesh, India	Asia	As	Tropical wet and dry or savanna ('summer' dry season)
+SRS2797666	Погран.Застава, Уш-Белдир, Kaa-Khemsky District, Tuva Republic, Siberian Federal District, Russia	Europe	Dwc	Subartic, dry winter, cool summer
+SRS5681002	White Island, Old miners' track, Bay of Plenty, New Zealand	Oceania	Cfb	Marine west coast, warm summer
+SRS2907353	Orakai Korako, Rotorua Lakes District, Waikato, New Zealand	Oceania	Cfb	Marine west coast, warm summer
+SRS1633001	Carmichaels Post Office, 111, North Market Street, Carmichaels, Greene County, Pennsylvania, 15320, United States	North America	Cfb	Marine west coast, warm summer
+SRS1632999	Carmichaels Post Office, 111, North Market Street, Carmichaels, Greene County, Pennsylvania, 15320, United States	North America	Cfb	Marine west coast, warm summer
+SRS1633000	Carmichaels Post Office, 111, North Market Street, Carmichaels, Greene County, Pennsylvania, 15320, United States	North America	Cfb	Marine west coast, warm summer
+SRS1338813	Gravel Pit, La Cloclia, Brewster County, United States	North America	BWh	Subtropical desert
+SRS1338839	Chaves County, New Mexico, United States	North America	BSk	Mid-latitude steppe
+SRS1338824	San Francisco Bay Trail, Fremont, Alameda County, California, United States	North America	Csb	Mediterranean, warm summer
+SRS1338811	Gravel Pit, La Cloclia, Brewster County, United States	North America	BWh	Subtropical desert
+SRS1338798	Lower Geyser Basin, Teton County, Wyoming, United States	North America	Dfc	Subartic, severe winter, no dry season, cool summer
+SRS1338816	Gravel Pit, La Cloclia, Brewster County, United States	North America	BWh	Subtropical desert
+SRS1338832	Chaves County, New Mexico, United States	North America	BSk	Mid-latitude steppe
+SRS1338826	San Francisco Bay Trail, Fremont, Alameda County, California, United States	North America	Csb	Mediterranean, warm summer
+SRS1338851	Alfalfa County, Oklahoma, United States	North America	Cfa	Humid subtropical, no dry season
+SRS1338829	6707, C3-006, Chaves County, New Mexico, 88230, United States	North America	BSk	Mid-latitude steppe
+SRS1338849	Alfalfa County, Oklahoma, United States	North America	Cfa	Humid subtropical, no dry season
+SRS1338804	McIntosh County, Georgia, 31327, United States	North America	Cfa	Humid subtropical, no dry season
+SRS1338831	6707, C3-006, Chaves County, New Mexico, 88230, United States	North America	BSk	Mid-latitude steppe
+SRS1338821	65, Marshlands Road, Fremont, Alameda County, California, 94555, United States	North America	Csb	Mediterranean, warm summer
+SRS1338844	Brazoria County, United States	North America	Cfa	Humid subtropical, no dry season
+SRS1338850	Alfalfa County, Oklahoma, United States	North America	Cfa	Humid subtropical, no dry season
+SRS1338808	Baker Hot Springs Road, Juab County, Utah, United States	North America	BSk	Mid-latitude steppe
+SRS1338823	65, Marshlands Road, Fremont, Alameda County, California, 94555, United States	North America	Csb	Mediterranean, warm summer
+SRS1338854	Hidalgo County, Texas, United States	North America	Cfa	Humid subtropical, no dry season
+SRS1338835	Chaves County, New Mexico, United States	North America	BSk	Mid-latitude steppe
+SRS1338852	Alfalfa County, Oklahoma, United States	North America	Cfa	Humid subtropical, no dry season
+SRS1338841	Chaves County, New Mexico, United States	North America	BSk	Mid-latitude steppe
+SRS1338848	Alfalfa County, Oklahoma, United States	North America	Cfa	Humid subtropical, no dry season
+SRS1338812	Gravel Pit, La Cloclia, Brewster County, United States	North America	BWh	Subtropical desert
+SRS1338827	San Francisco Bay Trail, Fremont, Alameda County, California, United States	North America	Csb	Mediterranean, warm summer
+SRS1338801	VC08, Sulphur Springs, Sandoval County, New Mexico, United States	North America	Cfb	Marine west coast, warm summer
+SRS1338819	Hot Springs, Hot Springs Road, Hot Springs, Brewster County, United States	North America	BWh	Subtropical desert
+SRS1338833	Chaves County, New Mexico, United States	North America	BSk	Mid-latitude steppe
+SRS1338807	Baker Hot Springs Road, Juab County, Utah, United States	North America	BSk	Mid-latitude steppe
+SRS1338840	Chaves County, New Mexico, United States	North America	BSk	Mid-latitude steppe
+SRS1338828	Bottomless Lakes Road, Chaves County, New Mexico, United States	North America	BSk	Mid-latitude steppe
+SRS1338809	Baker Hot Springs Road, Juab County, Utah, United States	North America	BSk	Mid-latitude steppe
+SRS1338846	Brazoria County, United States	North America	Cfa	Humid subtropical, no dry season
+SRS1338796	Solfatara Creek, Park County, Wyoming, United States	North America	Dfc	Subartic, severe winter, no dry season, cool summer
+SRS1338817	Hot Springs, Hot Springs Road, Hot Springs, Brewster County, United States	North America	BWh	Subtropical desert
+SRS1338834	Chaves County, New Mexico, United States	North America	BSk	Mid-latitude steppe
+SRS1338799	Lower Geyser Basin, Teton County, Wyoming, United States	North America	Dfc	Subartic, severe winter, no dry season, cool summer
+SRS1338818	Hot Springs, Hot Springs Road, Hot Springs, Brewster County, United States	North America	BWh	Subtropical desert
+SRS1338810	Gravel Pit, La Cloclia, Brewster County, United States	North America	BWh	Subtropical desert
+SRS1338830	6707, C3-006, Chaves County, New Mexico, 88230, United States	North America	BSk	Mid-latitude steppe
+SRS1338802	Avenida Parque Nacional, Centro Vacacional de Boquerón, Boquerón, Cabo Rojo, Puerto Rico, 00622, United States	North America	Am	Tropical monsoon
+SRS1338843	Chaves County, New Mexico, United States	North America	BSk	Mid-latitude steppe
+SRS1338792	Inyo County, California, United States	North America	BSk	Mid-latitude steppe
+SRS1338825	San Francisco Bay Trail, Fremont, Alameda County, California, United States	North America	Csb	Mediterranean, warm summer
+SRS1338822	65, Marshlands Road, Fremont, Alameda County, California, 94555, United States	North America	Csb	Mediterranean, warm summer
+SRS1338853	Hidalgo County, Texas, United States	North America	Cfa	Humid subtropical, no dry season
+SRS1338794	Division Road, Churchill County, Nevada, United States	North America	BWk	Mid-latitude desert
+SRS1338820	Hot Springs, Hot Springs Road, Hot Springs, Brewster County, United States	North America	BWh	Subtropical desert
+SRS1338845	Brazoria County, United States	North America	Cfa	Humid subtropical, no dry season
+SRS1338805	Summerhouse Road, Charleston County, South Carolina, United States	North America	Cfa	Humid subtropical, no dry season
+SRS1338800	Lower Geyser Basin, Teton County, Wyoming, United States	North America	Dfc	Subartic, severe winter, no dry season, cool summer
+SRS1338793	Inyo County, California, United States	North America	BSk	Mid-latitude steppe
+SRS1338838	Chaves County, New Mexico, United States	North America	BSk	Mid-latitude steppe
+SRS1338815	Gravel Pit, La Cloclia, Brewster County, United States	North America	BWh	Subtropical desert
+SRS1338814	Gravel Pit, La Cloclia, Brewster County, United States	North America	BWh	Subtropical desert
+SRS1338842	Chaves County, New Mexico, United States	North America	BSk	Mid-latitude steppe
+SRS1338797	Lower Geyser Basin, Teton County, Wyoming, United States	North America	Dfc	Subartic, severe winter, no dry season, cool summer
+SRS1338803	McIntosh County, Georgia, 31327, United States	North America	Cfa	Humid subtropical, no dry season
+SRS1338847	Brazoria County, United States	North America	Cfa	Humid subtropical, no dry season
+SRS1338806	Baker Hot Springs Road, Juab County, Utah, United States	North America	BSk	Mid-latitude steppe
+SRS1338795	Division Road, Churchill County, Nevada, United States	North America	BWk	Mid-latitude desert
+SRS1338836	Chaves County, New Mexico, United States	North America	BSk	Mid-latitude steppe
+SRS1338837	Chaves County, New Mexico, United States	North America	BSk	Mid-latitude steppe
+SRS1338791	Inyo County, California, United States	North America	BSk	Mid-latitude steppe
+ERS223618	None	None	None	None
+ERS223619	None	None	None	None
+SRS4517417	Park County, Wyoming, United States	North America	Dfc	Subartic, severe winter, no dry season, cool summer
+SRS4517418	Park County, Wyoming, United States	North America	Dfc	Subartic, severe winter, no dry season, cool summer
+SRS2704733	Yelizovsky District, Kamchatka Krai, Far Eastern Federal District, Russia	Europe	Dfc	Subartic, severe winter, no dry season, cool summer
+SRS2704734	Yelizovsky District, Kamchatka Krai, Far Eastern Federal District, Russia	Europe	Dfc	Subartic, severe winter, no dry season, cool summer
+SRS1946302	Kiowa County, Oklahoma, United States	North America	Cfa	Humid subtropical, no dry season
+SRS1616313	If it has no other explanation, it must be art, South Marsh Loop Trail, Elkhorn, Monterey County, California, 95012, United States	North America	Csb	Mediterranean, warm summer
+SRS2212711	Dewar Creek Trail, Area E (Saint Mary/Skookumchuck), Regional District of East Kootenay, British Columbia, Canada	North America	Dfc	Subartic, severe winter, no dry season, cool summer
+SRS1947324	Chalk Bluff Road, Inyo County, California, United States	North America	Dsc	Subartic, subalpine
+SRS2212713	Dewar Creek Trail, Area E (Saint Mary/Skookumchuck), Regional District of East Kootenay, British Columbia, Canada	North America	Dfc	Subartic, severe winter, no dry season, cool summer
+SRS3222658	Great Boiling Spring, Old State Route 34, Washoe County, Nevada, United States	North America	BSk	Mid-latitude steppe
+SRS3222549	Great Boiling Spring, Old State Route 34, Washoe County, Nevada, United States	North America	BSk	Mid-latitude steppe
+SRS2212714	Dewar Creek Trail, Area E (Saint Mary/Skookumchuck), Regional District of East Kootenay, British Columbia, Canada	North America	Dfc	Subartic, severe winter, no dry season, cool summer
+SRS2212712	Dewar Creek Trail, Area E (Saint Mary/Skookumchuck), Regional District of East Kootenay, British Columbia, Canada	North America	Dfc	Subartic, severe winter, no dry season, cool summer
+SRS2212710	Dewar Creek Trail, Area E (Saint Mary/Skookumchuck), Regional District of East Kootenay, British Columbia, Canada	North America	Dfc	Subartic, severe winter, no dry season, cool summer
+SRS1946334	Mutale Ward 10, Tshipise, Mutale Local Municipality, Vhembe District Municipality, Limpopo, South Africa	Africa	BSh	Subtropical steppe
+SRS1616310	Teton County, Wyoming, United States	North America	Dfc	Subartic, severe winter, no dry season, cool summer
+SRS1971322	Teton County, Wyoming, United States	North America	Dfc	Subartic, severe winter, no dry season, cool summer
+SRS1946335	Tshipise, Musina Ward 1, Musina Local Municipality, Vhembe District Municipality, Limpopo, South Africa	Africa	BSh	Subtropical steppe
+SRS1616306	Lower Geyser Basin, Teton County, Wyoming, United States	North America	Dfc	Subartic, severe winter, no dry season, cool summer
+SRS1569127	Washoe County, Nevada, United States	North America	BSk	Mid-latitude steppe
+SRS1616314	Ebony Geyser, Norris Geyser Basin, Park County, Wyoming, United States	North America	Dfc	Subartic, severe winter, no dry season, cool summer
+SRS1971309	Teton County, Wyoming, United States	North America	Dfc	Subartic, severe winter, no dry season, cool summer
+ERS1261129	Bhuntar Manikaran Highway, Goj, Kasol, Kullu, Himachal Pradesh, 175105, India	Asia	Dwb	Humid continental, severe dry winter, warm summer
+ERS1563791	Hotel Shivalik, Bhuntar Manikaran Highway, Goj, Kasol, Kullu, Himachal Pradesh, 175105, India	Asia	Dwb	Humid continental, severe dry winter, warm summer
+ERS1563792	Hotel Shivalik, Bhuntar Manikaran Highway, Goj, Kasol, Kullu, Himachal Pradesh, 175105, India	Asia	Dwb	Humid continental, severe dry winter, warm summer
+ERS1617558	Reserva Natural Marinha do Campo Hidrotermal Menez Gwen	None	None	None
+ERS1617559	None	None	None	None
+ERS1628942	None	None	None	None
+ERS1628943	None	None	None	None
+ERS1628944	None	None	None	None
+ERS1628945	None	None	None	None
+ERS1258237	None	None	None	None
+ERS1258238	None	None	None	None
+ERS1258239	None	None	None	None
+ERS1258240	None	None	None	None
+ERS1258241	None	None	None	None
+ERS613976	None	None	None	None

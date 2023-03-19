@@ -1,0 +1,187 @@
+sample_id	location	continent	koppen_geiger_zone	zone_description
+ERS2955255	Ballia, Uttar Pradesh, 277001, India	Asia	Cwa	Humid subtropical, dry winter
+ERS2955257	NH128B, Fefana, Ballia, Uttar Pradesh, 277503, India	Asia	Cwa	Humid subtropical, dry winter
+ERS2955256	Ballia, Uttar Pradesh, 277001, India	Asia	Cwa	Humid subtropical, dry winter
+ERS12024826	556, Creekside Road, Hurley, Town of Hurley, Ulster County, New York, 12443, United States	North America	Dfa	Humid continental, no dry season, hot summer
+ERS12024828	556, Creekside Road, Hurley, Town of Hurley, Ulster County, New York, 12443, United States	North America	Dfa	Humid continental, no dry season, hot summer
+ERS12024832	556, Creekside Road, Hurley, Town of Hurley, Ulster County, New York, 12443, United States	North America	Dfa	Humid continental, no dry season, hot summer
+ERS12024824	556, Creekside Road, Hurley, Town of Hurley, Ulster County, New York, 12443, United States	North America	Dfa	Humid continental, no dry season, hot summer
+ERS12024833	556, Creekside Road, Hurley, Town of Hurley, Ulster County, New York, 12443, United States	North America	Dfa	Humid continental, no dry season, hot summer
+ERS12024827	556, Creekside Road, Hurley, Town of Hurley, Ulster County, New York, 12443, United States	North America	Dfa	Humid continental, no dry season, hot summer
+ERS12024823	556, Creekside Road, Hurley, Town of Hurley, Ulster County, New York, 12443, United States	North America	Dfa	Humid continental, no dry season, hot summer
+ERS12024829	556, Creekside Road, Hurley, Town of Hurley, Ulster County, New York, 12443, United States	North America	Dfa	Humid continental, no dry season, hot summer
+ERS12024834	556, Creekside Road, Hurley, Town of Hurley, Ulster County, New York, 12443, United States	North America	Dfa	Humid continental, no dry season, hot summer
+ERS12024831	556, Creekside Road, Hurley, Town of Hurley, Ulster County, New York, 12443, United States	North America	Dfa	Humid continental, no dry season, hot summer
+ERS12024825	556, Creekside Road, Hurley, Town of Hurley, Ulster County, New York, 12443, United States	North America	Dfa	Humid continental, no dry season, hot summer
+ERS12024830	556, Creekside Road, Hurley, Town of Hurley, Ulster County, New York, 12443, United States	North America	Dfa	Humid continental, no dry season, hot summer
+ERS11617675	None	None	None	None
+ERS7551489	road to 86th quarter, Timiryazevskoe, Кировский район, Kaydalovka, Zorkaltsevskoye Rural Settlement, Tomsk municipal region, Tomsk Oblast, Siberian Federal District, 636113, Russia	Europe	Dfb	Humid continental, no dry season, warm summer
+ERS7551488	Межениновка — Басандайка, Basandayka, Межениновское сельское поселение, Tomsk municipal region, Tomsk Oblast, Siberian Federal District, Russia	Europe	Dfc	Subartic, severe winter, no dry season, cool summer
+ERS7551487	Нижнекаменский сельсовет, Ordynsky District, Novosibirsk Oblast, Siberian Federal District, Russia	Europe	Dfb	Humid continental, no dry season, warm summer
+ERS7551486	01К-04, Zalesovsky District, Altai Krai, Siberian Federal District, Russia	Europe	Dfb	Humid continental, no dry season, warm summer
+ERS5835113	21, Þverás, Selás, Árbær, Reykjavik, Capital Region, 110, Iceland	Europe	Cfc	Marine west coast, cool summer
+ERS5835115	Skaftárhreppur, Southern Region, Iceland	Europe	ET	Tundra
+ERS5835116	Blængsskáli, Skaftárhreppur, Southern Region, Iceland	Europe	ET	Tundra
+ERS5835133	Bláskógabyggð, Southern Region, Iceland	Europe	ET	Tundra
+ERS5835140	Bláskógabyggð, Southern Region, Iceland	Europe	ET	Tundra
+ERS5835119	Skaftárhreppur, Southern Region, Iceland	Europe	ET	Tundra
+ERS5835128	Oxlidkojan, Åsele kommun, Västerbotten County, Sweden	Europe	Dfc	Subartic, severe winter, no dry season, cool summer
+ERS5835121	Álftavatnskrókur, Skaftárhreppur, Southern Region, Iceland	Europe	ET	Tundra
+ERS5835139	Bláskógabyggð, Southern Region, Iceland	Europe	ET	Tundra
+ERS5835108	Kjalarnes, Reykjavik, Capital Region, Iceland	Europe	ET	Tundra
+ERS5835141	Skaftárhreppur, Southern Region, Iceland	Europe	Cfc	Marine west coast, cool summer
+ERS5835137	Bláskógabyggð, Southern Region, Iceland	Europe	ET	Tundra
+ERS5835134	Bláskógabyggð, Southern Region, Iceland	Europe	ET	Tundra
+ERS5835109	Kjalarnes, Reykjavik, Capital Region, Iceland	Europe	ET	Tundra
+ERS5835138	Bláskógabyggð, Southern Region, Iceland	Europe	ET	Tundra
+ERS5835120	Fjallabaksleið syðri, Snæbýli 2, Skaftárhreppur, Southern Region, Iceland	Europe	ET	Tundra
+ERS5835118	Blængsskáli, Skaftárhreppur, Southern Region, Iceland	Europe	ET	Tundra
+ERS5835130	Rangárþing ytra, Southern Region, Iceland	Europe	ET	Tundra
+ERS5835124	Krakatindsleið, Rangárþing ytra, Southern Region, Iceland	Europe	ET	Tundra
+ERS5835126	Oxlidkojan, Åsele kommun, Västerbotten County, Sweden	Europe	Dfc	Subartic, severe winter, no dry season, cool summer
+ERS5835122	Álftavatnskrókur, Skaftárhreppur, Southern Region, Iceland	Europe	ET	Tundra
+ERS5835136	Bláskógabyggð, Southern Region, Iceland	Europe	ET	Tundra
+ERS5835123	Blængsskáli, Skaftárhreppur, Southern Region, Iceland	Europe	ET	Tundra
+ERS5835125	Krakatindsleið, Rangárþing ytra, Southern Region, Iceland	Europe	ET	Tundra
+ERS5835132	Bláskógabyggð, Southern Region, Iceland	Europe	ET	Tundra
+ERS5835117	Blængsskáli, Skaftárhreppur, Southern Region, Iceland	Europe	ET	Tundra
+ERS5835135	Bláskógabyggð, Southern Region, Iceland	Europe	ET	Tundra
+ERS5835110	Austurleið, Fljótsdalshreppur, Eastern Region, Iceland	Europe	ET	Tundra
+ERS5835129	Landmannahellir, Rangárþing ytra, Southern Region, Iceland	Europe	ET	Tundra
+ERS4578031	None	None	None	None
+ERS1284777	Önkormányzat, Toldi utca, Taszár, Kaposvári járás, Somogy, Southern Transdanubia, Transdanubia, 7261, Hungary	Europe	Cfb	Marine west coast, warm summer
+ERS1284766	Önkormányzat, Toldi utca, Taszár, Kaposvári járás, Somogy, Southern Transdanubia, Transdanubia, 7261, Hungary	Europe	Cfb	Marine west coast, warm summer
+ERS5917444	Landmannahellir, Rangárþing ytra, Southern Region, Iceland	Europe	ET	Tundra
+ERS5917436	Landmannahellir, Rangárþing ytra, Southern Region, Iceland	Europe	ET	Tundra
+ERS5917453	Landmannahellir, Rangárþing ytra, Southern Region, Iceland	Europe	ET	Tundra
+ERS5917447	Landmannahellir, Rangárþing ytra, Southern Region, Iceland	Europe	ET	Tundra
+ERS5917446	Landmannahellir, Rangárþing ytra, Southern Region, Iceland	Europe	ET	Tundra
+ERS5917438	Landmannahellir, Rangárþing ytra, Southern Region, Iceland	Europe	ET	Tundra
+ERS5917439	Landmannahellir, Rangárþing ytra, Southern Region, Iceland	Europe	ET	Tundra
+ERS5917445	Landmannahellir, Rangárþing ytra, Southern Region, Iceland	Europe	ET	Tundra
+ERS5917435	Landmannahellir, Rangárþing ytra, Southern Region, Iceland	Europe	ET	Tundra
+ERS5917452	Landmannahellir, Rangárþing ytra, Southern Region, Iceland	Europe	ET	Tundra
+ERS5917437	Landmannahellir, Rangárþing ytra, Southern Region, Iceland	Europe	ET	Tundra
+ERS4282891	Mackenzie Highway, Mackenzie County, Alberta, Canada	North America	Dfc	Subartic, severe winter, no dry season, cool summer
+ERS4282889	Mackenzie Highway, Dehcho Region, Northwest Territories, Canada	North America	Dfc	Subartic, severe winter, no dry season, cool summer
+ERS4282888	Dehcho Region, Northwest Territories, Canada	North America	Dfc	Subartic, severe winter, no dry season, cool summer
+ERS4282880	Dehcho Region, Northwest Territories, Canada	North America	Dfc	Subartic, severe winter, no dry season, cool summer
+ERS4282887	Dempster Highway, Fort McPherson, Gwich'in Settlement Area, Northwest Territories, X0E 0J0, Canada	North America	Dfc	Subartic, severe winter, no dry season, cool summer
+ERS4282883	Gwich'in Settlement Area, Northwest Territories, Canada	North America	Dfc	Subartic, severe winter, no dry season, cool summer
+ERS4282882	Dehcho Region, Northwest Territories, Canada	North America	Dfc	Subartic, severe winter, no dry season, cool summer
+ERS4282896	Northern Sunrise County, Alberta, Canada	North America	Dfc	Subartic, severe winter, no dry season, cool summer
+ERS4282892	Mackenzie County, Alberta, Canada	North America	Dfc	Subartic, severe winter, no dry season, cool summer
+ERS4282900	Northern Sunrise County, Alberta, Canada	North America	Dfc	Subartic, severe winter, no dry season, cool summer
+ERS4282886	Gwich'in Settlement Area, Northwest Territories, Canada	North America	Dfc	Subartic, severe winter, no dry season, cool summer
+ERS4282897	Northern Sunrise County, Alberta, Canada	North America	Dfc	Subartic, severe winter, no dry season, cool summer
+ERS4282901	Christ's College (University of Cambridge), Saint Andrew's Street, Petersfield, Cambridge, Cambridgeshire, Cambridgeshire and Peterborough, England, CB2 3BU, United Kingdom	Europe	Cfb	Marine west coast, warm summer
+ERS4282890	Mackenzie Highway, Mackenzie County, Alberta, Canada	North America	Dfc	Subartic, severe winter, no dry season, cool summer
+ERS4282881	Dehcho Region, Northwest Territories, Canada	North America	Dfc	Subartic, severe winter, no dry season, cool summer
+ERS4282885	Dempster Highway, Fort McPherson, Gwich'in Settlement Area, Northwest Territories, X0E 0J0, Canada	North America	Dfc	Subartic, severe winter, no dry season, cool summer
+ERS4282884	Fort McPherson, Gwich'in Settlement Area, Northwest Territories, X0E 0J0, Canada	North America	Dfc	Subartic, severe winter, no dry season, cool summer
+ERS4282893	Mackenzie County, Alberta, Canada	North America	Dfc	Subartic, severe winter, no dry season, cool summer
+ERS4282894	Mackenzie County, Alberta, Canada	North America	Dfc	Subartic, severe winter, no dry season, cool summer
+ERS4282895	Mackenzie County, Alberta, Canada	North America	Dfc	Subartic, severe winter, no dry season, cool summer
+ERS4282898	Northern Sunrise County, Alberta, Canada	North America	Dfc	Subartic, severe winter, no dry season, cool summer
+ERS4282899	Northern Sunrise County, Alberta, Canada	North America	Dfc	Subartic, severe winter, no dry season, cool summer
+ERS916591	D 261, Le Moulin du Prieur, Notre-Dame, Saint-Anthème, Ambert, Puy-de-Dôme, Auvergne-Rhône-Alpes, Metropolitan France, 63660, France	Europe	Cfb	Marine west coast, warm summer
+ERS916592	D 261, Le Moulin du Prieur, Notre-Dame, Saint-Anthème, Ambert, Puy-de-Dôme, Auvergne-Rhône-Alpes, Metropolitan France, 63660, France	Europe	Cfb	Marine west coast, warm summer
+ERS916588	D 261, Le Moulin du Prieur, Notre-Dame, Saint-Anthème, Ambert, Puy-de-Dôme, Auvergne-Rhône-Alpes, Metropolitan France, 63660, France	Europe	Cfb	Marine west coast, warm summer
+ERS916590	D 261, Le Moulin du Prieur, Notre-Dame, Saint-Anthème, Ambert, Puy-de-Dôme, Auvergne-Rhône-Alpes, Metropolitan France, 63660, France	Europe	Cfb	Marine west coast, warm summer
+ERS916589	D 261, Le Moulin du Prieur, Notre-Dame, Saint-Anthème, Ambert, Puy-de-Dôme, Auvergne-Rhône-Alpes, Metropolitan France, 63660, France	Europe	Cfb	Marine west coast, warm summer
+SRS591962	Athens Township, Isanti County, Minnesota, United States	North America	Dfb	Humid continental, no dry season, warm summer
+SRS591976	Oakdale Drive, Ross Township, Kalamazoo County, Michigan, 49060, United States	North America	Dfa	Humid continental, no dry season, hot summer
+ERS463915	Swamp Road, Murray Bridge, The Rural City of Murray Bridge, South Australia, 5253, Australia	Oceania	BSk	Mid-latitude steppe
+ERS463914	Pump Road, Northern Heights, The Rural City of Murray Bridge, South Australia, 5253, Australia	Oceania	BSk	Mid-latitude steppe
+ERS456739	Veraval Port, Veraval, Patan Veraval Taluka, Gir Somnath District, Gujarat, 362200, India	Asia	BSh	Subtropical steppe
+ERS456740	Veraval Port, Veraval, Patan Veraval Taluka, Gir Somnath District, Gujarat, 362200, India	Asia	BSh	Subtropical steppe
+ERS456741	Veraval Port, Veraval, Patan Veraval Taluka, Gir Somnath District, Gujarat, 362200, India	Asia	BSh	Subtropical steppe
+ERS846451	Stampede Road, Healy, Denali, Alaska, United States	North America	Dfc	Subartic, severe winter, no dry season, cool summer
+ERS846452	Stampede Road, Healy, Denali, Alaska, United States	North America	Dfc	Subartic, severe winter, no dry season, cool summer
+ERS846453	Stampede Road, Healy, Denali, Alaska, United States	North America	Dfc	Subartic, severe winter, no dry season, cool summer
+ERS846455	Stampede Road, Healy, Denali, Alaska, United States	North America	Dfc	Subartic, severe winter, no dry season, cool summer
+ERS846456	Stampede Road, Healy, Denali, Alaska, United States	North America	Dfc	Subartic, severe winter, no dry season, cool summer
+ERS846457	Stampede Road, Healy, Denali, Alaska, United States	North America	Dfc	Subartic, severe winter, no dry season, cool summer
+ERS846458	Stampede Road, Healy, Denali, Alaska, United States	North America	Dfc	Subartic, severe winter, no dry season, cool summer
+ERS846469	Stampede Road, Healy, Denali, Alaska, United States	North America	Dfc	Subartic, severe winter, no dry season, cool summer
+ERS1374536	None	None	None	None
+ERS1289676	None	None	None	None
+SAMN02954284	None	None	None	None
+ERS656882	None	None	None	None
+ERS656884	None	None	None	None
+ERS656887	None	None	None	None
+ERS656888	None	None	None	None
+ERS656893	None	None	None	None
+SRS266246	None	None	None	None
+SRS481054	None	None	None	None
+SRS481055	None	None	None	None
+SRS481056	None	None	None	None
+SRS481063	None	None	None	None
+SRS481064	None	None	None	None
+SRS481066	None	None	None	None
+ERS1214244	None	None	None	None
+SRS697243	None	None	None	None
+SRS697338	None	None	None	None
+SRS697339	None	None	None	None
+SRS591979	None	None	None	None
+SRS591965	None	None	None	None
+ERS799765	None	None	None	None
+ERS799752	None	None	None	None
+ERS799771	None	None	None	None
+SRS811901	None	None	None	None
+SRS567760	None	None	None	None
+SRS502313	None	None	None	None
+ERS1075580	None	None	None	None
+SRS398270	None	None	None	None
+SRS396926	None	None	None	None
+SRS265882	None	None	None	None
+SRS1100065	None	None	None	None
+ERS434640	Pump Road, Northern Heights, The Rural City of Murray Bridge, South Australia, 5253, Australia	Oceania	BSk	Mid-latitude steppe
+ERS434642	Pump Road, Northern Heights, The Rural City of Murray Bridge, South Australia, 5253, Australia	Oceania	BSk	Mid-latitude steppe
+ERS434643	Pump Road, Northern Heights, The Rural City of Murray Bridge, South Australia, 5253, Australia	Oceania	BSk	Mid-latitude steppe
+ERS434644	Pump Road, Northern Heights, The Rural City of Murray Bridge, South Australia, 5253, Australia	Oceania	BSk	Mid-latitude steppe
+ERS434645	Pump Road, Northern Heights, The Rural City of Murray Bridge, South Australia, 5253, Australia	Oceania	BSk	Mid-latitude steppe
+SRS345522	None	None	None	None
+SRS345598	None	None	None	None
+SRS345600	None	None	None	None
+SRS345606	None	None	None	None
+ERS627838	Abasand, Fort McMurray, Wood Buffalo, Alberta, T9J 1G9, Canada	North America	Dfb	Humid continental, no dry season, warm summer
+ERS627839	Abasand, Fort McMurray, Wood Buffalo, Alberta, T9J 1G9, Canada	North America	Dfb	Humid continental, no dry season, warm summer
+ERS627840	Abasand, Fort McMurray, Wood Buffalo, Alberta, T9J 1G9, Canada	North America	Dfb	Humid continental, no dry season, warm summer
+ERS627841	Abasand, Fort McMurray, Wood Buffalo, Alberta, T9J 1G9, Canada	North America	Dfb	Humid continental, no dry season, warm summer
+ERS627842	Range Road 15, Municipal District of Fairview, Alberta, Canada	North America	Dfc	Subartic, severe winter, no dry season, cool summer
+ERS627843	Range Road 15, Municipal District of Fairview, Alberta, Canada	North America	Dfc	Subartic, severe winter, no dry season, cool summer
+ERS627844	Range Road 15, Municipal District of Fairview, Alberta, Canada	North America	Dfc	Subartic, severe winter, no dry season, cool summer
+ERS627845	Range Road 15, Municipal District of Fairview, Alberta, Canada	North America	Dfc	Subartic, severe winter, no dry season, cool summer
+ERS627856	San Juan County, New Mexico, United States	North America	Dfb	Humid continental, no dry season, warm summer
+ERS627857	San Juan County, New Mexico, United States	North America	Dfb	Humid continental, no dry season, warm summer
+ERS627858	San Juan County, New Mexico, United States	North America	Dfb	Humid continental, no dry season, warm summer
+ERS627859	San Juan County, New Mexico, United States	North America	Dfb	Humid continental, no dry season, warm summer
+ERS627860	San Juan County, New Mexico, United States	North America	Dfb	Humid continental, no dry season, warm summer
+ERS627861	San Juan County, New Mexico, United States	North America	Dfb	Humid continental, no dry season, warm summer
+ERS627862	San Juan County, New Mexico, United States	North America	Dfb	Humid continental, no dry season, warm summer
+ERS627863	San Juan County, New Mexico, United States	North America	Dfb	Humid continental, no dry season, warm summer
+ERS627864	Новотроицкое сельское поселение, Chitinsky District, Zabaykalsky Krai, Far Eastern Federal District, Russia	Europe	Dwc	Subartic, dry winter, cool summer
+ERS627865	Новотроицкое сельское поселение, Chitinsky District, Zabaykalsky Krai, Far Eastern Federal District, Russia	Europe	Dwc	Subartic, dry winter, cool summer
+ERS627866	Новотроицкое сельское поселение, Chitinsky District, Zabaykalsky Krai, Far Eastern Federal District, Russia	Europe	Dwc	Subartic, dry winter, cool summer
+ERS627867	Новотроицкое сельское поселение, Chitinsky District, Zabaykalsky Krai, Far Eastern Federal District, Russia	Europe	Dwc	Subartic, dry winter, cool summer
+ERS627868	Усойское эвенкийское сельское поселение, Bauntovsky Rayon, Buryatia, Far Eastern Federal District, Russia	Europe	Dwc	Subartic, dry winter, cool summer
+ERS627869	Усойское эвенкийское сельское поселение, Bauntovsky Rayon, Buryatia, Far Eastern Federal District, Russia	Europe	Dwc	Subartic, dry winter, cool summer
+ERS627870	102, 6 Avenue Southeast, Medicine Hat, Alberta, T1A 2S2, Canada	North America	BSk	Mid-latitude steppe
+ERS627871	102, 6 Avenue Southeast, Medicine Hat, Alberta, T1A 2S2, Canada	North America	BSk	Mid-latitude steppe
+ERS627872	102, 6 Avenue Southeast, Medicine Hat, Alberta, T1A 2S2, Canada	North America	BSk	Mid-latitude steppe
+ERS627873	102, 6 Avenue Southeast, Medicine Hat, Alberta, T1A 2S2, Canada	North America	BSk	Mid-latitude steppe
+ERS627874	102, 6 Avenue Southeast, Medicine Hat, Alberta, T1A 2S2, Canada	North America	BSk	Mid-latitude steppe
+ERS627875	102, 6 Avenue Southeast, Medicine Hat, Alberta, T1A 2S2, Canada	North America	BSk	Mid-latitude steppe
+ERS627882	102, 6 Avenue Southeast, Medicine Hat, Alberta, T1A 2S2, Canada	North America	BSk	Mid-latitude steppe
+ERS580791	None	None	None	None
+ERS239108	None	None	None	None
+ERS580793	None	None	None	None
+ERS580794	None	None	None	None
+ERS580795	None	None	None	None
+ERS437996	Pump Road, Northern Heights, The Rural City of Murray Bridge, South Australia, 5253, Australia	Oceania	BSk	Mid-latitude steppe
+ERS437997	Pump Road, Northern Heights, The Rural City of Murray Bridge, South Australia, 5253, Australia	Oceania	BSk	Mid-latitude steppe
+ERS437998	Pump Road, Northern Heights, The Rural City of Murray Bridge, South Australia, 5253, Australia	Oceania	BSk	Mid-latitude steppe
+ERS437999	Pump Road, Northern Heights, The Rural City of Murray Bridge, South Australia, 5253, Australia	Oceania	BSk	Mid-latitude steppe
+ERS438000	Pump Road, Northern Heights, The Rural City of Murray Bridge, South Australia, 5253, Australia	Oceania	BSk	Mid-latitude steppe
+ERS438002	Swamp Road, Murray Bridge, The Rural City of Murray Bridge, South Australia, 5253, Australia	Oceania	BSk	Mid-latitude steppe
