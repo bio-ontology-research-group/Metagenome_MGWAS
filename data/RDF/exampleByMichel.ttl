@@ -1,0 +1,65 @@
+PREFIX wgs: <http://www.w3.org/2003/01/geo/wgs84_pos#>
+PREFIX geo: <http://www.opengis.net/#geosparql>
+PREFIX obo: <http://purl.obolibrary.org/obo/>
+PREFIX envo: <http://purl.obolibrary.org/obo/ENVO_>
+PREFIX sio: <http://semanticscience.org/resource/>
+PREFIX qudt: <http://qudt.org/vocab/unit/>
+PREFIX egp: <http://w3id.org/eqp/vocab/>
+PREFIX : <http://w3id.org/eqp/>   ### to be selected
+PREFIX pato: <http://purl.obolibrary.org/obo/PATO_>
+
+:D1 a schema:Dataset;
+rdfs:label "Empty Quarter Metagenomics Dataset"@en;
+rdfs:description ""@en;
+    	schema:identifier "EGP-D1" ;
+    	schema:dateCreated "2023-04-04T13:00:00Z"^^schema:Date .
+
+:D1R1 a schema:DataRecord ;
+schema:dateCreated "2023-04-04T13:00:00Z"^^schema:Date ;
+schema:identifier "EGP-D1-S1" ;
+schema:isPartOf :dataset ;
+schema:mainEntity :1Sr1 .
+
+:S1 a schema:Location, geo:Feature, :Site ;
+	wgs:long "45.166511388888885";
+ 	wgs:lat "19.149770555555556";
+ 	egp:atm_pressure "928"^^qudt:MilliBAR;
+ 	egp:temperature "20.7"^^qudt:DEG_C;
+ 	egp:humidity "62.5"^^qudt:PERCENT;
+ 
+sio:hasAttribute [ 
+a sio:Measurement; 
+sio:hasValue "928"; 
+sio:hasUnit qudt:MilliBAR; 
+sio:isMeasurementValue [ a pato:PATO_0001025]  # pressure
+];
+sio:hasAttribute [ a sio:Temperature; sio:hasValue "20.7"; sio:hasUnit qudt:DEG_C ];
+sio:hasAttribute [ a sio:Humidity; sio:hasValue "62.5"; sio:hasUnit qudt:PERCENT ].
+
+:1Sr1 a schema:Sample, geo:Feature, obo:OBI_0000747; # material sample
+rdfs:label "Sample 1 from surface" ;
+schema:identifier "1Sr1";
+geo:hasGeometry :1Sr1_geo ;
+wgs:long "45.166511388888885" ;
+    	wgs:lat "19.149770555555556" ;
+	sio:isLocatedIn envo:01000179;    # biome
+	sio:isAdjacentTo envo:01000018;  # feature
+	sio:isDerivedFrom envo:00005800; # material
+	:depth "0";
+	
+:collected-at :S1 .
+
+
+:1Sr1_geo a geo:Geometry ;
+    geo:asWKT "Point(45.166511388888885 19.149770555555556)"^^geo:wktLiteral .
+
+
+:eqp a sio:Project;
+  rdfs:label "Empty Quarter Metagenome Sequencing Project" .
+
+:borg a sio:Group;
+  sio:isLocatedIn :kaust .
+
+:kaust a sio:University;
+  rdfs:label "King Abdullah University for Science and Technology"@en;
+ :abbr "KAUST" .
