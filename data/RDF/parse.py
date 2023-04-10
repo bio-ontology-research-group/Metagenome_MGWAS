@@ -120,7 +120,7 @@ def main():
     EQP = PREFIX["eqp"]
     BORG = PREFIX["borg"]
     KAUST = PREFIX["kaust"]
-    ABRR = PREFIX["abrr"]
+    ABBR = PREFIX["abbr"]
 
     # Define the Dataset
     graph.add((D1, RDF.type, SCHEMA["Dataset"]))
@@ -239,7 +239,7 @@ def main():
         graph.add((KAUST, RDF.type, SIO["University"]))
         graph.add((KAUST, RDFS.label, Literal(
             "King Abdullah University of Science and Technology", lang="en")))
-        graph.add((KAUST, ABRR, Literal("KAUST")))
+        graph.add((KAUST, ABBR, Literal("KAUST")))
 
         # Define the relationships
         graph.add((SR1, SCHEMA["isPartOf"], D1))
