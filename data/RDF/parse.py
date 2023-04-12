@@ -1,16 +1,15 @@
 from rdflib import Graph, Namespace, URIRef, Literal, XSD
 from rdflib.namespace import RDF, RDFS
-from rdflib.tools.rdf2dot import rdf2dot 
+from rdflib.tools.rdf2dot import rdf2dot
 import uuid
-from datetime import datetime
 import pandas as pd
-import numpy as np
 
 
 # get data from table.tsv, prepare and put it in a list
 def get_data():
-    # read the TSV file
-    data = pd.read_csv('table.tsv', sep='\t')
+    # read the xlsx file
+    data = pd.read_excel(
+        'Empty Quarter Project site and samples.xlsx', sheet_name='sites')
 
     # data[gps] separate at lat and len
     data['lat'] = data['gps'].str.split(',').str[0]
@@ -40,11 +39,8 @@ def get_data():
     data = data.reset_index(drop=True)
 
     # convert date and time to ISO 8601
-    data['date'] = pd.to_datetime(data['date'], format='%d/%m/%Y')
-    data['time'] = pd.to_datetime(data['time'], format='%H:%M')
-    data['date'] = data['date'].dt.strftime('%Y-%m-%d')
-    data['time'] = data['time'].dt.strftime('%H:%M')
-    data['date'] = data['date'].astype(str) + 'T' + data['time'].astype(str) + '+03:00'
+    data['date'] = data['date'].astype(
+        str) + 'T' + data['time'].astype(str) + '+03:00'
     data = data.drop(['time'], axis=1)
 
     # named variables of properties
@@ -58,7 +54,6 @@ def get_data():
     biomeList = list(data['biome'])
     featureList = list(data['feature'])
 
-
     return siteIDList, dateList, latList, lonList, tempList, humList, pressList, biomeList, featureList
 
 
@@ -66,7 +61,8 @@ def get_data():
 def get_enum():
 
     # read the TSV file
-    data = pd.read_csv('enum.tsv', sep='\t')
+    data = pd.read_excel(
+        'Empty Quarter Project site and samples.xlsx', sheet_name='enum')
 
     # prepare data for the graph
     data = data.drop(['definition'], axis=1)
@@ -147,9 +143,12 @@ def main():
     graph.add((d, SCHEMA["dateCreated"], Literal(
         "2023-04-04T13:00:00Z", datatype=SCHEMA["Date"])))
     graph.add((d, DCT.publisher, PREFIX["borg"]))
-    graph.add((d, DCT.contributor, URIRef("http://orcid.org/0000-0003-4727-9435")))
-    graph.add((d, DCT.conformsTo, URIRef("https://www.w3.org/TR/hcls-dataset/")))
-    graph.add((d, DCT.license, URIRef("https://creativecommons.org/licenses/by/4.0/")))
+    graph.add((d, DCT.contributor, URIRef(
+        "http://orcid.org/0000-0003-4727-9435")))
+    graph.add((d, DCT.conformsTo, URIRef(
+        "https://www.w3.org/TR/hcls-dataset/")))
+    graph.add((d, DCT.license, URIRef(
+        "https://creativecommons.org/licenses/by/4.0/")))
     graph.add((d, DCT.language, URIRef("http://lexvo.org/id/iso639-3/en")))
     graph.add((d, DCT['format'], Literal("text/turtle")))
 
@@ -164,7 +163,7 @@ def main():
         biome = biomeList[i]
         feature = featureList[i]
         date = dateList[i]
-        
+
         _pressure = uuid.uuid4()
         _temperature = uuid.uuid4()
         _humidity = uuid.uuid4()
@@ -195,7 +194,8 @@ def main():
 
         # Site
         graph.add((S, RDF.type, GEO["Feature"]))
-        graph.add((S, RDFS.label, Literal("Site {} in Empty Quarter Project".format(int(siteID)))))
+        graph.add((S, RDFS.label, Literal(
+            "Site {} in Empty Quarter Project".format(int(siteID)))))
         graph.add((S, SCHEMA["identifier"], Literal(
             "EGP-S{}".format(int(siteID)))))
         graph.add((S, RDF.type, SCHEMA["Location"]))
@@ -211,7 +211,7 @@ def main():
         graph.add((S, SIO["isAdjacentTo"], ENVO[str(biome)]))
         graph.add((S, GEO["hasGeometry"], S1_GEOMETRY))
 
-        #pressure
+        # pressure
         pressure = URIRef(str(_pressure))
         graph.add((S, SIO.hasAttribute, pressure))
         graph.add((pressure, RDFS.label, Literal(
@@ -221,10 +221,11 @@ def main():
         graph.add((pressure, SIO.hasUnit, QUDT.MilliBAR))
         pressure_value = URIRef(str(_pressure_value))
         graph.add((pressure, SIO.isMeasurementValueOf, pressure_value))
-        graph.add((pressure, SIO.measuredAt, Literal(date, datatype=XSD.dateTime)))
+        graph.add((pressure, SIO.measuredAt, Literal(
+            date, datatype=XSD.dateTime)))
         graph.add((pressure_value, RDF.type, PATO["0001025"]))
 
-        #temperature
+        # temperature
         temperature = URIRef(str(_temperature))
         graph.add((S, SIO.hasAttribute, temperature))
         graph.add((temperature, RDFS.label, Literal(
@@ -234,10 +235,11 @@ def main():
         graph.add((temperature, SIO.hasUnit, QUDT.DEG_C))
         temperature_value = URIRef(str(_temperature_value))
         graph.add((temperature, SIO.isMeasurementValueOf, temperature_value))
-        graph.add((temperature, SIO.measuredAt, Literal(date, datatype=XSD.dateTime)))
+        graph.add((temperature, SIO.measuredAt,
+                  Literal(date, datatype=XSD.dateTime)))
         graph.add((temperature_value, RDF.type, PATO["0000146"]))
 
-        #humidity
+        # humidity
         humidity = URIRef(str(_humidity))
         graph.add((S, SIO.hasAttribute, humidity))
         graph.add((humidity, RDFS.label, Literal(
@@ -247,7 +249,8 @@ def main():
         graph.add((humidity, SIO.hasUnit, QUDT.PERCENT))
         humidity_value = URIRef(str(_humidity_value))
         graph.add((humidity, SIO.isMeasurementValueOf, humidity_value))
-        graph.add((humidity, SIO.measuredAt, Literal(date, datatype=XSD.dateTime)))
+        graph.add((humidity, SIO.measuredAt, Literal(
+            date, datatype=XSD.dateTime)))
         graph.add((humidity_value, RDF.type, PATO["0015009"]))
 
         # Create the geometry
@@ -259,10 +262,11 @@ def main():
         graph.add((SR1, RDF.type, SCHEMA["Sample"]))
         graph.add((SR1, RDF.type, GEO["Feature"]))
         graph.add((SR1, RDF.type, SIO["Sample"]))
-        graph.add((SR1, RDFS.label, Literal("Sample {} from surface of Site {}".format(1, int(siteID)))))
+        graph.add((SR1, RDFS.label, Literal(
+            "Sample {} from surface of Site {}".format(1, int(siteID)))))
         graph.add((SR1, SCHEMA["identifier"],
                    Literal("{}Sr1".format(int(siteID)))))
-        graph.add((SR1, SIO["isDerivedFrom"], ENVO["00005800"])) #sand
+        graph.add((SR1, SIO["isDerivedFrom"], ENVO["00005800"]))  # sand
         graph.add((SR1, EGP["depth"], Literal("surface")))
         graph.add((SR1, EGP["replicate"], Literal("1")))
         graph.add((SR1, EGP["collected-at"], S))
@@ -280,8 +284,8 @@ def main():
         graph.add((BORG, SIO["partOF"], KAUST))
 
     # dot file and png
-    # with open('graph.dot', 'w') as f: 
-        # rdf2dot(graph,f)   
+    # with open('graph.dot', 'w') as f:
+        # rdf2dot(graph,f)
     # write in turtle format to output file
     graph.serialize(destination='output1.ttl', format='turtle')
 
